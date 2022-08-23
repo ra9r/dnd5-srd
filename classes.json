@@ -1,6 +1,6 @@
 [
 	{
-		"index": 1,
+		"id": "1",
 		"name": "Barbarian",
 		"hit_die": 12,
 		"proficiency_choices": [
@@ -9,27 +9,27 @@
 				"type": "proficiencies",
 				"from": [
 					{
-						"url": "http://www.dnd5eapi.co/api/proficiencies/106",
+						"ref": "proficiencies/106",
 						"name": "Skill: Animal Handling"
 					},
 					{
-						"url": "http://www.dnd5eapi.co/api/proficiencies/108",
+						"ref": "proficiencies/108",
 						"name": "Skill: Athletics"
 					},
 					{
-						"url": "http://www.dnd5eapi.co/api/proficiencies/112",
+						"ref": "proficiencies/112",
 						"name": "Skill: Intimidation"
 					},
 					{
-						"url": "http://www.dnd5eapi.co/api/proficiencies/115",
+						"ref": "proficiencies/115",
 						"name": "Skill: Nature"
 					},
 					{
-						"url": "http://www.dnd5eapi.co/api/proficiencies/116",
+						"ref": "proficiencies/116",
 						"name": "Skill: Perception"
 					},
 					{
-						"url": "http://www.dnd5eapi.co/api/proficiencies/122",
+						"ref": "proficiencies/122",
 						"name": "Skill: Survival"
 					}
 				]
@@ -68,16 +68,16 @@
 			}
 		],
 		"starting_equipment": {
-			"url": "http://www.dnd5eapi.co/api/startingequipment/1",
+			"ref": "startingequipment/1",
 			"class": "Barbarian"
 		},
 		"class_levels": {
-			"url": "http://www.dnd5eapi.co/api/classes/barbarian/levels",
+			"ref": "classes/barbarian/levels",
 			"class": "Barbarian"
 		},
 		"subclasses": [
 			{
-				"url": "http://www.dnd5eapi.co/api/subclasses/1",
+				"ref": "subclasses/1",
 				"name": "Berserker"
 			}
 		],
@@ -87,7 +87,7 @@
 		"url": "http://www.dnd5eapi.co/api/classes/1"
 	},
 	{
-		"index": 2,
+		"id": "2",
 		"name": "Bard",
 		"hit_die": 8,
 		"proficiency_choices": [
@@ -96,75 +96,75 @@
 				"type": "proficiencies",
 				"from": [
 					{
-						"url": "http://www.dnd5eapi.co/api/proficiencies/105",
+						"ref": "proficiencies/105",
 						"name": "Skill: Acrobatics"
 					},
 					{
-						"url": "http://www.dnd5eapi.co/api/proficiencies/106",
+						"ref": "proficiencies/106",
 						"name": "Skill: Animal Handling"
 					},
 					{
-						"url": "http://www.dnd5eapi.co/api/proficiencies/107",
+						"ref": "proficiencies/107",
 						"name": "Skill: Arcana"
 					},
 					{
-						"url": "http://www.dnd5eapi.co/api/proficiencies/108",
+						"ref": "proficiencies/108",
 						"name": "Skill: Athletics"
 					},
 					{
-						"url": "http://www.dnd5eapi.co/api/proficiencies/109",
+						"ref": "proficiencies/109",
 						"name": "Skill: Deception"
 					},
 					{
-						"url": "http://www.dnd5eapi.co/api/proficiencies/110",
+						"ref": "proficiencies/110",
 						"name": "Skill: History"
 					},
 					{
-						"url": "http://www.dnd5eapi.co/api/proficiencies/111",
+						"ref": "proficiencies/111",
 						"name": "Skill: Insight"
 					},
 					{
-						"url": "http://www.dnd5eapi.co/api/proficiencies/112",
+						"ref": "proficiencies/112",
 						"name": "Skill: Intimidation"
 					},
 					{
-						"url": "http://www.dnd5eapi.co/api/proficiencies/113",
+						"ref": "proficiencies/113",
 						"name": "Skill: Investigation"
 					},
 					{
-						"url": "http://www.dnd5eapi.co/api/proficiencies/114",
+						"ref": "proficiencies/114",
 						"name": "Skill: Medicine"
 					},
 					{
-						"url": "http://www.dnd5eapi.co/api/proficiencies/115",
+						"ref": "proficiencies/115",
 						"name": "Skill: Nature"
 					},
 					{
-						"url": "http://www.dnd5eapi.co/api/proficiencies/116",
+						"ref": "proficiencies/116",
 						"name": "Skill: Perception"
 					},
 					{
-						"url": "http://www.dnd5eapi.co/api/proficiencies/117",
+						"ref": "proficiencies/117",
 						"name": "Skill: Performance"
 					},
 					{
-						"url": "http://www.dnd5eapi.co/api/proficiencies/118",
+						"ref": "proficiencies/118",
 						"name": "Skill: Persuasion"
 					},
 					{
-						"url": "http://www.dnd5eapi.co/api/proficiencies/119",
+						"ref": "proficiencies/119",
 						"name": "Skill: Religion"
 					},
 					{
-						"url": "http://www.dnd5eapi.co/api/proficiencies/120",
+						"ref": "proficiencies/120",
 						"name": "Skill: Sleight of Hand"
 					},
 					{
-						"url": "http://www.dnd5eapi.co/api/proficiencies/121",
+						"ref": "proficiencies/121",
 						"name": "Skill: Stealth"
 					},
 					{
-						"url": "http://www.dnd5eapi.co/api/proficiencies/122",
+						"ref": "proficiencies/122",
 						"name": "Skill: Survival"
 					}
 				]
@@ -174,43 +174,43 @@
 				"type": "proficiencies",
 				"from": [
 					{
-						"url": "http://www.dnd5eapi.co/api/proficiencies/81",
+						"ref": "proficiencies/81",
 						"name": "Bagpipes"
 					},
 					{
-						"url": "http://www.dnd5eapi.co/api/proficiencies/82",
+						"ref": "proficiencies/82",
 						"name": "Drum"
 					},
 					{
-						"url": "http://www.dnd5eapi.co/api/proficiencies/83",
+						"ref": "proficiencies/83",
 						"name": "Dulcimer"
 					},
 					{
-						"url": "http://www.dnd5eapi.co/api/proficiencies/84",
+						"ref": "proficiencies/84",
 						"name": "Flute"
 					},
 					{
-						"url": "http://www.dnd5eapi.co/api/proficiencies/85",
+						"ref": "proficiencies/85",
 						"name": "Lute"
 					},
 					{
-						"url": "http://www.dnd5eapi.co/api/proficiencies/86",
+						"ref": "proficiencies/86",
 						"name": "Lyre"
 					},
 					{
-						"url": "http://www.dnd5eapi.co/api/proficiencies/87",
+						"ref": "proficiencies/87",
 						"name": "Horn"
 					},
 					{
-						"url": "http://www.dnd5eapi.co/api/proficiencies/88",
+						"ref": "proficiencies/88",
 						"name": "Pan flute"
 					},
 					{
-						"url": "http://www.dnd5eapi.co/api/proficiencies/89",
+						"ref": "proficiencies/89",
 						"name": "Shawm"
 					},
 					{
-						"url": "http://www.dnd5eapi.co/api/proficiencies/90",
+						"ref": "proficiencies/90",
 						"name": "Viol"
 					}
 				]
@@ -253,27 +253,27 @@
 			}
 		],
 		"starting_equipment": {
-			"url": "http://www.dnd5eapi.co/api/startingequipment/2",
+			"ref": "startingequipment/2",
 			"class": "Bard"
 		},
 		"class_levels": {
-			"url": "http://www.dnd5eapi.co/api/classes/bard/levels",
+			"ref": "classes/bard/levels",
 			"class": "Bard"
 		},
 		"subclasses": [
 			{
-				"url": "http://www.dnd5eapi.co/api/subclasses/2",
+				"ref": "subclasses/2",
 				"name": "Lore"
 			}
 		],
 		"spellcasting": {
-			"url": "http://www.dnd5eapi.co/api/spellcasting/1",
+			"ref": "spellcasting/1",
 			"class": "Bard"
 		},
 		"url": "http://www.dnd5eapi.co/api/classes/2"
 	},
 	{
-		"index": 3,
+		"id": "3",
 		"name": "Cleric",
 		"hit_die": 8,
 		"proficiency_choices": [
@@ -282,23 +282,23 @@
 				"type": "proficiencies",
 				"from": [
 					{
-						"url": "http://www.dnd5eapi.co/api/proficiencies/110",
+						"ref": "proficiencies/110",
 						"name": "Skill: History"
 					},
 					{
-						"url": "http://www.dnd5eapi.co/api/proficiencies/111",
+						"ref": "proficiencies/111",
 						"name": "Skill: Insight"
 					},
 					{
-						"url": "http://www.dnd5eapi.co/api/proficiencies/114",
+						"ref": "proficiencies/114",
 						"name": "Skill: Medicine"
 					},
 					{
-						"url": "http://www.dnd5eapi.co/api/proficiencies/118",
+						"ref": "proficiencies/118",
 						"name": "Skill: Persuasion"
 					},
 					{
-						"url": "http://www.dnd5eapi.co/api/proficiencies/119",
+						"ref": "proficiencies/119",
 						"name": "Skill: Religion"
 					}
 				]
@@ -333,27 +333,27 @@
 			}
 		],
 		"starting_equipment": {
-			"url": "http://www.dnd5eapi.co/api/startingequipment/3",
+			"ref": "startingequipment/3",
 			"class": "Cleric"
 		},
 		"class_levels": {
-			"url": "http://www.dnd5eapi.co/api/classes/cleric/levels",
+			"ref": "classes/cleric/levels",
 			"class": "Cleric"
 		},
 		"subclasses": [
 			{
-				"url": "http://www.dnd5eapi.co/api/subclasses/3",
+				"ref": "subclasses/3",
 				"name": "Life"
 			}
 		],
 		"spellcasting": {
-			"url": "http://www.dnd5eapi.co/api/spellcasting/2",
+			"ref": "spellcasting/2",
 			"class": "Cleric"
 		},
 		"url": "http://www.dnd5eapi.co/api/classes/3"
 	},
 	{
-		"index": 4,
+		"id": "4",
 		"name": "Druid",
 		"hit_die": 8,
 		"proficiency_choices": [
@@ -362,35 +362,35 @@
 				"type": "proficiencies",
 				"from": [
 					{
-						"url": "http://www.dnd5eapi.co/api/proficiencies/106",
+						"ref": "proficiencies/106",
 						"name": "Skill: Animal Handling"
 					},
 					{
-						"url": "http://www.dnd5eapi.co/api/proficiencies/107",
+						"ref": "proficiencies/107",
 						"name": "Skill: Arcana"
 					},
 					{
-						"url": "http://www.dnd5eapi.co/api/proficiencies/111",
+						"ref": "proficiencies/111",
 						"name": "Skill: Insight"
 					},
 					{
-						"url": "http://www.dnd5eapi.co/api/proficiencies/114",
+						"ref": "proficiencies/114",
 						"name": "Skill: Medicine"
 					},
 					{
-						"url": "http://www.dnd5eapi.co/api/proficiencies/115",
+						"ref": "proficiencies/115",
 						"name": "Skill: Nature"
 					},
 					{
-						"url": "http://www.dnd5eapi.co/api/proficiencies/116",
+						"ref": "proficiencies/116",
 						"name": "Skill: Perception"
 					},
 					{
-						"url": "http://www.dnd5eapi.co/api/proficiencies/119",
+						"ref": "proficiencies/119",
 						"name": "Skill: Religion"
 					},
 					{
-						"url": "http://www.dnd5eapi.co/api/proficiencies/122",
+						"ref": "proficiencies/122",
 						"name": "Skill: Survival"
 					}
 				]
@@ -465,27 +465,27 @@
 			}
 		],
 		"starting_equipment": {
-			"url": "http://www.dnd5eapi.co/api/startingequipment/4",
+			"ref": "startingequipment/4",
 			"class": "Druid"
 		},
 		"class_levels": {
-			"url": "http://www.dnd5eapi.co/api/classes/druid/levels",
+			"ref": "classes/druid/levels",
 			"class": "Druid"
 		},
 		"subclasses": [
 			{
-				"url": "http://www.dnd5eapi.co/api/subclasses/4",
+				"ref": "subclasses/4",
 				"name": "Land"
 			}
 		],
 		"spellcasting": {
-			"url": "http://www.dnd5eapi.co/api/spellcasting/3",
+			"ref": "spellcasting/3",
 			"class": "Druid"
 		},
 		"url": "http://www.dnd5eapi.co/api/classes/4"
 	},
 	{
-		"index": 5,
+		"id": "5",
 		"name": "Fighter",
 		"hit_die": 10,
 		"proficiency_choices": [
@@ -494,35 +494,35 @@
 				"type": "proficiencies",
 				"from": [
 					{
-						"url": "http://www.dnd5eapi.co/api/proficiencies/105",
+						"ref": "proficiencies/105",
 						"name": "Skill: Acrobatics"
 					},
 					{
-						"url": "http://www.dnd5eapi.co/api/proficiencies/106",
+						"ref": "proficiencies/106",
 						"name": "Skill: Animal Handling"
 					},
 					{
-						"url": "http://www.dnd5eapi.co/api/proficiencies/108",
+						"ref": "proficiencies/108",
 						"name": "Skill: Athletics"
 					},
 					{
-						"url": "http://www.dnd5eapi.co/api/proficiencies/110",
+						"ref": "proficiencies/110",
 						"name": "Skill: History"
 					},
 					{
-						"url": "http://www.dnd5eapi.co/api/proficiencies/111",
+						"ref": "proficiencies/111",
 						"name": "Skill: Insight"
 					},
 					{
-						"url": "http://www.dnd5eapi.co/api/proficiencies/112",
+						"ref": "proficiencies/112",
 						"name": "Skill: Intimidation"
 					},
 					{
-						"url": "http://www.dnd5eapi.co/api/proficiencies/116",
+						"ref": "proficiencies/116",
 						"name": "Skill: Perception"
 					},
 					{
-						"url": "http://www.dnd5eapi.co/api/proficiencies/122",
+						"ref": "proficiencies/122",
 						"name": "Skill: Survival"
 					}
 				]
@@ -557,16 +557,16 @@
 			}
 		],
 		"starting_equipment": {
-			"url": "http://www.dnd5eapi.co/api/startingequipment/5",
+			"ref": "startingequipment/5",
 			"class": "Fighter"
 		},
 		"class_levels": {
-			"url": "http://www.dnd5eapi.co/api/classes/fighter/levels",
+			"ref": "classes/fighter/levels",
 			"class": "Fighter"
 		},
 		"subclasses": [
 			{
-				"url": "http://www.dnd5eapi.co/api/subclasses/5",
+				"ref": "subclasses/5",
 				"name": "Champion"
 			}
 		],
@@ -576,7 +576,7 @@
 		"url": "http://www.dnd5eapi.co/api/classes/5"
 	},
 	{
-		"index": 6,
+		"id": "6",
 		"name": "Monk",
 		"hit_die": 8,
 		"proficiency_choices": [
@@ -585,79 +585,79 @@
 				"type": "proficiencies",
 				"from": [
 					{
-						"url": "http://www.dnd5eapi.co/api/proficiencies/58",
+						"ref": "proficiencies/58",
 						"name": "Alchemist's supplies"
 					},
 					{
-						"url": "http://www.dnd5eapi.co/api/proficiencies/59",
+						"ref": "proficiencies/59",
 						"name": "Brewer's supplies"
 					},
 					{
-						"url": "http://www.dnd5eapi.co/api/proficiencies/60",
+						"ref": "proficiencies/60",
 						"name": "Calligrapher's supplies"
 					},
 					{
-						"url": "http://www.dnd5eapi.co/api/proficiencies/61",
+						"ref": "proficiencies/61",
 						"name": "Carpenter's tools"
 					},
 					{
-						"url": "http://www.dnd5eapi.co/api/proficiencies/62",
+						"ref": "proficiencies/62",
 						"name": "Cartographer's tools"
 					},
 					{
-						"url": "http://www.dnd5eapi.co/api/proficiencies/63",
+						"ref": "proficiencies/63",
 						"name": "Cobbler's tools"
 					},
 					{
-						"url": "http://www.dnd5eapi.co/api/proficiencies/64",
+						"ref": "proficiencies/64",
 						"name": "Cook's utensils"
 					},
 					{
-						"url": "http://www.dnd5eapi.co/api/proficiencies/65",
+						"ref": "proficiencies/65",
 						"name": "Glassblower's tools"
 					},
 					{
-						"url": "http://www.dnd5eapi.co/api/proficiencies/66",
+						"ref": "proficiencies/66",
 						"name": "Jeweler's tools"
 					},
 					{
-						"url": "http://www.dnd5eapi.co/api/proficiencies/67",
+						"ref": "proficiencies/67",
 						"name": "Leatherworker's tools"
 					},
 					{
-						"url": "http://www.dnd5eapi.co/api/proficiencies/68",
+						"ref": "proficiencies/68",
 						"name": "Mason's tools"
 					},
 					{
-						"url": "http://www.dnd5eapi.co/api/proficiencies/69",
+						"ref": "proficiencies/69",
 						"name": "Painter's supplies"
 					},
 					{
-						"url": "http://www.dnd5eapi.co/api/proficiencies/70",
+						"ref": "proficiencies/70",
 						"name": "Potter's tools"
 					},
 					{
-						"url": "http://www.dnd5eapi.co/api/proficiencies/71",
+						"ref": "proficiencies/71",
 						"name": "Smith's tools"
 					},
 					{
-						"url": "http://www.dnd5eapi.co/api/proficiencies/72",
+						"ref": "proficiencies/72",
 						"name": "Tinker's tools"
 					},
 					{
-						"url": "http://www.dnd5eapi.co/api/proficiencies/73",
+						"ref": "proficiencies/73",
 						"name": "Weaver's tools"
 					},
 					{
-						"url": "http://www.dnd5eapi.co/api/proficiencies/74",
+						"ref": "proficiencies/74",
 						"name": "Woodcarver's tools"
 					},
 					{
-						"url": "http://www.dnd5eapi.co/api/proficiencies/75",
+						"ref": "proficiencies/75",
 						"name": "Disguise kit"
 					},
 					{
-						"url": "http://www.dnd5eapi.co/api/proficiencies/76",
+						"ref": "proficiencies/76",
 						"name": "Forgery kit"
 					}
 				]
@@ -667,43 +667,43 @@
 				"type": "proficiencies",
 				"from": [
 					{
-						"url": "http://www.dnd5eapi.co/api/proficiencies/81",
+						"ref": "proficiencies/81",
 						"name": "Bagpipes"
 					},
 					{
-						"url": "http://www.dnd5eapi.co/api/proficiencies/82",
+						"ref": "proficiencies/82",
 						"name": "Drum"
 					},
 					{
-						"url": "http://www.dnd5eapi.co/api/proficiencies/83",
+						"ref": "proficiencies/83",
 						"name": "Dulcimer"
 					},
 					{
-						"url": "http://www.dnd5eapi.co/api/proficiencies/84",
+						"ref": "proficiencies/84",
 						"name": "Flute"
 					},
 					{
-						"url": "http://www.dnd5eapi.co/api/proficiencies/85",
+						"ref": "proficiencies/85",
 						"name": "Lute"
 					},
 					{
-						"url": "http://www.dnd5eapi.co/api/proficiencies/86",
+						"ref": "proficiencies/86",
 						"name": "Lyre"
 					},
 					{
-						"url": "http://www.dnd5eapi.co/api/proficiencies/87",
+						"ref": "proficiencies/87",
 						"name": "Horn"
 					},
 					{
-						"url": "http://www.dnd5eapi.co/api/proficiencies/88",
+						"ref": "proficiencies/88",
 						"name": "Pan flute"
 					},
 					{
-						"url": "http://www.dnd5eapi.co/api/proficiencies/89",
+						"ref": "proficiencies/89",
 						"name": "Shawm"
 					},
 					{
-						"url": "http://www.dnd5eapi.co/api/proficiencies/90",
+						"ref": "proficiencies/90",
 						"name": "Viol"
 					}
 				]
@@ -713,27 +713,27 @@
 				"type": "proficiencies",
 				"from": [
 					{
-						"url": "http://www.dnd5eapi.co/api/proficiencies/105",
+						"ref": "proficiencies/105",
 						"name": "Skill: Acrobatics"
 					},
 					{
-						"url": "http://www.dnd5eapi.co/api/proficiencies/108",
+						"ref": "proficiencies/108",
 						"name": "Skill: Athletics"
 					},
 					{
-						"url": "http://www.dnd5eapi.co/api/proficiencies/110",
+						"ref": "proficiencies/110",
 						"name": "Skill: History"
 					},
 					{
-						"url": "http://www.dnd5eapi.co/api/proficiencies/111",
+						"ref": "proficiencies/111",
 						"name": "Skill: Insight"
 					},
 					{
-						"url": "http://www.dnd5eapi.co/api/proficiencies/119",
+						"ref": "proficiencies/119",
 						"name": "Skill: Religion"
 					},
 					{
-						"url": "http://www.dnd5eapi.co/api/proficiencies/121",
+						"ref": "proficiencies/121",
 						"name": "Skill: Stealth"
 					}
 				]
@@ -760,16 +760,16 @@
 			}
 		],
 		"starting_equipment": {
-			"url": "http://www.dnd5eapi.co/api/startingequipment/6",
+			"ref": "startingequipment/6",
 			"class": "Monk"
 		},
 		"class_levels": {
-			"url": "http://www.dnd5eapi.co/api/classes/monk/levels",
+			"ref": "classes/monk/levels",
 			"class": "Monk"
 		},
 		"subclasses": [
 			{
-				"url": "http://www.dnd5eapi.co/api/subclasses/6",
+				"ref": "subclasses/6",
 				"name": "Open Hand"
 			}
 		],
@@ -779,7 +779,7 @@
 		"url": "http://www.dnd5eapi.co/api/classes/6"
 	},
 	{
-		"index": 7,
+		"id": "7",
 		"name": "Paladin",
 		"hit_die": 10,
 		"proficiency_choices": [
@@ -788,27 +788,27 @@
 				"type": "proficiencies",
 				"from": [
 					{
-						"url": "http://www.dnd5eapi.co/api/proficiencies/108",
+						"ref": "proficiencies/108",
 						"name": "Skill: Athletics"
 					},
 					{
-						"url": "http://www.dnd5eapi.co/api/proficiencies/111",
+						"ref": "proficiencies/111",
 						"name": "Skill: Insight"
 					},
 					{
-						"url": "http://www.dnd5eapi.co/api/proficiencies/112",
+						"ref": "proficiencies/112",
 						"name": "Skill: Intimidation"
 					},
 					{
-						"url": "http://www.dnd5eapi.co/api/proficiencies/114",
+						"ref": "proficiencies/114",
 						"name": "Skill: Medicine"
 					},
 					{
-						"url": "http://www.dnd5eapi.co/api/proficiencies/118",
+						"ref": "proficiencies/118",
 						"name": "Skill: Persuasion"
 					},
 					{
-						"url": "http://www.dnd5eapi.co/api/proficiencies/119",
+						"ref": "proficiencies/119",
 						"name": "Skill: Religion"
 					}
 				]
@@ -843,27 +843,27 @@
 			}
 		],
 		"starting_equipment": {
-			"url": "http://www.dnd5eapi.co/api/startingequipment/7",
+			"ref": "startingequipment/7",
 			"class": "Paladin"
 		},
 		"class_levels": {
-			"url": "http://www.dnd5eapi.co/api/classes/paladin/levels",
+			"ref": "classes/paladin/levels",
 			"class": "Paladin"
 		},
 		"subclasses": [
 			{
-				"url": "http://www.dnd5eapi.co/api/subclasses/7",
+				"ref": "subclasses/7",
 				"name": "Devotion"
 			}
 		],
 		"spellcasting": {
-			"url": "http://www.dnd5eapi.co/api/spellcasting/4",
+			"ref": "spellcasting/4",
 			"class": "Paladin"
 		},
 		"url": "http://www.dnd5eapi.co/api/classes/7"
 	},
 	{
-		"index": 8,
+		"id": "8",
 		"name": "Ranger",
 		"hit_die": 10,
 		"proficiency_choices": [
@@ -872,35 +872,35 @@
 				"type": "proficiencies",
 				"from": [
 					{
-						"url": "http://www.dnd5eapi.co/api/proficiencies/106",
+						"ref": "proficiencies/106",
 						"name": "Skill: Animal Handling"
 					},
 					{
-						"url": "http://www.dnd5eapi.co/api/proficiencies/108",
+						"ref": "proficiencies/108",
 						"name": "Skill: Athletics"
 					},
 					{
-						"url": "http://www.dnd5eapi.co/api/proficiencies/111",
+						"ref": "proficiencies/111",
 						"name": "Skill: Insight"
 					},
 					{
-						"url": "http://www.dnd5eapi.co/api/proficiencies/113",
+						"ref": "proficiencies/113",
 						"name": "Skill: Investigation"
 					},
 					{
-						"url": "http://www.dnd5eapi.co/api/proficiencies/115",
+						"ref": "proficiencies/115",
 						"name": "Skill: Nature"
 					},
 					{
-						"url": "http://www.dnd5eapi.co/api/proficiencies/116",
+						"ref": "proficiencies/116",
 						"name": "Skill: Perception"
 					},
 					{
-						"url": "http://www.dnd5eapi.co/api/proficiencies/121",
+						"ref": "proficiencies/121",
 						"name": "Skill: Stealth"
 					},
 					{
-						"url": "http://www.dnd5eapi.co/api/proficiencies/122",
+						"ref": "proficiencies/122",
 						"name": "Skill: Survival"
 					}
 				]
@@ -939,27 +939,27 @@
 			}
 		],
 		"starting_equipment": {
-			"url": "http://www.dnd5eapi.co/api/startingequipment/8",
+			"ref": "startingequipment/8",
 			"class": "Ranger"
 		},
 		"class_levels": {
-			"url": "http://www.dnd5eapi.co/api/classes/ranger/levels",
+			"ref": "classes/ranger/levels",
 			"class": "Ranger"
 		},
 		"subclasses": [
 			{
-				"url": "http://www.dnd5eapi.co/api/subclasses/8",
+				"ref": "subclasses/8",
 				"name": "Hunter"
 			}
 		],
 		"spellcasting": {
-			"url": "http://www.dnd5eapi.co/api/spellcasting/5",
+			"ref": "spellcasting/5",
 			"class": "Ranger"
 		},
 		"url": "http://www.dnd5eapi.co/api/classes/8"
 	},
 	{
-		"index": 9,
+		"id": "9",
 		"name": "Rogue",
 		"hit_die": 8,
 		"proficiency_choices": [
@@ -968,47 +968,47 @@
 				"type": "proficiencies",
 				"from": [
 					{
-						"url": "http://www.dnd5eapi.co/api/proficiencies/105",
+						"ref": "proficiencies/105",
 						"name": "Skill: Acrobatics"
 					},
 					{
-						"url": "http://www.dnd5eapi.co/api/proficiencies/108",
+						"ref": "proficiencies/108",
 						"name": "Skill: Athletics"
 					},
 					{
-						"url": "http://www.dnd5eapi.co/api/proficiencies/109",
+						"ref": "proficiencies/109",
 						"name": "Skill: Deception"
 					},
 					{
-						"url": "http://www.dnd5eapi.co/api/proficiencies/111",
+						"ref": "proficiencies/111",
 						"name": "Skill: Insight"
 					},
 					{
-						"url": "http://www.dnd5eapi.co/api/proficiencies/112",
+						"ref": "proficiencies/112",
 						"name": "Skill: Intimidation"
 					},
 					{
-						"url": "http://www.dnd5eapi.co/api/proficiencies/113",
+						"ref": "proficiencies/113",
 						"name": "Skill: Investigation"
 					},
 					{
-						"url": "http://www.dnd5eapi.co/api/proficiencies/116",
+						"ref": "proficiencies/116",
 						"name": "Skill: Perception"
 					},
 					{
-						"url": "http://www.dnd5eapi.co/api/proficiencies/117",
+						"ref": "proficiencies/117",
 						"name": "Skill: Performance"
 					},
 					{
-						"url": "http://www.dnd5eapi.co/api/proficiencies/118",
+						"ref": "proficiencies/118",
 						"name": "Skill: Persuasion"
 					},
 					{
-						"url": "http://www.dnd5eapi.co/api/proficiencies/120",
+						"ref": "proficiencies/120",
 						"name": "Skill: Sleight of Hand"
 					},
 					{
-						"url": "http://www.dnd5eapi.co/api/proficiencies/121",
+						"ref": "proficiencies/121",
 						"name": "Skill: Stealth"
 					}
 				]
@@ -1055,16 +1055,16 @@
 			}
 		],
 		"starting_equipment": {
-			"url": "http://www.dnd5eapi.co/api/startingequipment/9",
+			"ref": "startingequipment/9",
 			"class": "Rogue"
 		},
 		"class_levels": {
-			"url": "http://www.dnd5eapi.co/api/classes/rogue/levels",
+			"ref": "classes/rogue/levels",
 			"class": "Rogue"
 		},
 		"subclasses": [
 			{
-				"url": "http://www.dnd5eapi.co/api/subclasses/9",
+				"ref": "subclasses/9",
 				"name": "Thief"
 			}
 		],
@@ -1074,7 +1074,7 @@
 		"url": "http://www.dnd5eapi.co/api/classes/9"
 	},
 	{
-		"index": 10,
+		"id": "10",
 		"name": "Sorcerer",
 		"hit_die": 6,
 		"proficiency_choices": [
@@ -1083,27 +1083,27 @@
 				"type": "proficiencies",
 				"from": [
 					{
-						"url": "http://www.dnd5eapi.co/api/proficiencies/107",
+						"ref": "proficiencies/107",
 						"name": "Skill: Arcana"
 					},
 					{
-						"url": "http://www.dnd5eapi.co/api/proficiencies/109",
+						"ref": "proficiencies/109",
 						"name": "Skill: Deception"
 					},
 					{
-						"url": "http://www.dnd5eapi.co/api/proficiencies/111",
+						"ref": "proficiencies/111",
 						"name": "Skill: Insight"
 					},
 					{
-						"url": "http://www.dnd5eapi.co/api/proficiencies/112",
+						"ref": "proficiencies/112",
 						"name": "Skill: Intimidation"
 					},
 					{
-						"url": "http://www.dnd5eapi.co/api/proficiencies/118",
+						"ref": "proficiencies/118",
 						"name": "Skill: Persuasion"
 					},
 					{
-						"url": "http://www.dnd5eapi.co/api/proficiencies/119",
+						"ref": "proficiencies/119",
 						"name": "Skill: Religion"
 					}
 				]
@@ -1138,27 +1138,27 @@
 			}
 		],
 		"starting_equipment": {
-			"url": "http://www.dnd5eapi.co/api/startingequipment/10",
+			"ref": "startingequipment/10",
 			"class": "Sorcerer"
 		},
 		"class_levels": {
-			"url": "http://www.dnd5eapi.co/api/classes/sorcerer/levels",
+			"ref": "classes/sorcerer/levels",
 			"class": "Sorcerer"
 		},
 		"subclasses": [
 			{
-				"url": "http://www.dnd5eapi.co/api/subclasses/10",
+				"ref": "subclasses/10",
 				"name": "Draconic"
 			}
 		],
 		"spellcasting": {
-			"url": "http://www.dnd5eapi.co/api/spellcasting/6",
+			"ref": "spellcasting/6",
 			"class": "Sorcerer"
 		},
 		"url": "http://www.dnd5eapi.co/api/classes/10"
 	},
 	{
-		"index": 11,
+		"id": "11",
 		"name": "Warlock",
 		"hit_die": 8,
 		"proficiency_choices": [
@@ -1167,31 +1167,31 @@
 				"type": "proficiencies",
 				"from": [
 					{
-						"url": "http://www.dnd5eapi.co/api/proficiencies/107",
+						"ref": "proficiencies/107",
 						"name": "Skill: Arcana"
 					},
 					{
-						"url": "http://www.dnd5eapi.co/api/proficiencies/109",
+						"ref": "proficiencies/109",
 						"name": "Skill: Deception"
 					},
 					{
-						"url": "http://www.dnd5eapi.co/api/proficiencies/110",
+						"ref": "proficiencies/110",
 						"name": "Skill: History"
 					},
 					{
-						"url": "http://www.dnd5eapi.co/api/proficiencies/112",
+						"ref": "proficiencies/112",
 						"name": "Skill: Intimidation"
 					},
 					{
-						"url": "http://www.dnd5eapi.co/api/proficiencies/113",
+						"ref": "proficiencies/113",
 						"name": "Skill: Investigation"
 					},
 					{
-						"url": "http://www.dnd5eapi.co/api/proficiencies/115",
+						"ref": "proficiencies/115",
 						"name": "Skill: Nature"
 					},
 					{
-						"url": "http://www.dnd5eapi.co/api/proficiencies/119",
+						"ref": "proficiencies/119",
 						"name": "Skill: Religion"
 					}
 				]
@@ -1218,27 +1218,27 @@
 			}
 		],
 		"starting_equipment": {
-			"url": "http://www.dnd5eapi.co/api/startingequipment/11",
+			"ref": "startingequipment/11",
 			"class": "Warlock"
 		},
 		"class_levels": {
-			"url": "http://www.dnd5eapi.co/api/classes/warlock/levels",
+			"ref": "classes/warlock/levels",
 			"class": "Warlock"
 		},
 		"subclasses": [
 			{
-				"url": "http://www.dnd5eapi.co/api/subclasses/11",
+				"ref": "subclasses/11",
 				"name": "Fiend"
 			}
 		],
 		"spellcasting": {
-			"url": "http://www.dnd5eapi.co/api/spellcasting/7",
+			"ref": "spellcasting/7",
 			"class": "Warlock"
 		},
 		"url": "http://www.dnd5eapi.co/api/classes/11"
 	},
 	{
-		"index": 12,
+		"id": "12",
 		"name": "Wizard",
 		"hit_die": 6,
 		"proficiency_choices": [
@@ -1247,27 +1247,27 @@
 				"type": "proficiencies",
 				"from": [
 					{
-						"url": "http://www.dnd5eapi.co/api/proficiencies/107",
+						"ref": "proficiencies/107",
 						"name": "Skill: Arcana"
 					},
 					{
-						"url": "http://www.dnd5eapi.co/api/proficiencies/110",
+						"ref": "proficiencies/110",
 						"name": "Skill: History"
 					},
 					{
-						"url": "http://www.dnd5eapi.co/api/proficiencies/111",
+						"ref": "proficiencies/111",
 						"name": "Skill: Insight"
 					},
 					{
-						"url": "http://www.dnd5eapi.co/api/proficiencies/113",
+						"ref": "proficiencies/113",
 						"name": "Skill: Investigation"
 					},
 					{
-						"url": "http://www.dnd5eapi.co/api/proficiencies/114",
+						"ref": "proficiencies/114",
 						"name": "Skill: Medicine"
 					},
 					{
-						"url": "http://www.dnd5eapi.co/api/proficiencies/119",
+						"ref": "proficiencies/119",
 						"name": "Skill: Religion"
 					}
 				]
@@ -1302,21 +1302,21 @@
 			}
 		],
 		"starting_equipment": {
-			"url": "http://www.dnd5eapi.co/api/startingequipment/12",
+			"ref": "startingequipment/12",
 			"class": "Wizard"
 		},
 		"class_levels": {
-			"url": "http://www.dnd5eapi.co/api/classes/wizard/levels",
+			"ref": "classes/wizard/levels",
 			"class": "Wizard"
 		},
 		"subclasses": [
 			{
-				"url": "http://www.dnd5eapi.co/api/subclasses/12",
+				"ref": "subclasses/12",
 				"name": "Evocation"
 			}
 		],
 		"spellcasting": {
-			"url": "http://www.dnd5eapi.co/api/spellcasting/8",
+			"ref": "spellcasting/8",
 			"class": "Wizard"
 		},
 		"url": "http://www.dnd5eapi.co/api/classes/12"

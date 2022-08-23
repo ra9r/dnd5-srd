@@ -1,6 +1,6 @@
 [
   {
-    "index": 1,
+    "id": "1",
     "races": [
       {
         "name": "Dwarf"
@@ -33,7 +33,7 @@
     ]
   },
   {
-    "index": 2,
+    "id": "2",
     "races": [
       {
         "name": "Dwarf"
@@ -46,7 +46,7 @@
     ]
   },
   {
-    "index": 3,
+    "id": "3",
     "races": [
       {
         "name": "Dwarf"
@@ -59,7 +59,7 @@
     ]
   },
   {
-    "index": 4,
+    "id": "4",
     "races": [
       {
         "name": "Dwarf"
@@ -72,7 +72,7 @@
     ]
   },
   {
-    "index": 5,
+    "id": "5",
     "races": [
       {
         "name": "Hill Dwarf"
@@ -84,7 +84,7 @@
     ]
   },
   {
-    "index": 6,
+    "id": "6",
     "races": [
       {
         "name": "Elf"
@@ -95,7 +95,7 @@
     "desc": ["You have proficiency in the Perception skill."]
   },
   {
-    "index": 7,
+    "id": "7",
     "races": [
       {
         "name": "Elf"
@@ -111,7 +111,7 @@
     ]
   },
   {
-    "index": 8,
+    "id": "8",
     "races": [
       {
         "name": "Elf"
@@ -124,7 +124,7 @@
     ]
   },
   {
-    "index": 9,
+    "id": "9",
     "races": [
       {
         "name": "Elf"
@@ -137,7 +137,7 @@
     ]
   },
   {
-    "index": 10,
+    "id": "10",
     "races": [
       {
         "name": "High Elf"
@@ -149,7 +149,7 @@
     ]
   },
   {
-    "index": 11,
+    "id": "11",
     "races": [
       {
         "name": "High Elf"
@@ -161,7 +161,7 @@
     ]
   },
   {
-    "index": 12,
+    "id": "12",
     "races": [
       {
         "name": "Halfling"
@@ -174,7 +174,7 @@
     ]
   },
   {
-    "index": 13,
+    "id": "13",
     "races": [
       {
         "name": "Halfling"
@@ -185,7 +185,7 @@
     "desc": ["You have advantage on saving throw against being frightened."]
   },
   {
-    "index": 14,
+    "id": "14",
     "races": [
       {
         "name": "Halfling"
@@ -198,7 +198,7 @@
     ]
   },
   {
-    "index": 15,
+    "id": "15",
     "races": [
       {
         "name": "Lightfoot Halfling"
@@ -210,7 +210,7 @@
     ]
   },
   {
-    "index": 16,
+    "id": "16",
     "races": [
       {
         "name": "Dragonborn"
@@ -222,7 +222,7 @@
     ]
   },
   {
-    "index": 17,
+    "id": "17",
     "races": [
       {
         "name": "Dragonborn"
@@ -236,7 +236,7 @@
     ]
   },
   {
-    "index": 18,
+    "id": "18",
     "races": [
       {
         "name": "Dragonborn"
@@ -248,7 +248,7 @@
     ]
   },
   {
-    "index": 19,
+    "id": "19",
     "races": [
       {
         "name": "Gnome"
@@ -261,7 +261,7 @@
     ]
   },
   {
-    "index": 20,
+    "id": "20",
     "races": [
       {
         "name": "Rock Gnome"
@@ -273,7 +273,7 @@
     ]
   },
   {
-    "index": 21,
+    "id": "21",
     "races": [
       {
         "name": "Rock Gnome"
@@ -289,7 +289,7 @@
     ]
   },
   {
-    "index": 22,
+    "id": "22",
     "races": [
       {
         "name": "Half-Elf"
@@ -299,7 +299,7 @@
     "desc": ["You gain proficiency in two skills of your choice."]
   },
   {
-    "index": 23,
+    "id": "23",
     "races": [
       {
         "name": "Half-Orc"
@@ -309,7 +309,7 @@
     "desc": ["You gain proficiency in the Intimidation skill."]
   },
   {
-    "index": 24,
+    "id": "24",
     "races": [
       {
         "name": "Half-Orc"
@@ -321,7 +321,7 @@
     ]
   },
   {
-    "index": 25,
+    "id": "25",
     "races": [
       {
         "name": "Half-Orc"
@@ -333,7 +333,7 @@
     ]
   },
   {
-    "index": 26,
+    "id": "26",
     "races": [
       {
         "name": "Tiefling"
@@ -343,7 +343,7 @@
     "desc": ["You have resistance to fire damage."]
   },
   {
-    "index": 27,
+    "id": "27",
     "races": [
       {
         "name": "Tiefling"

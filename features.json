@@ -1,8 +1,8 @@
 [
   {
-    "index": 1,
+    "id": "1",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/1",
+      "ref": "classes/1",
       "name": "Barbarian"
     },
     "subclass": {},
@@ -20,9 +20,9 @@
     "url": "http://www.dnd5eapi.co/api/features/1"
   },
   {
-    "index": 2,
+    "id": "2",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/1",
+      "ref": "classes/1",
       "name": "Barbarian"
     },
     "subclass": {},
@@ -34,9 +34,9 @@
     "url": "http://www.dnd5eapi.co/api/features/2"
   },
   {
-    "index": 3,
+    "id": "3",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/1",
+      "ref": "classes/1",
       "name": "Barbarian"
     },
     "subclass": {},
@@ -48,9 +48,9 @@
     "url": "http://www.dnd5eapi.co/api/features/3"
   },
   {
-    "index": 4,
+    "id": "4",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/1",
+      "ref": "classes/1",
       "name": "Barbarian"
     },
     "subclass": {},
@@ -62,9 +62,9 @@
     "url": "http://www.dnd5eapi.co/api/features/4"
   },
   {
-    "index": 5,
+    "id": "5",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/1",
+      "ref": "classes/1",
       "name": "Barbarian"
     },
     "subclass": {},
@@ -76,13 +76,13 @@
     "url": "http://www.dnd5eapi.co/api/features/5"
   },
   {
-    "index": 6,
+    "id": "6",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/1",
+      "ref": "classes/1",
       "name": "Barbarian"
     },
     "subclass": {
-      "url": "http://www.dnd5eapi.co/api/subclasses/1",
+      "ref": "subclasses/1",
       "name": "Berserker"
     },
     "name": "Frenzy",
@@ -93,9 +93,9 @@
     "url": "http://www.dnd5eapi.co/api/features/6"
   },
   {
-    "index": 7,
+    "id": "7",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/1",
+      "ref": "classes/1",
       "name": "Barbarian"
     },
     "subclass": {},
@@ -107,9 +107,9 @@
     "url": "http://www.dnd5eapi.co/api/features/7"
   },
   {
-    "index": 8,
+    "id": "8",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/1",
+      "ref": "classes/1",
       "name": "Barbarian"
     },
     "subclass": {},
@@ -121,9 +121,9 @@
     "url": "http://www.dnd5eapi.co/api/features/8"
   },
   {
-    "index": 9,
+    "id": "9",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/1",
+      "ref": "classes/1",
       "name": "Barbarian"
     },
     "subclass": {},
@@ -135,13 +135,13 @@
     "url": "http://www.dnd5eapi.co/api/features/9"
   },
   {
-    "index": 10,
+    "id": "10",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/1",
+      "ref": "classes/1",
       "name": "Barbarian"
     },
     "subclass": {
-      "url": "http://www.dnd5eapi.co/api/subclasses/1",
+      "ref": "subclasses/1",
       "name": "Berserker"
     },
     "name": "Mindless Rage",
@@ -152,9 +152,9 @@
     "url": "http://www.dnd5eapi.co/api/features/10"
   },
   {
-    "index": 11,
+    "id": "11",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/1",
+      "ref": "classes/1",
       "name": "Barbarian"
     },
     "subclass": {},
@@ -167,9 +167,9 @@
     "url": "http://www.dnd5eapi.co/api/features/11"
   },
   {
-    "index": 12,
+    "id": "12",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/1",
+      "ref": "classes/1",
       "name": "Barbarian"
     },
     "subclass": {},
@@ -181,9 +181,9 @@
     "url": "http://www.dnd5eapi.co/api/features/12"
   },
   {
-    "index": 13,
+    "id": "13",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/1",
+      "ref": "classes/1",
       "name": "Barbarian"
     },
     "subclass": {},
@@ -195,13 +195,13 @@
     "url": "http://www.dnd5eapi.co/api/features/13"
   },
   {
-    "index": 14,
+    "id": "14",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/1",
+      "ref": "classes/1",
       "name": "Barbarian"
     },
     "subclass": {
-      "url": "http://www.dnd5eapi.co/api/subclasses/1",
+      "ref": "subclasses/1",
       "name": "Berserker"
     },
     "name": "Intimidating Presence",
@@ -213,9 +213,9 @@
     "url": "http://www.dnd5eapi.co/api/features/14"
   },
   {
-    "index": 15,
+    "id": "15",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/1",
+      "ref": "classes/1",
       "name": "Barbarian"
     },
     "subclass": {},
@@ -228,9 +228,9 @@
     "url": "http://www.dnd5eapi.co/api/features/15"
   },
   {
-    "index": 16,
+    "id": "16",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/1",
+      "ref": "classes/1",
       "name": "Barbarian"
     },
     "subclass": {},
@@ -242,9 +242,9 @@
     "url": "http://www.dnd5eapi.co/api/features/16"
   },
   {
-    "index": 17,
+    "id": "17",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/1",
+      "ref": "classes/1",
       "name": "Barbarian"
     },
     "subclass": {},
@@ -256,13 +256,13 @@
     "url": "http://www.dnd5eapi.co/api/features/17"
   },
   {
-    "index": 18,
+    "id": "18",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/1",
+      "ref": "classes/1",
       "name": "Barbarian"
     },
     "subclass": {
-      "url": "http://www.dnd5eapi.co/api/subclasses/1",
+      "ref": "subclasses/1",
       "name": "Berserker"
     },
     "name": "Retaliation",
@@ -273,9 +273,9 @@
     "url": "http://www.dnd5eapi.co/api/features/18"
   },
   {
-    "index": 19,
+    "id": "19",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/1",
+      "ref": "classes/1",
       "name": "Barbarian"
     },
     "subclass": {},
@@ -287,9 +287,9 @@
     "url": "http://www.dnd5eapi.co/api/features/19"
   },
   {
-    "index": 20,
+    "id": "20",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/1",
+      "ref": "classes/1",
       "name": "Barbarian"
     },
     "subclass": {},
@@ -301,9 +301,9 @@
     "url": "http://www.dnd5eapi.co/api/features/20"
   },
   {
-    "index": 21,
+    "id": "21",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/1",
+      "ref": "classes/1",
       "name": "Barbarian"
     },
     "subclass": {},
@@ -315,9 +315,9 @@
     "url": "http://www.dnd5eapi.co/api/features/21"
   },
   {
-    "index": 22,
+    "id": "22",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/1",
+      "ref": "classes/1",
       "name": "Barbarian"
     },
     "subclass": {},
@@ -329,9 +329,9 @@
     "url": "http://www.dnd5eapi.co/api/features/22"
   },
   {
-    "index": 23,
+    "id": "23",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/1",
+      "ref": "classes/1",
       "name": "Barbarian"
     },
     "subclass": {},
@@ -343,9 +343,9 @@
     "url": "http://www.dnd5eapi.co/api/features/23"
   },
   {
-    "index": 24,
+    "id": "24",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/1",
+      "ref": "classes/1",
       "name": "Barbarian"
     },
     "subclass": {},
@@ -357,9 +357,9 @@
     "url": "http://www.dnd5eapi.co/api/features/24"
   },
   {
-    "index": 25,
+    "id": "25",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/2",
+      "ref": "classes/2",
       "name": "Bard"
     },
     "subclass": {},
@@ -372,9 +372,9 @@
     "url": "http://www.dnd5eapi.co/api/features/25"
   },
   {
-    "index": 26,
+    "id": "26",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/2",
+      "ref": "classes/2",
       "name": "Bard"
     },
     "subclass": {},
@@ -388,9 +388,9 @@
     "url": "http://www.dnd5eapi.co/api/features/26"
   },
   {
-    "index": 27,
+    "id": "27",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/2",
+      "ref": "classes/2",
       "name": "Bard"
     },
     "subclass": {},
@@ -402,9 +402,9 @@
     "url": "http://www.dnd5eapi.co/api/features/27"
   },
   {
-    "index": 28,
+    "id": "28",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/2",
+      "ref": "classes/2",
       "name": "Bard"
     },
     "subclass": {},
@@ -417,9 +417,9 @@
     "url": "http://www.dnd5eapi.co/api/features/28"
   },
   {
-    "index": 29,
+    "id": "29",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/2",
+      "ref": "classes/2",
       "name": "Bard"
     },
     "subclass": {},
@@ -431,13 +431,13 @@
     "url": "http://www.dnd5eapi.co/api/features/29"
   },
   {
-    "index": 30,
+    "id": "30",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/2",
+      "ref": "classes/2",
       "name": "Bard"
     },
     "subclass": {
-      "url": "http://www.dnd5eapi.co/api/subclasses/2",
+      "ref": "subclasses/2",
       "name": "Lore"
     },
     "name": "Bonus Proficiencies",
@@ -448,13 +448,13 @@
     "url": "http://www.dnd5eapi.co/api/features/30"
   },
   {
-    "index": 31,
+    "id": "31",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/2",
+      "ref": "classes/2",
       "name": "Bard"
     },
     "subclass": {
-      "url": "http://www.dnd5eapi.co/api/subclasses/2",
+      "ref": "subclasses/2",
       "name": "Lore"
     },
     "name": "Cutting Words",
@@ -467,9 +467,9 @@
     "url": "http://www.dnd5eapi.co/api/features/31"
   },
   {
-    "index": 32,
+    "id": "32",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/2",
+      "ref": "classes/2",
       "name": "Bard"
     },
     "subclass": {},
@@ -483,75 +483,75 @@
       "type": "feature",
       "from": [
         {
-          "url": "http://www.dnd5eapi.co/api/features/278",
+          "ref": "features/278",
           "name": "Expertise: Acrobatics"
         },
         {
-          "url": "http://www.dnd5eapi.co/api/features/277",
+          "ref": "features/277",
           "name": "Expertise: Animal Handling"
         },
         {
-          "url": "http://www.dnd5eapi.co/api/features/261",
+          "ref": "features/261",
           "name": "Expertise: Arcana"
         },
         {
-          "url": "http://www.dnd5eapi.co/api/features/262",
+          "ref": "features/262",
           "name": "Expertise: Athletics"
         },
         {
-          "url": "http://www.dnd5eapi.co/api/features/263",
+          "ref": "features/263",
           "name": "Expertise: Deception"
         },
         {
-          "url": "http://www.dnd5eapi.co/api/features/264",
+          "ref": "features/264",
           "name": "Expertise: History"
         },
         {
-          "url": "http://www.dnd5eapi.co/api/features/265",
+          "ref": "features/265",
           "name": "Expertise: Insight"
         },
         {
-          "url": "http://www.dnd5eapi.co/api/features/266",
+          "ref": "features/266",
           "name": "Expertise: Intimidation"
         },
         {
-          "url": "http://www.dnd5eapi.co/api/features/267",
+          "ref": "features/267",
           "name": "Expertise: Investigation"
         },
         {
-          "url": "http://www.dnd5eapi.co/api/features/268",
+          "ref": "features/268",
           "name": "Expertise: Medicine"
         },
         {
-          "url": "http://www.dnd5eapi.co/api/features/269",
+          "ref": "features/269",
           "name": "Expertise: Nature"
         },
         {
-          "url": "http://www.dnd5eapi.co/api/features/270",
+          "ref": "features/270",
           "name": "Expertise: Perception"
         },
         {
-          "url": "http://www.dnd5eapi.co/api/features/271",
+          "ref": "features/271",
           "name": "Expertise: Performance"
         },
         {
-          "url": "http://www.dnd5eapi.co/api/features/272",
+          "ref": "features/272",
           "name": "Expertise: Persuasion"
         },
         {
-          "url": "http://www.dnd5eapi.co/api/features/273",
+          "ref": "features/273",
           "name": "Expertise: Religion"
         },
         {
-          "url": "http://www.dnd5eapi.co/api/features/274",
+          "ref": "features/274",
           "name": "Expertise: Sleight of Hand"
         },
         {
-          "url": "http://www.dnd5eapi.co/api/features/275",
+          "ref": "features/275",
           "name": "Expertise: Stealth"
         },
         {
-          "url": "http://www.dnd5eapi.co/api/features/276",
+          "ref": "features/276",
           "name": "Expertise: Survival"
         }
       ]
@@ -559,9 +559,9 @@
     "url": "http://www.dnd5eapi.co/api/features/32"
   },
   {
-    "index": 33,
+    "id": "33",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/2",
+      "ref": "classes/2",
       "name": "Bard"
     },
     "subclass": {},
@@ -579,9 +579,9 @@
     "url": "http://www.dnd5eapi.co/api/features/33"
   },
   {
-    "index": 34,
+    "id": "34",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/2",
+      "ref": "classes/2",
       "name": "Bard"
     },
     "subclass": {},
@@ -599,9 +599,9 @@
     "url": "http://www.dnd5eapi.co/api/features/34"
   },
   {
-    "index": 35,
+    "id": "35",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/2",
+      "ref": "classes/2",
       "name": "Bard"
     },
     "subclass": {},
@@ -619,9 +619,9 @@
     "url": "http://www.dnd5eapi.co/api/features/35"
   },
   {
-    "index": 36,
+    "id": "36",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/2",
+      "ref": "classes/2",
       "name": "Bard"
     },
     "subclass": {},
@@ -639,9 +639,9 @@
     "url": "http://www.dnd5eapi.co/api/features/36"
   },
   {
-    "index": 37,
+    "id": "37",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/2",
+      "ref": "classes/2",
       "name": "Bard"
     },
     "subclass": {},
@@ -659,9 +659,9 @@
     "url": "http://www.dnd5eapi.co/api/features/37"
   },
   {
-    "index": 38,
+    "id": "38",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/2",
+      "ref": "classes/2",
       "name": "Bard"
     },
     "subclass": {},
@@ -679,9 +679,9 @@
     "url": "http://www.dnd5eapi.co/api/features/38"
   },
   {
-    "index": 39,
+    "id": "39",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/2",
+      "ref": "classes/2",
       "name": "Bard"
     },
     "subclass": {},
@@ -699,9 +699,9 @@
     "url": "http://www.dnd5eapi.co/api/features/39"
   },
   {
-    "index": 40,
+    "id": "40",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/2",
+      "ref": "classes/2",
       "name": "Bard"
     },
     "subclass": {},
@@ -719,9 +719,9 @@
     "url": "http://www.dnd5eapi.co/api/features/40"
   },
   {
-    "index": 41,
+    "id": "41",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/2",
+      "ref": "classes/2",
       "name": "Bard"
     },
     "subclass": {},
@@ -739,9 +739,9 @@
     "url": "http://www.dnd5eapi.co/api/features/41"
   },
   {
-    "index": 42,
+    "id": "42",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/2",
+      "ref": "classes/2",
       "name": "Bard"
     },
     "subclass": {},
@@ -759,9 +759,9 @@
     "url": "http://www.dnd5eapi.co/api/features/42"
   },
   {
-    "index": 43,
+    "id": "43",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/2",
+      "ref": "classes/2",
       "name": "Bard"
     },
     "subclass": {},
@@ -779,9 +779,9 @@
     "url": "http://www.dnd5eapi.co/api/features/43"
   },
   {
-    "index": 44,
+    "id": "44",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/2",
+      "ref": "classes/2",
       "name": "Bard"
     },
     "subclass": {},
@@ -799,9 +799,9 @@
     "url": "http://www.dnd5eapi.co/api/features/44"
   },
   {
-    "index": 45,
+    "id": "45",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/2",
+      "ref": "classes/2",
       "name": "Bard"
     },
     "subclass": {},
@@ -819,9 +819,9 @@
     "url": "http://www.dnd5eapi.co/api/features/45"
   },
   {
-    "index": 46,
+    "id": "46",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/2",
+      "ref": "classes/2",
       "name": "Bard"
     },
     "subclass": {},
@@ -839,9 +839,9 @@
     "url": "http://www.dnd5eapi.co/api/features/46"
   },
   {
-    "index": 47,
+    "id": "47",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/2",
+      "ref": "classes/2",
       "name": "Bard"
     },
     "subclass": {},
@@ -859,9 +859,9 @@
     "url": "http://www.dnd5eapi.co/api/features/47"
   },
   {
-    "index": 48,
+    "id": "48",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/2",
+      "ref": "classes/2",
       "name": "Bard"
     },
     "subclass": {},
@@ -879,9 +879,9 @@
     "url": "http://www.dnd5eapi.co/api/features/48"
   },
   {
-    "index": 49,
+    "id": "49",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/2",
+      "ref": "classes/2",
       "name": "Bard"
     },
     "subclass": {},
@@ -899,9 +899,9 @@
     "url": "http://www.dnd5eapi.co/api/features/49"
   },
   {
-    "index": 50,
+    "id": "50",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/2",
+      "ref": "classes/2",
       "name": "Bard"
     },
     "subclass": {},
@@ -919,9 +919,9 @@
     "url": "http://www.dnd5eapi.co/api/features/50"
   },
   {
-    "index": 51,
+    "id": "51",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/2",
+      "ref": "classes/2",
       "name": "Bard"
     },
     "subclass": {},
@@ -933,9 +933,9 @@
     "url": "http://www.dnd5eapi.co/api/features/51"
   },
   {
-    "index": 52,
+    "id": "52",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/2",
+      "ref": "classes/2",
       "name": "Bard"
     },
     "subclass": {},
@@ -949,9 +949,9 @@
     "url": "http://www.dnd5eapi.co/api/features/52"
   },
   {
-    "index": 53,
+    "id": "53",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/2",
+      "ref": "classes/2",
       "name": "Bard"
     },
     "subclass": {},
@@ -963,9 +963,9 @@
     "url": "http://www.dnd5eapi.co/api/features/53"
   },
   {
-    "index": 54,
+    "id": "54",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/2",
+      "ref": "classes/2",
       "name": "Bard"
     },
     "subclass": {},
@@ -977,13 +977,13 @@
     "url": "http://www.dnd5eapi.co/api/features/54"
   },
   {
-    "index": 55,
+    "id": "55",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/2",
+      "ref": "classes/2",
       "name": "Bard"
     },
     "subclass": {
-      "url": "http://www.dnd5eapi.co/api/subclasses/2",
+      "ref": "subclasses/2",
       "name": "Lore"
     },
     "name": "Additional Magical Secrets",
@@ -994,9 +994,9 @@
     "url": "http://www.dnd5eapi.co/api/features/55"
   },
   {
-    "index": 56,
+    "id": "56",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/2",
+      "ref": "classes/2",
       "name": "Bard"
     },
     "subclass": {},
@@ -1008,9 +1008,9 @@
     "url": "http://www.dnd5eapi.co/api/features/56"
   },
   {
-    "index": 57,
+    "id": "57",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/2",
+      "ref": "classes/2",
       "name": "Bard"
     },
     "subclass": {},
@@ -1023,9 +1023,9 @@
     "url": "http://www.dnd5eapi.co/api/features/57"
   },
   {
-    "index": 58,
+    "id": "58",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/2",
+      "ref": "classes/2",
       "name": "Bard"
     },
     "subclass": {},
@@ -1039,9 +1039,9 @@
     "url": "http://www.dnd5eapi.co/api/features/58"
   },
   {
-    "index": 59,
+    "id": "59",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/2",
+      "ref": "classes/2",
       "name": "Bard"
     },
     "subclass": {},
@@ -1055,75 +1055,75 @@
       "type": "feature",
       "from": [
         {
-          "url": "http://www.dnd5eapi.co/api/features/278",
+          "ref": "features/278",
           "name": "Expertise: Acrobatics"
         },
         {
-          "url": "http://www.dnd5eapi.co/api/features/277",
+          "ref": "features/277",
           "name": "Expertise: Animal Handling"
         },
         {
-          "url": "http://www.dnd5eapi.co/api/features/261",
+          "ref": "features/261",
           "name": "Expertise: Arcana"
         },
         {
-          "url": "http://www.dnd5eapi.co/api/features/262",
+          "ref": "features/262",
           "name": "Expertise: Athletics"
         },
         {
-          "url": "http://www.dnd5eapi.co/api/features/263",
+          "ref": "features/263",
           "name": "Expertise: Deception"
         },
         {
-          "url": "http://www.dnd5eapi.co/api/features/264",
+          "ref": "features/264",
           "name": "Expertise: History"
         },
         {
-          "url": "http://www.dnd5eapi.co/api/features/265",
+          "ref": "features/265",
           "name": "Expertise: Insight"
         },
         {
-          "url": "http://www.dnd5eapi.co/api/features/266",
+          "ref": "features/266",
           "name": "Expertise: Intimidation"
         },
         {
-          "url": "http://www.dnd5eapi.co/api/features/267",
+          "ref": "features/267",
           "name": "Expertise: Investigation"
         },
         {
-          "url": "http://www.dnd5eapi.co/api/features/268",
+          "ref": "features/268",
           "name": "Expertise: Medicine"
         },
         {
-          "url": "http://www.dnd5eapi.co/api/features/269",
+          "ref": "features/269",
           "name": "Expertise: Nature"
         },
         {
-          "url": "http://www.dnd5eapi.co/api/features/270",
+          "ref": "features/270",
           "name": "Expertise: Perception"
         },
         {
-          "url": "http://www.dnd5eapi.co/api/features/271",
+          "ref": "features/271",
           "name": "Expertise: Performance"
         },
         {
-          "url": "http://www.dnd5eapi.co/api/features/272",
+          "ref": "features/272",
           "name": "Expertise: Persuasion"
         },
         {
-          "url": "http://www.dnd5eapi.co/api/features/273",
+          "ref": "features/273",
           "name": "Expertise: Religion"
         },
         {
-          "url": "http://www.dnd5eapi.co/api/features/274",
+          "ref": "features/274",
           "name": "Expertise: Sleight of Hand"
         },
         {
-          "url": "http://www.dnd5eapi.co/api/features/275",
+          "ref": "features/275",
           "name": "Expertise: Stealth"
         },
         {
-          "url": "http://www.dnd5eapi.co/api/features/276",
+          "ref": "features/276",
           "name": "Expertise: Survival"
         }
       ]
@@ -1131,9 +1131,9 @@
     "url": "http://www.dnd5eapi.co/api/features/59"
   },
   {
-    "index": 60,
+    "id": "60",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/2",
+      "ref": "classes/2",
       "name": "Bard"
     },
     "subclass": {},
@@ -1147,9 +1147,9 @@
     "url": "http://www.dnd5eapi.co/api/features/60"
   },
   {
-    "index": 61,
+    "id": "61",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/2",
+      "ref": "classes/2",
       "name": "Bard"
     },
     "subclass": {},
@@ -1161,9 +1161,9 @@
     "url": "http://www.dnd5eapi.co/api/features/61"
   },
   {
-    "index": 62,
+    "id": "62",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/2",
+      "ref": "classes/2",
       "name": "Bard"
     },
     "subclass": {},
@@ -1176,9 +1176,9 @@
     "url": "http://www.dnd5eapi.co/api/features/62"
   },
   {
-    "index": 63,
+    "id": "63",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/2",
+      "ref": "classes/2",
       "name": "Bard"
     },
     "subclass": {},
@@ -1192,13 +1192,13 @@
     "url": "http://www.dnd5eapi.co/api/features/63"
   },
   {
-    "index": 64,
+    "id": "64",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/2",
+      "ref": "classes/2",
       "name": "Bard"
     },
     "subclass": {
-      "url": "http://www.dnd5eapi.co/api/subclasses/2",
+      "ref": "subclasses/2",
       "name": "Lore"
     },
     "name": "Peerless Skill",
@@ -1209,9 +1209,9 @@
     "url": "http://www.dnd5eapi.co/api/features/64"
   },
   {
-    "index": 65,
+    "id": "65",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/2",
+      "ref": "classes/2",
       "name": "Bard"
     },
     "subclass": {},
@@ -1225,9 +1225,9 @@
     "url": "http://www.dnd5eapi.co/api/features/65"
   },
   {
-    "index": 66,
+    "id": "66",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/2",
+      "ref": "classes/2",
       "name": "Bard"
     },
     "subclass": {},
@@ -1239,9 +1239,9 @@
     "url": "http://www.dnd5eapi.co/api/features/66"
   },
   {
-    "index": 67,
+    "id": "67",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/2",
+      "ref": "classes/2",
       "name": "Bard"
     },
     "subclass": {},
@@ -1254,9 +1254,9 @@
     "url": "http://www.dnd5eapi.co/api/features/67"
   },
   {
-    "index": 68,
+    "id": "68",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/2",
+      "ref": "classes/2",
       "name": "Bard"
     },
     "subclass": {},
@@ -1270,9 +1270,9 @@
     "url": "http://www.dnd5eapi.co/api/features/68"
   },
   {
-    "index": 69,
+    "id": "69",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/2",
+      "ref": "classes/2",
       "name": "Bard"
     },
     "subclass": {},
@@ -1284,9 +1284,9 @@
     "url": "http://www.dnd5eapi.co/api/features/69"
   },
   {
-    "index": 70,
+    "id": "70",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/2",
+      "ref": "classes/2",
       "name": "Bard"
     },
     "subclass": {},
@@ -1298,9 +1298,9 @@
     "url": "http://www.dnd5eapi.co/api/features/70"
   },
   {
-    "index": 71,
+    "id": "71",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/3",
+      "ref": "classes/3",
       "name": "Cleric"
     },
     "subclass": {},
@@ -1311,9 +1311,9 @@
     "url": "http://www.dnd5eapi.co/api/features/71"
   },
   {
-    "index": 72,
+    "id": "72",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/3",
+      "ref": "classes/3",
       "name": "Cleric"
     },
     "subclass": {},
@@ -1326,9 +1326,9 @@
     "url": "http://www.dnd5eapi.co/api/features/72"
   },
   {
-    "index": 73,
+    "id": "73",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/3",
+      "ref": "classes/3",
       "name": "Cleric"
     },
     "subclass": {},
@@ -1341,13 +1341,13 @@
     "url": "http://www.dnd5eapi.co/api/features/73"
   },
   {
-    "index": 74,
+    "id": "74",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/3",
+      "ref": "classes/3",
       "name": "Cleric"
     },
     "subclass": {
-      "url": "http://www.dnd5eapi.co/api/subclasses/3",
+      "ref": "subclasses/3",
       "name": "Life"
     },
     "name": "Bonus Proficiency",
@@ -1358,13 +1358,13 @@
     "url": "http://www.dnd5eapi.co/api/features/74"
   },
   {
-    "index": 75,
+    "id": "75",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/3",
+      "ref": "classes/3",
       "name": "Cleric"
     },
     "subclass": {
-      "url": "http://www.dnd5eapi.co/api/subclasses/3",
+      "ref": "subclasses/3",
       "name": "Life"
     },
     "name": "Disciple of Life",
@@ -1375,9 +1375,9 @@
     "url": "http://www.dnd5eapi.co/api/features/75"
   },
   {
-    "index": 76,
+    "id": "76",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/3",
+      "ref": "classes/3",
       "name": "Cleric"
     },
     "subclass": {},
@@ -1392,9 +1392,9 @@
     "url": "http://www.dnd5eapi.co/api/features/76"
   },
   {
-    "index": 77,
+    "id": "77",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/3",
+      "ref": "classes/3",
       "name": "Cleric"
     },
     "subclass": {},
@@ -1407,13 +1407,13 @@
     "url": "http://www.dnd5eapi.co/api/features/77"
   },
   {
-    "index": 78,
+    "id": "78",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/3",
+      "ref": "classes/3",
       "name": "Cleric"
     },
     "subclass": {
-      "url": "http://www.dnd5eapi.co/api/subclasses/3",
+      "ref": "subclasses/3",
       "name": "Life"
     },
     "name": "Channel Divinity: Preserve Life",
@@ -1426,9 +1426,9 @@
     "url": "http://www.dnd5eapi.co/api/features/78"
   },
   {
-    "index": 79,
+    "id": "79",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/3",
+      "ref": "classes/3",
       "name": "Cleric"
     },
     "subclass": {},
@@ -1441,9 +1441,9 @@
     "url": "http://www.dnd5eapi.co/api/features/79"
   },
   {
-    "index": 80,
+    "id": "80",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/3",
+      "ref": "classes/3",
       "name": "Cleric"
     },
     "subclass": {},
@@ -1455,9 +1455,9 @@
     "url": "http://www.dnd5eapi.co/api/features/80"
   },
   {
-    "index": 81,
+    "id": "81",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/3",
+      "ref": "classes/3",
       "name": "Cleric"
     },
     "subclass": {},
@@ -1470,9 +1470,9 @@
     "url": "http://www.dnd5eapi.co/api/features/81"
   },
   {
-    "index": 82,
+    "id": "82",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/3",
+      "ref": "classes/3",
       "name": "Cleric"
     },
     "subclass": {},
@@ -1484,9 +1484,9 @@
     "url": "http://www.dnd5eapi.co/api/features/82"
   },
   {
-    "index": 83,
+    "id": "83",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/3",
+      "ref": "classes/3",
       "name": "Cleric"
     },
     "subclass": {},
@@ -1498,13 +1498,13 @@
     "url": "http://www.dnd5eapi.co/api/features/83"
   },
   {
-    "index": 84,
+    "id": "84",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/3",
+      "ref": "classes/3",
       "name": "Cleric"
     },
     "subclass": {
-      "url": "http://www.dnd5eapi.co/api/subclasses/3",
+      "ref": "subclasses/3",
       "name": "Life"
     },
     "name": "Blessed Healer",
@@ -1515,9 +1515,9 @@
     "url": "http://www.dnd5eapi.co/api/features/84"
   },
   {
-    "index": 85,
+    "id": "85",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/3",
+      "ref": "classes/3",
       "name": "Cleric"
     },
     "subclass": {},
@@ -1530,9 +1530,9 @@
     "url": "http://www.dnd5eapi.co/api/features/85"
   },
   {
-    "index": 86,
+    "id": "86",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/3",
+      "ref": "classes/3",
       "name": "Cleric"
     },
     "subclass": {},
@@ -1544,9 +1544,9 @@
     "url": "http://www.dnd5eapi.co/api/features/86"
   },
   {
-    "index": 87,
+    "id": "87",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/3",
+      "ref": "classes/3",
       "name": "Cleric"
     },
     "subclass": {},
@@ -1558,13 +1558,13 @@
     "url": "http://www.dnd5eapi.co/api/features/87"
   },
   {
-    "index": 88,
+    "id": "88",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/3",
+      "ref": "classes/3",
       "name": "Cleric"
     },
     "subclass": {
-      "url": "http://www.dnd5eapi.co/api/subclasses/3",
+      "ref": "subclasses/3",
       "name": "Life"
     },
     "name": "Divine Strike",
@@ -1575,9 +1575,9 @@
     "url": "http://www.dnd5eapi.co/api/features/88"
   },
   {
-    "index": 89,
+    "id": "89",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/3",
+      "ref": "classes/3",
       "name": "Cleric"
     },
     "subclass": {},
@@ -1590,9 +1590,9 @@
     "url": "http://www.dnd5eapi.co/api/features/89"
   },
   {
-    "index": 90,
+    "id": "90",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/3",
+      "ref": "classes/3",
       "name": "Cleric"
     },
     "subclass": {},
@@ -1607,9 +1607,9 @@
     "url": "http://www.dnd5eapi.co/api/features/90"
   },
   {
-    "index": 91,
+    "id": "91",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/3",
+      "ref": "classes/3",
       "name": "Cleric"
     },
     "subclass": {},
@@ -1621,9 +1621,9 @@
     "url": "http://www.dnd5eapi.co/api/features/91"
   },
   {
-    "index": 92,
+    "id": "92",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/3",
+      "ref": "classes/3",
       "name": "Cleric"
     },
     "subclass": {},
@@ -1635,9 +1635,9 @@
     "url": "http://www.dnd5eapi.co/api/features/92"
   },
   {
-    "index": 93,
+    "id": "93",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/3",
+      "ref": "classes/3",
       "name": "Cleric"
     },
     "subclass": {},
@@ -1649,9 +1649,9 @@
     "url": "http://www.dnd5eapi.co/api/features/93"
   },
   {
-    "index": 94,
+    "id": "94",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/3",
+      "ref": "classes/3",
       "name": "Cleric"
     },
     "subclass": {},
@@ -1663,9 +1663,9 @@
     "url": "http://www.dnd5eapi.co/api/features/94"
   },
   {
-    "index": 95,
+    "id": "95",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/3",
+      "ref": "classes/3",
       "name": "Cleric"
     },
     "subclass": {},
@@ -1677,9 +1677,9 @@
     "url": "http://www.dnd5eapi.co/api/features/95"
   },
   {
-    "index": 96,
+    "id": "96",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/3",
+      "ref": "classes/3",
       "name": "Cleric"
     },
     "subclass": {},
@@ -1691,9 +1691,9 @@
     "url": "http://www.dnd5eapi.co/api/features/96"
   },
   {
-    "index": 97,
+    "id": "97",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/3",
+      "ref": "classes/3",
       "name": "Cleric"
     },
     "subclass": {},
@@ -1705,9 +1705,9 @@
     "url": "http://www.dnd5eapi.co/api/features/97"
   },
   {
-    "index": 98,
+    "id": "98",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/3",
+      "ref": "classes/3",
       "name": "Cleric"
     },
     "subclass": {},
@@ -1719,9 +1719,9 @@
     "url": "http://www.dnd5eapi.co/api/features/98"
   },
   {
-    "index": 99,
+    "id": "99",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/3",
+      "ref": "classes/3",
       "name": "Cleric"
     },
     "subclass": {},
@@ -1733,9 +1733,9 @@
     "url": "http://www.dnd5eapi.co/api/features/99"
   },
   {
-    "index": 100,
+    "id": "100",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/4",
+      "ref": "classes/4",
       "name": "Druid"
     },
     "subclass": {},
@@ -1748,9 +1748,9 @@
     "url": "http://www.dnd5eapi.co/api/features/100"
   },
   {
-    "index": 101,
+    "id": "101",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/4",
+      "ref": "classes/4",
       "name": "Druid"
     },
     "subclass": {},
@@ -1762,9 +1762,9 @@
     "url": "http://www.dnd5eapi.co/api/features/101"
   },
   {
-    "index": 102,
+    "id": "102",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/4",
+      "ref": "classes/4",
       "name": "Druid"
     },
     "subclass": {},
@@ -1784,9 +1784,9 @@
     "url": "http://www.dnd5eapi.co/api/features/102"
   },
   {
-    "index": 103,
+    "id": "103",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/4",
+      "ref": "classes/4",
       "name": "Druid"
     },
     "subclass": {},
@@ -1798,9 +1798,9 @@
     "url": "http://www.dnd5eapi.co/api/features/103"
   },
   {
-    "index": 104,
+    "id": "104",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/4",
+      "ref": "classes/4",
       "name": "Druid"
     },
     "subclass": {
@@ -1817,31 +1817,31 @@
       "type": "feature",
       "from": [
         {
-          "url": "http://www.dnd5eapi.co/api/features/105",
+          "ref": "features/105",
           "name": "Circle of the Land: Arctic"
         },
         {
-          "url": "http://www.dnd5eapi.co/api/features/106",
+          "ref": "features/106",
           "name": "Circle of the Land: Coast"
         },
         {
-          "url": "http://www.dnd5eapi.co/api/features/107",
+          "ref": "features/107",
           "name": "Circle of the Land: Desert"
         },
         {
-          "url": "http://www.dnd5eapi.co/api/features/108",
+          "ref": "features/108",
           "name": "Circle of the Land: Forest"
         },
         {
-          "url": "http://www.dnd5eapi.co/api/features/109",
+          "ref": "features/109",
           "name": "Circle of the Land: Grassland"
         },
         {
-          "url": "http://www.dnd5eapi.co/api/features/110",
+          "ref": "features/110",
           "name": "Circle of the Land: Mountain"
         },
         {
-          "url": "http://www.dnd5eapi.co/api/features/111",
+          "ref": "features/111",
           "name": "Circle of the Land: Swamp"
         }
       ]
@@ -1849,9 +1849,9 @@
     "url": "http://www.dnd5eapi.co/api/features/104"
   },
   {
-    "index": 105,
+    "id": "105",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/4",
+      "ref": "classes/4",
       "name": "Druid"
     },
     "subclass": {
@@ -1867,9 +1867,9 @@
     "url": "http://www.dnd5eapi.co/api/features/105"
   },
   {
-    "index": 106,
+    "id": "106",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/4",
+      "ref": "classes/4",
       "name": "Druid"
     },
     "subclass": {
@@ -1885,9 +1885,9 @@
     "url": "http://www.dnd5eapi.co/api/features/106"
   },
   {
-    "index": 107,
+    "id": "107",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/4",
+      "ref": "classes/4",
       "name": "Druid"
     },
     "subclass": {
@@ -1903,9 +1903,9 @@
     "url": "http://www.dnd5eapi.co/api/features/107"
   },
   {
-    "index": 108,
+    "id": "108",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/4",
+      "ref": "classes/4",
       "name": "Druid"
     },
     "subclass": {
@@ -1921,9 +1921,9 @@
     "url": "http://www.dnd5eapi.co/api/features/108"
   },
   {
-    "index": 109,
+    "id": "109",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/4",
+      "ref": "classes/4",
       "name": "Druid"
     },
     "subclass": {
@@ -1939,9 +1939,9 @@
     "url": "http://www.dnd5eapi.co/api/features/109"
   },
   {
-    "index": 110,
+    "id": "110",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/4",
+      "ref": "classes/4",
       "name": "Druid"
     },
     "subclass": {
@@ -1957,9 +1957,9 @@
     "url": "http://www.dnd5eapi.co/api/features/110"
   },
   {
-    "index": 111,
+    "id": "111",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/4",
+      "ref": "classes/4",
       "name": "Druid"
     },
     "subclass": {
@@ -1975,9 +1975,9 @@
     "url": "http://www.dnd5eapi.co/api/features/111"
   },
   {
-    "index": 112,
+    "id": "112",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/4",
+      "ref": "classes/4",
       "name": "Druid"
     },
     "subclass": {
@@ -1992,9 +1992,9 @@
     "url": "http://www.dnd5eapi.co/api/features/112"
   },
   {
-    "index": 113,
+    "id": "113",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/4",
+      "ref": "classes/4",
       "name": "Druid"
     },
     "subclass": {
@@ -2010,9 +2010,9 @@
     "url": "http://www.dnd5eapi.co/api/features/113"
   },
   {
-    "index": 114,
+    "id": "114",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/4",
+      "ref": "classes/4",
       "name": "Druid"
     },
     "subclass": {
@@ -2029,9 +2029,9 @@
     "url": "http://www.dnd5eapi.co/api/features/114"
   },
   {
-    "index": 115,
+    "id": "115",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/4",
+      "ref": "classes/4",
       "name": "Druid"
     },
     "subclass": {},
@@ -2051,9 +2051,9 @@
     "url": "http://www.dnd5eapi.co/api/features/115"
   },
   {
-    "index": 116,
+    "id": "116",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/4",
+      "ref": "classes/4",
       "name": "Druid"
     },
     "subclass": {},
@@ -2065,9 +2065,9 @@
     "url": "http://www.dnd5eapi.co/api/features/116"
   },
   {
-    "index": 117,
+    "id": "117",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/4",
+      "ref": "classes/4",
       "name": "Druid"
     },
     "subclass": {
@@ -2084,9 +2084,9 @@
     "url": "http://www.dnd5eapi.co/api/features/117"
   },
   {
-    "index": 118,
+    "id": "118",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/4",
+      "ref": "classes/4",
       "name": "Druid"
     },
     "subclass": {
@@ -2102,9 +2102,9 @@
     "url": "http://www.dnd5eapi.co/api/features/118"
   },
   {
-    "index": 119,
+    "id": "119",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/4",
+      "ref": "classes/4",
       "name": "Druid"
     },
     "subclass": {
@@ -2121,9 +2121,9 @@
     "url": "http://www.dnd5eapi.co/api/features/119"
   },
   {
-    "index": 120,
+    "id": "120",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/4",
+      "ref": "classes/4",
       "name": "Druid"
     },
     "subclass": {},
@@ -2143,9 +2143,9 @@
     "url": "http://www.dnd5eapi.co/api/features/120"
   },
   {
-    "index": 121,
+    "id": "121",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/4",
+      "ref": "classes/4",
       "name": "Druid"
     },
     "subclass": {},
@@ -2157,9 +2157,9 @@
     "url": "http://www.dnd5eapi.co/api/features/121"
   },
   {
-    "index": 122,
+    "id": "122",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/4",
+      "ref": "classes/4",
       "name": "Druid"
     },
     "subclass": {
@@ -2176,9 +2176,9 @@
     "url": "http://www.dnd5eapi.co/api/features/122"
   },
   {
-    "index": 123,
+    "id": "123",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/4",
+      "ref": "classes/4",
       "name": "Druid"
     },
     "subclass": {
@@ -2193,9 +2193,9 @@
     "url": "http://www.dnd5eapi.co/api/features/123"
   },
   {
-    "index": 124,
+    "id": "124",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/4",
+      "ref": "classes/4",
       "name": "Druid"
     },
     "subclass": {},
@@ -2207,9 +2207,9 @@
     "url": "http://www.dnd5eapi.co/api/features/124"
   },
   {
-    "index": 125,
+    "id": "125",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/4",
+      "ref": "classes/4",
       "name": "Druid"
     },
     "subclass": {
@@ -2224,9 +2224,9 @@
     "url": "http://www.dnd5eapi.co/api/features/125"
   },
   {
-    "index": 126,
+    "id": "126",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/4",
+      "ref": "classes/4",
       "name": "Druid"
     },
     "subclass": {},
@@ -2238,9 +2238,9 @@
     "url": "http://www.dnd5eapi.co/api/features/126"
   },
   {
-    "index": 127,
+    "id": "127",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/4",
+      "ref": "classes/4",
       "name": "Druid"
     },
     "subclass": {},
@@ -2252,9 +2252,9 @@
     "url": "http://www.dnd5eapi.co/api/features/127"
   },
   {
-    "index": 128,
+    "id": "128",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/4",
+      "ref": "classes/4",
       "name": "Druid"
     },
     "subclass": {},
@@ -2266,9 +2266,9 @@
     "url": "http://www.dnd5eapi.co/api/features/128"
   },
   {
-    "index": 129,
+    "id": "129",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/4",
+      "ref": "classes/4",
       "name": "Druid"
     },
     "subclass": {},
@@ -2280,9 +2280,9 @@
     "url": "http://www.dnd5eapi.co/api/features/129"
   },
   {
-    "index": 130,
+    "id": "130",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/4",
+      "ref": "classes/4",
       "name": "Druid"
     },
     "subclass": {},
@@ -2295,9 +2295,9 @@
     "url": "http://www.dnd5eapi.co/api/features/130"
   },
   {
-    "index": 131,
+    "id": "131",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/5",
+      "ref": "classes/5",
       "name": "Fighter"
     },
     "subclass": {},
@@ -2311,27 +2311,27 @@
       "type": "feature",
       "from": [
         {
-          "url": "http://www.dnd5eapi.co/api/features/132",
+          "ref": "features/132",
           "name": "Fighting Style: Archery"
         },
         {
-          "url": "http://www.dnd5eapi.co/api/features/133",
+          "ref": "features/133",
           "name": "Fighting Style: Defense"
         },
         {
-          "url": "http://www.dnd5eapi.co/api/features/134",
+          "ref": "features/134",
           "name": "Fighting Style: Dueling"
         },
         {
-          "url": "http://www.dnd5eapi.co/api/features/135",
+          "ref": "features/135",
           "name": "Fighting Style: Great Weapon Fighting"
         },
         {
-          "url": "http://www.dnd5eapi.co/api/features/136",
+          "ref": "features/136",
           "name": "Fighting Style: Protection"
         },
         {
-          "url": "http://www.dnd5eapi.co/api/features/137",
+          "ref": "features/137",
           "name": "Fighting Style: Two-Weapon Fighting"
         }
       ]
@@ -2339,9 +2339,9 @@
     "url": "http://www.dnd5eapi.co/api/features/131"
   },
   {
-    "index": 132,
+    "id": "132",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/5",
+      "ref": "classes/5",
       "name": "Fighter"
     },
     "subclass": {},
@@ -2354,9 +2354,9 @@
     "url": "http://www.dnd5eapi.co/api/features/132"
   },
   {
-    "index": 133,
+    "id": "133",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/5",
+      "ref": "classes/5",
       "name": "Fighter"
     },
     "subclass": {},
@@ -2367,9 +2367,9 @@
     "url": "http://www.dnd5eapi.co/api/features/133"
   },
   {
-    "index": 134,
+    "id": "134",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/5",
+      "ref": "classes/5",
       "name": "Fighter"
     },
     "subclass": {},
@@ -2382,9 +2382,9 @@
     "url": "http://www.dnd5eapi.co/api/features/134"
   },
   {
-    "index": 135,
+    "id": "135",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/5",
+      "ref": "classes/5",
       "name": "Fighter"
     },
     "subclass": {},
@@ -2397,9 +2397,9 @@
     "url": "http://www.dnd5eapi.co/api/features/135"
   },
   {
-    "index": 136,
+    "id": "136",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/5",
+      "ref": "classes/5",
       "name": "Fighter"
     },
     "subclass": {},
@@ -2412,9 +2412,9 @@
     "url": "http://www.dnd5eapi.co/api/features/136"
   },
   {
-    "index": 137,
+    "id": "137",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/5",
+      "ref": "classes/5",
       "name": "Fighter"
     },
     "subclass": {},
@@ -2427,9 +2427,9 @@
     "url": "http://www.dnd5eapi.co/api/features/137"
   },
   {
-    "index": 138,
+    "id": "138",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/5",
+      "ref": "classes/5",
       "name": "Fighter"
     },
     "subclass": {},
@@ -2441,9 +2441,9 @@
     "url": "http://www.dnd5eapi.co/api/features/138"
   },
   {
-    "index": 139,
+    "id": "139",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/5",
+      "ref": "classes/5",
       "name": "Fighter"
     },
     "subclass": {},
@@ -2456,9 +2456,9 @@
     "url": "http://www.dnd5eapi.co/api/features/139"
   },
   {
-    "index": 140,
+    "id": "140",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/5",
+      "ref": "classes/5",
       "name": "Fighter"
     },
     "subclass": {},
@@ -2470,13 +2470,13 @@
     "url": "http://www.dnd5eapi.co/api/features/140"
   },
   {
-    "index": 141,
+    "id": "141",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/5",
+      "ref": "classes/5",
       "name": "Fighter"
     },
     "subclass": {
-      "url": "http://www.dnd5eapi.co/api/subclasses/5",
+      "ref": "subclasses/5",
       "name": "Champion"
     },
     "name": "Improved Critical",
@@ -2487,9 +2487,9 @@
     "url": "http://www.dnd5eapi.co/api/features/141"
   },
   {
-    "index": 142,
+    "id": "142",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/5",
+      "ref": "classes/5",
       "name": "Fighter"
     },
     "subclass": {},
@@ -2501,9 +2501,9 @@
     "url": "http://www.dnd5eapi.co/api/features/142"
   },
   {
-    "index": 143,
+    "id": "143",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/5",
+      "ref": "classes/5",
       "name": "Fighter"
     },
     "subclass": {},
@@ -2515,9 +2515,9 @@
     "url": "http://www.dnd5eapi.co/api/features/143"
   },
   {
-    "index": 144,
+    "id": "144",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/5",
+      "ref": "classes/5",
       "name": "Fighter"
     },
     "subclass": {},
@@ -2529,13 +2529,13 @@
     "url": "http://www.dnd5eapi.co/api/features/144"
   },
   {
-    "index": 145,
+    "id": "145",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/5",
+      "ref": "classes/5",
       "name": "Fighter"
     },
     "subclass": {
-      "url": "http://www.dnd5eapi.co/api/subclasses/5",
+      "ref": "subclasses/5",
       "name": "Champion"
     },
     "name": "Remarkable Athlete",
@@ -2546,9 +2546,9 @@
     "url": "http://www.dnd5eapi.co/api/features/145"
   },
   {
-    "index": 146,
+    "id": "146",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/5",
+      "ref": "classes/5",
       "name": "Fighter"
     },
     "subclass": {},
@@ -2560,9 +2560,9 @@
     "url": "http://www.dnd5eapi.co/api/features/146"
   },
   {
-    "index": 147,
+    "id": "147",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/5",
+      "ref": "classes/5",
       "name": "Fighter"
     },
     "subclass": {},
@@ -2574,13 +2574,13 @@
     "url": "http://www.dnd5eapi.co/api/features/147"
   },
   {
-    "index": 148,
+    "id": "148",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/5",
+      "ref": "classes/5",
       "name": "Fighter"
     },
     "subclass": {
-      "url": "http://www.dnd5eapi.co/api/subclasses/5",
+      "ref": "subclasses/5",
       "name": "Champion"
     },
     "name": "Choose: Additional Fighting Style",
@@ -2593,27 +2593,27 @@
       "type": "feature",
       "from": [
         {
-          "url": "http://www.dnd5eapi.co/api/features/132",
+          "ref": "features/132",
           "name": "Fighting Style: Archery"
         },
         {
-          "url": "http://www.dnd5eapi.co/api/features/133",
+          "ref": "features/133",
           "name": "Fighting Style: Defense"
         },
         {
-          "url": "http://www.dnd5eapi.co/api/features/134",
+          "ref": "features/134",
           "name": "Fighting Style: Dueling"
         },
         {
-          "url": "http://www.dnd5eapi.co/api/features/135",
+          "ref": "features/135",
           "name": "Fighting Style: Great Weapon Fighting"
         },
         {
-          "url": "http://www.dnd5eapi.co/api/features/136",
+          "ref": "features/136",
           "name": "Fighting Style: Protection"
         },
         {
-          "url": "http://www.dnd5eapi.co/api/features/137",
+          "ref": "features/137",
           "name": "Fighting Style: Two-Weapon Fighting"
         }
       ]
@@ -2621,9 +2621,9 @@
     "url": "http://www.dnd5eapi.co/api/features/148"
   },
   {
-    "index": 149,
+    "id": "149",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/5",
+      "ref": "classes/5",
       "name": "Fighter"
     },
     "subclass": {},
@@ -2635,9 +2635,9 @@
     "url": "http://www.dnd5eapi.co/api/features/149"
   },
   {
-    "index": 150,
+    "id": "150",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/5",
+      "ref": "classes/5",
       "name": "Fighter"
     },
     "subclass": {},
@@ -2649,9 +2649,9 @@
     "url": "http://www.dnd5eapi.co/api/features/150"
   },
   {
-    "index": 151,
+    "id": "151",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/5",
+      "ref": "classes/5",
       "name": "Fighter"
     },
     "subclass": {},
@@ -2663,9 +2663,9 @@
     "url": "http://www.dnd5eapi.co/api/features/151"
   },
   {
-    "index": 152,
+    "id": "152",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/5",
+      "ref": "classes/5",
       "name": "Fighter"
     },
     "subclass": {},
@@ -2677,13 +2677,13 @@
     "url": "http://www.dnd5eapi.co/api/features/152"
   },
   {
-    "index": 153,
+    "id": "153",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/5",
+      "ref": "classes/5",
       "name": "Fighter"
     },
     "subclass": {
-      "url": "http://www.dnd5eapi.co/api/subclasses/5",
+      "ref": "subclasses/5",
       "name": "Champion"
     },
     "name": "Superior Critical",
@@ -2694,9 +2694,9 @@
     "url": "http://www.dnd5eapi.co/api/features/153"
   },
   {
-    "index": 154,
+    "id": "154",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/5",
+      "ref": "classes/5",
       "name": "Fighter"
     },
     "subclass": {},
@@ -2708,9 +2708,9 @@
     "url": "http://www.dnd5eapi.co/api/features/154"
   },
   {
-    "index": 155,
+    "id": "155",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/5",
+      "ref": "classes/5",
       "name": "Fighter"
     },
     "subclass": {},
@@ -2723,9 +2723,9 @@
     "url": "http://www.dnd5eapi.co/api/features/155"
   },
   {
-    "index": 156,
+    "id": "156",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/5",
+      "ref": "classes/5",
       "name": "Fighter"
     },
     "subclass": {},
@@ -2737,13 +2737,13 @@
     "url": "http://www.dnd5eapi.co/api/features/156"
   },
   {
-    "index": 157,
+    "id": "157",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/5",
+      "ref": "classes/5",
       "name": "Fighter"
     },
     "subclass": {
-      "url": "http://www.dnd5eapi.co/api/subclasses/5",
+      "ref": "subclasses/5",
       "name": "Champion"
     },
     "name": "Survivor",
@@ -2754,9 +2754,9 @@
     "url": "http://www.dnd5eapi.co/api/features/157"
   },
   {
-    "index": 158,
+    "id": "158",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/5",
+      "ref": "classes/5",
       "name": "Fighter"
     },
     "subclass": {},
@@ -2768,9 +2768,9 @@
     "url": "http://www.dnd5eapi.co/api/features/158"
   },
   {
-    "index": 159,
+    "id": "159",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/5",
+      "ref": "classes/5",
       "name": "Fighter"
     },
     "subclass": {},
@@ -2782,9 +2782,9 @@
     "url": "http://www.dnd5eapi.co/api/features/159"
   },
   {
-    "index": 160,
+    "id": "160",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/6",
+      "ref": "classes/6",
       "name": "Monk"
     },
     "subclass": {},
@@ -2796,9 +2796,9 @@
     "url": "http://www.dnd5eapi.co/api/features/160"
   },
   {
-    "index": 161,
+    "id": "161",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/6",
+      "ref": "classes/6",
       "name": "Monk"
     },
     "subclass": {},
@@ -2815,9 +2815,9 @@
     "url": "http://www.dnd5eapi.co/api/features/161"
   },
   {
-    "index": 162,
+    "id": "162",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/6",
+      "ref": "classes/6",
       "name": "Monk"
     },
     "subclass": {},
@@ -2833,9 +2833,9 @@
     "url": "http://www.dnd5eapi.co/api/features/162"
   },
   {
-    "index": 163,
+    "id": "163",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/6",
+      "ref": "classes/6",
       "name": "Monk"
     },
     "subclass": {},
@@ -2847,9 +2847,9 @@
     "url": "http://www.dnd5eapi.co/api/features/163"
   },
   {
-    "index": 164,
+    "id": "164",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/6",
+      "ref": "classes/6",
       "name": "Monk"
     },
     "subclass": {},
@@ -2861,9 +2861,9 @@
     "url": "http://www.dnd5eapi.co/api/features/164"
   },
   {
-    "index": 165,
+    "id": "165",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/6",
+      "ref": "classes/6",
       "name": "Monk"
     },
     "subclass": {},
@@ -2875,9 +2875,9 @@
     "url": "http://www.dnd5eapi.co/api/features/165"
   },
   {
-    "index": 166,
+    "id": "166",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/6",
+      "ref": "classes/6",
       "name": "Monk"
     },
     "subclass": {},
@@ -2890,9 +2890,9 @@
     "url": "http://www.dnd5eapi.co/api/features/166"
   },
   {
-    "index": 167,
+    "id": "167",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/6",
+      "ref": "classes/6",
       "name": "Monk"
     },
     "subclass": {},
@@ -2904,9 +2904,9 @@
     "url": "http://www.dnd5eapi.co/api/features/167"
   },
   {
-    "index": 168,
+    "id": "168",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/6",
+      "ref": "classes/6",
       "name": "Monk"
     },
     "subclass": {},
@@ -2919,13 +2919,13 @@
     "url": "http://www.dnd5eapi.co/api/features/168"
   },
   {
-    "index": 169,
+    "id": "169",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/6",
+      "ref": "classes/6",
       "name": "Monk"
     },
     "subclass": {
-      "url": "http://www.dnd5eapi.co/api/subclasses/6",
+      "ref": "subclasses/6",
       "name": "Open Hand"
     },
     "name": "Open Hand Technique",
@@ -2939,9 +2939,9 @@
     "url": "http://www.dnd5eapi.co/api/features/169"
   },
   {
-    "index": 170,
+    "id": "170",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/6",
+      "ref": "classes/6",
       "name": "Monk"
     },
     "subclass": {},
@@ -2953,9 +2953,9 @@
     "url": "http://www.dnd5eapi.co/api/features/170"
   },
   {
-    "index": 171,
+    "id": "171",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/6",
+      "ref": "classes/6",
       "name": "Monk"
     },
     "subclass": {},
@@ -2967,9 +2967,9 @@
     "url": "http://www.dnd5eapi.co/api/features/171"
   },
   {
-    "index": 172,
+    "id": "172",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/6",
+      "ref": "classes/6",
       "name": "Monk"
     },
     "subclass": {},
@@ -2981,9 +2981,9 @@
     "url": "http://www.dnd5eapi.co/api/features/172"
   },
   {
-    "index": 173,
+    "id": "173",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/6",
+      "ref": "classes/6",
       "name": "Monk"
     },
     "subclass": {},
@@ -2995,9 +2995,9 @@
     "url": "http://www.dnd5eapi.co/api/features/173"
   },
   {
-    "index": 174,
+    "id": "174",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/6",
+      "ref": "classes/6",
       "name": "Monk"
     },
     "subclass": {},
@@ -3009,13 +3009,13 @@
     "url": "http://www.dnd5eapi.co/api/features/174"
   },
   {
-    "index": 175,
+    "id": "175",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/6",
+      "ref": "classes/6",
       "name": "Monk"
     },
     "subclass": {
-      "url": "http://www.dnd5eapi.co/api/subclasses/6",
+      "ref": "subclasses/6",
       "name": "Open Hand"
     },
     "name": "Wholeness of Body",
@@ -3026,9 +3026,9 @@
     "url": "http://www.dnd5eapi.co/api/features/175"
   },
   {
-    "index": 176,
+    "id": "176",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/6",
+      "ref": "classes/6",
       "name": "Monk"
     },
     "subclass": {},
@@ -3040,9 +3040,9 @@
     "url": "http://www.dnd5eapi.co/api/features/176"
   },
   {
-    "index": 177,
+    "id": "177",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/6",
+      "ref": "classes/6",
       "name": "Monk"
     },
     "subclass": {},
@@ -3054,9 +3054,9 @@
     "url": "http://www.dnd5eapi.co/api/features/177"
   },
   {
-    "index": 178,
+    "id": "178",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/6",
+      "ref": "classes/6",
       "name": "Monk"
     },
     "subclass": {},
@@ -3068,9 +3068,9 @@
     "url": "http://www.dnd5eapi.co/api/features/178"
   },
   {
-    "index": 179,
+    "id": "179",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/6",
+      "ref": "classes/6",
       "name": "Monk"
     },
     "subclass": {},
@@ -3083,9 +3083,9 @@
     "url": "http://www.dnd5eapi.co/api/features/179"
   },
   {
-    "index": 180,
+    "id": "180",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/6",
+      "ref": "classes/6",
       "name": "Monk"
     },
     "subclass": {},
@@ -3097,13 +3097,13 @@
     "url": "http://www.dnd5eapi.co/api/features/180"
   },
   {
-    "index": 181,
+    "id": "181",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/6",
+      "ref": "classes/6",
       "name": "Monk"
     },
     "subclass": {
-      "url": "http://www.dnd5eapi.co/api/subclasses/6",
+      "ref": "subclasses/6",
       "name": "Open Hand"
     },
     "name": "Tranquility",
@@ -3114,9 +3114,9 @@
     "url": "http://www.dnd5eapi.co/api/features/181"
   },
   {
-    "index": 182,
+    "id": "182",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/6",
+      "ref": "classes/6",
       "name": "Monk"
     },
     "subclass": {},
@@ -3128,9 +3128,9 @@
     "url": "http://www.dnd5eapi.co/api/features/182"
   },
   {
-    "index": 183,
+    "id": "183",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/6",
+      "ref": "classes/6",
       "name": "Monk"
     },
     "subclass": {},
@@ -3142,9 +3142,9 @@
     "url": "http://www.dnd5eapi.co/api/features/183"
   },
   {
-    "index": 184,
+    "id": "184",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/6",
+      "ref": "classes/6",
       "name": "Monk"
     },
     "subclass": {},
@@ -3157,9 +3157,9 @@
     "url": "http://www.dnd5eapi.co/api/features/184"
   },
   {
-    "index": 185,
+    "id": "185",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/6",
+      "ref": "classes/6",
       "name": "Monk"
     },
     "subclass": {},
@@ -3171,9 +3171,9 @@
     "url": "http://www.dnd5eapi.co/api/features/185"
   },
   {
-    "index": 186,
+    "id": "186",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/6",
+      "ref": "classes/6",
       "name": "Monk"
     },
     "subclass": {},
@@ -3185,13 +3185,13 @@
     "url": "http://www.dnd5eapi.co/api/features/186"
   },
   {
-    "index": 187,
+    "id": "187",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/6",
+      "ref": "classes/6",
       "name": "Monk"
     },
     "subclass": {
-      "url": "http://www.dnd5eapi.co/api/subclasses/6",
+      "ref": "subclasses/6",
       "name": "Open Hand"
     },
     "name": "Quivering Palm",
@@ -3203,9 +3203,9 @@
     "url": "http://www.dnd5eapi.co/api/features/187"
   },
   {
-    "index": 188,
+    "id": "188",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/6",
+      "ref": "classes/6",
       "name": "Monk"
     },
     "subclass": {},
@@ -3218,9 +3218,9 @@
     "url": "http://www.dnd5eapi.co/api/features/188"
   },
   {
-    "index": 189,
+    "id": "189",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/6",
+      "ref": "classes/6",
       "name": "Monk"
     },
     "subclass": {},
@@ -3232,9 +3232,9 @@
     "url": "http://www.dnd5eapi.co/api/features/189"
   },
   {
-    "index": 190,
+    "id": "190",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/6",
+      "ref": "classes/6",
       "name": "Monk"
     },
     "subclass": {},
@@ -3246,9 +3246,9 @@
     "url": "http://www.dnd5eapi.co/api/features/190"
   },
   {
-    "index": 191,
+    "id": "191",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/7",
+      "ref": "classes/7",
       "name": "Paladin"
     },
     "subclass": {},
@@ -3261,9 +3261,9 @@
     "url": "http://www.dnd5eapi.co/api/features/191"
   },
   {
-    "index": 192,
+    "id": "192",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/7",
+      "ref": "classes/7",
       "name": "Paladin"
     },
     "subclass": {},
@@ -3278,9 +3278,9 @@
     "url": "http://www.dnd5eapi.co/api/features/192"
   },
   {
-    "index": 193,
+    "id": "193",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/7",
+      "ref": "classes/7",
       "name": "Paladin"
     },
     "subclass": {},
@@ -3294,19 +3294,19 @@
       "type": "feature",
       "from": [
         {
-          "url": "http://www.dnd5eapi.co/api/features/194",
+          "ref": "features/194",
           "name": "Fighting Style: Defense"
         },
         {
-          "url": "http://www.dnd5eapi.co/api/features/195",
+          "ref": "features/195",
           "name": "Fighting Style: Dueling"
         },
         {
-          "url": "http://www.dnd5eapi.co/api/features/196",
+          "ref": "features/196",
           "name": "Fighting Style: Great Weapon Fighting"
         },
         {
-          "url": "http://www.dnd5eapi.co/api/features/197",
+          "ref": "features/197",
           "name": "Fighting Style: Protection"
         }
       ]
@@ -3314,9 +3314,9 @@
     "url": "http://www.dnd5eapi.co/api/features/193"
   },
   {
-    "index": 194,
+    "id": "194",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/7",
+      "ref": "classes/7",
       "name": "Paladin"
     },
     "subclass": {},
@@ -3327,9 +3327,9 @@
     "url": "http://www.dnd5eapi.co/api/features/194"
   },
   {
-    "index": 195,
+    "id": "195",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/7",
+      "ref": "classes/7",
       "name": "Paladin"
     },
     "subclass": {},
@@ -3342,9 +3342,9 @@
     "url": "http://www.dnd5eapi.co/api/features/195"
   },
   {
-    "index": 196,
+    "id": "196",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/7",
+      "ref": "classes/7",
       "name": "Paladin"
     },
     "subclass": {},
@@ -3357,9 +3357,9 @@
     "url": "http://www.dnd5eapi.co/api/features/196"
   },
   {
-    "index": 197,
+    "id": "197",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/7",
+      "ref": "classes/7",
       "name": "Paladin"
     },
     "subclass": {},
@@ -3372,9 +3372,9 @@
     "url": "http://www.dnd5eapi.co/api/features/197"
   },
   {
-    "index": 198,
+    "id": "198",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/7",
+      "ref": "classes/7",
       "name": "Paladin"
     },
     "subclass": {},
@@ -3387,9 +3387,9 @@
     "url": "http://www.dnd5eapi.co/api/features/198"
   },
   {
-    "index": 199,
+    "id": "199",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/7",
+      "ref": "classes/7",
       "name": "Paladin"
     },
     "subclass": {},
@@ -3401,9 +3401,9 @@
     "url": "http://www.dnd5eapi.co/api/features/199"
   },
   {
-    "index": 200,
+    "id": "200",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/7",
+      "ref": "classes/7",
       "name": "Paladin"
     },
     "subclass": {},
@@ -3415,9 +3415,9 @@
     "url": "http://www.dnd5eapi.co/api/features/200"
   },
   {
-    "index": 201,
+    "id": "201",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/7",
+      "ref": "classes/7",
       "name": "Paladin"
     },
     "subclass": {},
@@ -3430,9 +3430,9 @@
     "url": "http://www.dnd5eapi.co/api/features/201"
   },
   {
-    "index": 202,
+    "id": "202",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/7",
+      "ref": "classes/7",
       "name": "Paladin"
     },
     "subclass": {},
@@ -3445,9 +3445,9 @@
     "url": "http://www.dnd5eapi.co/api/features/202"
   },
   {
-    "index": 203,
+    "id": "203",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/7",
+      "ref": "classes/7",
       "name": "Paladin"
     },
     "subclass": {},
@@ -3461,13 +3461,13 @@
     "url": "http://www.dnd5eapi.co/api/features/203"
   },
   {
-    "index": 204,
+    "id": "204",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/7",
+      "ref": "classes/7",
       "name": "Paladin"
     },
     "subclass": {
-      "url": "http://www.dnd5eapi.co/api/subclasses/7",
+      "ref": "subclasses/7",
       "name": "Devotion"
     },
     "name": "Channel Divinity: Sacred Weapon",
@@ -3479,13 +3479,13 @@
     "url": "http://www.dnd5eapi.co/api/features/204"
   },
   {
-    "index": 205,
+    "id": "205",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/7",
+      "ref": "classes/7",
       "name": "Paladin"
     },
     "subclass": {
-      "url": "http://www.dnd5eapi.co/api/subclasses/7",
+      "ref": "subclasses/7",
       "name": "Devotion"
     },
     "name": "Channel Divinity: Turn the Unholy",
@@ -3497,9 +3497,9 @@
     "url": "http://www.dnd5eapi.co/api/features/205"
   },
   {
-    "index": 206,
+    "id": "206",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/7",
+      "ref": "classes/7",
       "name": "Paladin"
     },
     "subclass": {},
@@ -3511,9 +3511,9 @@
     "url": "http://www.dnd5eapi.co/api/features/206"
   },
   {
-    "index": 207,
+    "id": "207",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/7",
+      "ref": "classes/7",
       "name": "Paladin"
     },
     "subclass": {},
@@ -3525,9 +3525,9 @@
     "url": "http://www.dnd5eapi.co/api/features/207"
   },
   {
-    "index": 208,
+    "id": "208",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/7",
+      "ref": "classes/7",
       "name": "Paladin"
     },
     "subclass": {},
@@ -3540,13 +3540,13 @@
     "url": "http://www.dnd5eapi.co/api/features/208"
   },
   {
-    "index": 209,
+    "id": "209",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/7",
+      "ref": "classes/7",
       "name": "Paladin"
     },
     "subclass": {
-      "url": "http://www.dnd5eapi.co/api/subclasses/7",
+      "ref": "subclasses/7",
       "name": "Devotion"
     },
     "name": "Aura of Devotion",
@@ -3558,9 +3558,9 @@
     "url": "http://www.dnd5eapi.co/api/features/209"
   },
   {
-    "index": 210,
+    "id": "210",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/7",
+      "ref": "classes/7",
       "name": "Paladin"
     },
     "subclass": {},
@@ -3572,9 +3572,9 @@
     "url": "http://www.dnd5eapi.co/api/features/210"
   },
   {
-    "index": 211,
+    "id": "211",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/7",
+      "ref": "classes/7",
       "name": "Paladin"
     },
     "subclass": {},
@@ -3587,9 +3587,9 @@
     "url": "http://www.dnd5eapi.co/api/features/211"
   },
   {
-    "index": 212,
+    "id": "212",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/7",
+      "ref": "classes/7",
       "name": "Paladin"
     },
     "subclass": {},
@@ -3601,9 +3601,9 @@
     "url": "http://www.dnd5eapi.co/api/features/212"
   },
   {
-    "index": 213,
+    "id": "213",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/7",
+      "ref": "classes/7",
       "name": "Paladin"
     },
     "subclass": {},
@@ -3615,9 +3615,9 @@
     "url": "http://www.dnd5eapi.co/api/features/213"
   },
   {
-    "index": 214,
+    "id": "214",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/7",
+      "ref": "classes/7",
       "name": "Paladin"
     },
     "subclass": {},
@@ -3630,13 +3630,13 @@
     "url": "http://www.dnd5eapi.co/api/features/214"
   },
   {
-    "index": 215,
+    "id": "215",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/7",
+      "ref": "classes/7",
       "name": "Paladin"
     },
     "subclass": {
-      "url": "http://www.dnd5eapi.co/api/subclasses/7",
+      "ref": "subclasses/7",
       "name": "Devotion"
     },
     "name": "Purity of Spirit",
@@ -3647,9 +3647,9 @@
     "url": "http://www.dnd5eapi.co/api/features/215"
   },
   {
-    "index": 216,
+    "id": "216",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/7",
+      "ref": "classes/7",
       "name": "Paladin"
     },
     "subclass": {},
@@ -3661,9 +3661,9 @@
     "url": "http://www.dnd5eapi.co/api/features/216"
   },
   {
-    "index": 217,
+    "id": "217",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/7",
+      "ref": "classes/7",
       "name": "Paladin"
     },
     "subclass": {},
@@ -3673,9 +3673,9 @@
     "url": "http://www.dnd5eapi.co/api/features/217"
   },
   {
-    "index": 218,
+    "id": "218",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/7",
+      "ref": "classes/7",
       "name": "Paladin"
     },
     "subclass": {},
@@ -3687,13 +3687,13 @@
     "url": "http://www.dnd5eapi.co/api/features/218"
   },
   {
-    "index": 219,
+    "id": "219",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/7",
+      "ref": "classes/7",
       "name": "Paladin"
     },
     "subclass": {
-      "url": "http://www.dnd5eapi.co/api/subclasses/7",
+      "ref": "subclasses/7",
       "name": "Devotion"
     },
     "name": "Nimbus",
@@ -3706,9 +3706,9 @@
     "url": "http://www.dnd5eapi.co/api/features/219"
   },
   {
-    "index": 220,
+    "id": "220",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/8",
+      "ref": "classes/8",
       "name": "Ranger"
     },
     "subclass": {},
@@ -3724,9 +3724,9 @@
     "url": "http://www.dnd5eapi.co/api/features/220"
   },
   {
-    "index": 221,
+    "id": "221",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/8",
+      "ref": "classes/8",
       "name": "Ranger"
     },
     "subclass": {},
@@ -3746,9 +3746,9 @@
     "url": "http://www.dnd5eapi.co/api/features/221"
   },
   {
-    "index": 222,
+    "id": "222",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/8",
+      "ref": "classes/8",
       "name": "Ranger"
     },
     "subclass": {},
@@ -3762,19 +3762,19 @@
       "type": "feature",
       "from": [
         {
-          "url": "http://www.dnd5eapi.co/api/features/223",
+          "ref": "features/223",
           "name": "Fighting Style: Archery"
         },
         {
-          "url": "http://www.dnd5eapi.co/api/features/224",
+          "ref": "features/224",
           "name": "Fighting Style: Defense"
         },
         {
-          "url": "http://www.dnd5eapi.co/api/features/225",
+          "ref": "features/225",
           "name": "Fighting Style: Dueling"
         },
         {
-          "url": "http://www.dnd5eapi.co/api/features/226",
+          "ref": "features/226",
           "name": "Fighting Style: Two-Weapon Fighting"
         }
       ]
@@ -3782,9 +3782,9 @@
     "url": "http://www.dnd5eapi.co/api/features/222"
   },
   {
-    "index": 223,
+    "id": "223",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/8",
+      "ref": "classes/8",
       "name": "Ranger"
     },
     "subclass": {},
@@ -3797,9 +3797,9 @@
     "url": "http://www.dnd5eapi.co/api/features/223"
   },
   {
-    "index": 224,
+    "id": "224",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/8",
+      "ref": "classes/8",
       "name": "Ranger"
     },
     "subclass": {},
@@ -3810,9 +3810,9 @@
     "url": "http://www.dnd5eapi.co/api/features/224"
   },
   {
-    "index": 225,
+    "id": "225",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/8",
+      "ref": "classes/8",
       "name": "Ranger"
     },
     "subclass": {},
@@ -3825,9 +3825,9 @@
     "url": "http://www.dnd5eapi.co/api/features/225"
   },
   {
-    "index": 226,
+    "id": "226",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/8",
+      "ref": "classes/8",
       "name": "Ranger"
     },
     "subclass": {},
@@ -3840,9 +3840,9 @@
     "url": "http://www.dnd5eapi.co/api/features/226"
   },
   {
-    "index": 227,
+    "id": "227",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/8",
+      "ref": "classes/8",
       "name": "Ranger"
     },
     "subclass": {},
@@ -3855,9 +3855,9 @@
     "url": "http://www.dnd5eapi.co/api/features/227"
   },
   {
-    "index": 228,
+    "id": "228",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/8",
+      "ref": "classes/8",
       "name": "Ranger"
     },
     "subclass": {},
@@ -3869,13 +3869,13 @@
     "url": "http://www.dnd5eapi.co/api/features/228"
   },
   {
-    "index": 229,
+    "id": "229",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/8",
+      "ref": "classes/8",
       "name": "Ranger"
     },
     "subclass": {
-      "url": "http://www.dnd5eapi.co/api/subclasses/8",
+      "ref": "subclasses/8",
       "name": "Hunter"
     },
     "name": "Choose: Hunter's Prey",
@@ -3891,15 +3891,15 @@
       "type": "feature",
       "from": [
         {
-          "url": "http://www.dnd5eapi.co/api/features/230",
+          "ref": "features/230",
           "name": "Hunter's Prey: Colossus Slayer"
         },
         {
-          "url": "http://www.dnd5eapi.co/api/features/231",
+          "ref": "features/231",
           "name": "Hunter's Prey: Giant Killer"
         },
         {
-          "url": "http://www.dnd5eapi.co/api/features/232",
+          "ref": "features/232",
           "name": "Hunter's Prey: Horde Breaker"
         }
       ]
@@ -3907,13 +3907,13 @@
     "url": "http://www.dnd5eapi.co/api/features/229"
   },
   {
-    "index": 230,
+    "id": "230",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/8",
+      "ref": "classes/8",
       "name": "Ranger"
     },
     "subclass": {
-      "url": "http://www.dnd5eapi.co/api/subclasses/8",
+      "ref": "subclasses/8",
       "name": "Hunter"
     },
     "name": "Hunter's Prey: Colossus Slayer",
@@ -3925,13 +3925,13 @@
     "url": "http://www.dnd5eapi.co/api/features/230"
   },
   {
-    "index": 231,
+    "id": "231",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/8",
+      "ref": "classes/8",
       "name": "Ranger"
     },
     "subclass": {
-      "url": "http://www.dnd5eapi.co/api/subclasses/8",
+      "ref": "subclasses/8",
       "name": "Hunter"
     },
     "name": "Hunter's Prey: Giant Killer",
@@ -3943,13 +3943,13 @@
     "url": "http://www.dnd5eapi.co/api/features/231"
   },
   {
-    "index": 232,
+    "id": "232",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/8",
+      "ref": "classes/8",
       "name": "Ranger"
     },
     "subclass": {
-      "url": "http://www.dnd5eapi.co/api/subclasses/8",
+      "ref": "subclasses/8",
       "name": "Hunter"
     },
     "name": "Hunter's Prey: Horde Breaker",
@@ -3961,9 +3961,9 @@
     "url": "http://www.dnd5eapi.co/api/features/232"
   },
   {
-    "index": 233,
+    "id": "233",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/8",
+      "ref": "classes/8",
       "name": "Ranger"
     },
     "subclass": {},
@@ -3975,9 +3975,9 @@
     "url": "http://www.dnd5eapi.co/api/features/233"
   },
   {
-    "index": 234,
+    "id": "234",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/8",
+      "ref": "classes/8",
       "name": "Ranger"
     },
     "subclass": {},
@@ -3989,9 +3989,9 @@
     "url": "http://www.dnd5eapi.co/api/features/234"
   },
   {
-    "index": 235,
+    "id": "235",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/8",
+      "ref": "classes/8",
       "name": "Ranger"
     },
     "subclass": {},
@@ -4003,9 +4003,9 @@
     "url": "http://www.dnd5eapi.co/api/features/235"
   },
   {
-    "index": 236,
+    "id": "236",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/8",
+      "ref": "classes/8",
       "name": "Ranger"
     },
     "subclass": {},
@@ -4021,9 +4021,9 @@
     "url": "http://www.dnd5eapi.co/api/features/236"
   },
   {
-    "index": 237,
+    "id": "237",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/8",
+      "ref": "classes/8",
       "name": "Ranger"
     },
     "subclass": {},
@@ -4043,13 +4043,13 @@
     "url": "http://www.dnd5eapi.co/api/features/237"
   },
   {
-    "index": 238,
+    "id": "238",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/8",
+      "ref": "classes/8",
       "name": "Ranger"
     },
     "subclass": {
-      "url": "http://www.dnd5eapi.co/api/subclasses/8",
+      "ref": "subclasses/8",
       "name": "Hunter"
     },
     "name": "Choose: Defensive Tactics",
@@ -4065,15 +4065,15 @@
       "type": "feature",
       "from": [
         {
-          "url": "http://www.dnd5eapi.co/api/features/239",
+          "ref": "features/239",
           "name": "Defensive Tactics: Escape the Horde"
         },
         {
-          "url": "http://www.dnd5eapi.co/api/features/240",
+          "ref": "features/240",
           "name": "Defensive Tactics: Multiattack Defense"
         },
         {
-          "url": "http://www.dnd5eapi.co/api/features/241",
+          "ref": "features/241",
           "name": "Defensive Tactics: Steel Will"
         }
       ]
@@ -4081,13 +4081,13 @@
     "url": "http://www.dnd5eapi.co/api/features/238"
   },
   {
-    "index": 239,
+    "id": "239",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/8",
+      "ref": "classes/8",
       "name": "Ranger"
     },
     "subclass": {
-      "url": "http://www.dnd5eapi.co/api/subclasses/8",
+      "ref": "subclasses/8",
       "name": "Hunter"
     },
     "name": "Defensive Tactics: Escape the Horde",
@@ -4097,13 +4097,13 @@
     "url": "http://www.dnd5eapi.co/api/features/239"
   },
   {
-    "index": 240,
+    "id": "240",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/8",
+      "ref": "classes/8",
       "name": "Ranger"
     },
     "subclass": {
-      "url": "http://www.dnd5eapi.co/api/subclasses/8",
+      "ref": "subclasses/8",
       "name": "Hunter"
     },
     "name": "Defensive Tactics: Multiattack Defense",
@@ -4115,13 +4115,13 @@
     "url": "http://www.dnd5eapi.co/api/features/240"
   },
   {
-    "index": 241,
+    "id": "241",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/8",
+      "ref": "classes/8",
       "name": "Ranger"
     },
     "subclass": {
-      "url": "http://www.dnd5eapi.co/api/subclasses/8",
+      "ref": "subclasses/8",
       "name": "Hunter"
     },
     "name": "Defensive Tactics: Steel Will",
@@ -4131,9 +4131,9 @@
     "url": "http://www.dnd5eapi.co/api/features/241"
   },
   {
-    "index": 242,
+    "id": "242",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/8",
+      "ref": "classes/8",
       "name": "Ranger"
     },
     "subclass": {},
@@ -4145,9 +4145,9 @@
     "url": "http://www.dnd5eapi.co/api/features/242"
   },
   {
-    "index": 243,
+    "id": "243",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/8",
+      "ref": "classes/8",
       "name": "Ranger"
     },
     "subclass": {},
@@ -4160,9 +4160,9 @@
     "url": "http://www.dnd5eapi.co/api/features/243"
   },
   {
-    "index": 244,
+    "id": "244",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/8",
+      "ref": "classes/8",
       "name": "Ranger"
     },
     "subclass": {},
@@ -4182,9 +4182,9 @@
     "url": "http://www.dnd5eapi.co/api/features/244"
   },
   {
-    "index": 245,
+    "id": "245",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/8",
+      "ref": "classes/8",
       "name": "Ranger"
     },
     "subclass": {},
@@ -4197,13 +4197,13 @@
     "url": "http://www.dnd5eapi.co/api/features/245"
   },
   {
-    "index": 246,
+    "id": "246",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/8",
+      "ref": "classes/8",
       "name": "Ranger"
     },
     "subclass": {
-      "url": "http://www.dnd5eapi.co/api/subclasses/8",
+      "ref": "subclasses/8",
       "name": "Hunter"
     },
     "name": "Choose: Multiattack",
@@ -4218,11 +4218,11 @@
       "type": "feature",
       "from": [
         {
-          "url": "http://www.dnd5eapi.co/api/features/247",
+          "ref": "features/247",
           "name": "Multiattack: Volley"
         },
         {
-          "url": "http://www.dnd5eapi.co/api/features/248",
+          "ref": "features/248",
           "name": "Multiattack: Whirlwind Attack"
         }
       ]
@@ -4230,13 +4230,13 @@
     "url": "http://www.dnd5eapi.co/api/features/246"
   },
   {
-    "index": 247,
+    "id": "247",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/8",
+      "ref": "classes/8",
       "name": "Ranger"
     },
     "subclass": {
-      "url": "http://www.dnd5eapi.co/api/subclasses/8",
+      "ref": "subclasses/8",
       "name": "Hunter"
     },
     "name": "Multiattack: Volley",
@@ -4248,13 +4248,13 @@
     "url": "http://www.dnd5eapi.co/api/features/247"
   },
   {
-    "index": 248,
+    "id": "248",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/8",
+      "ref": "classes/8",
       "name": "Ranger"
     },
     "subclass": {
-      "url": "http://www.dnd5eapi.co/api/subclasses/8",
+      "ref": "subclasses/8",
       "name": "Hunter"
     },
     "name": "Multiattack: Whirlwind Attack",
@@ -4266,9 +4266,9 @@
     "url": "http://www.dnd5eapi.co/api/features/248"
   },
   {
-    "index": 249,
+    "id": "249",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/8",
+      "ref": "classes/8",
       "name": "Ranger"
     },
     "subclass": {},
@@ -4280,9 +4280,9 @@
     "url": "http://www.dnd5eapi.co/api/features/249"
   },
   {
-    "index": 250,
+    "id": "250",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/8",
+      "ref": "classes/8",
       "name": "Ranger"
     },
     "subclass": {},
@@ -4298,9 +4298,9 @@
     "url": "http://www.dnd5eapi.co/api/features/250"
   },
   {
-    "index": 251,
+    "id": "251",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/8",
+      "ref": "classes/8",
       "name": "Ranger"
     },
     "subclass": {},
@@ -4312,13 +4312,13 @@
     "url": "http://www.dnd5eapi.co/api/features/251"
   },
   {
-    "index": 252,
+    "id": "252",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/8",
+      "ref": "classes/8",
       "name": "Ranger"
     },
     "subclass": {
-      "url": "http://www.dnd5eapi.co/api/subclasses/8",
+      "ref": "subclasses/8",
       "name": "Hunter"
     },
     "name": "Choose: Superior Hunter's Defense",
@@ -4334,15 +4334,15 @@
       "type": "feature",
       "from": [
         {
-          "url": "http://www.dnd5eapi.co/api/features/253",
+          "ref": "features/253",
           "name": "Superior Hunter's Defense: Evasion"
         },
         {
-          "url": "http://www.dnd5eapi.co/api/features/254",
+          "ref": "features/254",
           "name": "Superior Hunter's Defense: Stand Against the Tide"
         },
         {
-          "url": "http://www.dnd5eapi.co/api/features/255",
+          "ref": "features/255",
           "name": "Superior Hunter's Defense: Uncanny Dodge"
         }
       ]
@@ -4350,13 +4350,13 @@
     "url": "http://www.dnd5eapi.co/api/features/252"
   },
   {
-    "index": 253,
+    "id": "253",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/8",
+      "ref": "classes/8",
       "name": "Ranger"
     },
     "subclass": {
-      "url": "http://www.dnd5eapi.co/api/subclasses/8",
+      "ref": "subclasses/8",
       "name": "Hunter"
     },
     "name": "Superior Hunter's Defense: Evasion",
@@ -4368,13 +4368,13 @@
     "url": "http://www.dnd5eapi.co/api/features/253"
   },
   {
-    "index": 254,
+    "id": "254",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/8",
+      "ref": "classes/8",
       "name": "Ranger"
     },
     "subclass": {
-      "url": "http://www.dnd5eapi.co/api/subclasses/8",
+      "ref": "subclasses/8",
       "name": "Hunter"
     },
     "name": "Superior Hunter's Defense: Stand Against the Tide",
@@ -4386,13 +4386,13 @@
     "url": "http://www.dnd5eapi.co/api/features/254"
   },
   {
-    "index": 255,
+    "id": "255",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/8",
+      "ref": "classes/8",
       "name": "Ranger"
     },
     "subclass": {
-      "url": "http://www.dnd5eapi.co/api/subclasses/8",
+      "ref": "subclasses/8",
       "name": "Hunter"
     },
     "name": "Superior Hunter's Defense: Uncanny Dodge",
@@ -4404,9 +4404,9 @@
     "url": "http://www.dnd5eapi.co/api/features/255"
   },
   {
-    "index": 256,
+    "id": "256",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/8",
+      "ref": "classes/8",
       "name": "Ranger"
     },
     "subclass": {},
@@ -4418,9 +4418,9 @@
     "url": "http://www.dnd5eapi.co/api/features/256"
   },
   {
-    "index": 257,
+    "id": "257",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/8",
+      "ref": "classes/8",
       "name": "Ranger"
     },
     "subclass": {},
@@ -4433,9 +4433,9 @@
     "url": "http://www.dnd5eapi.co/api/features/257"
   },
   {
-    "index": 258,
+    "id": "258",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/8",
+      "ref": "classes/8",
       "name": "Ranger"
     },
     "subclass": {},
@@ -4447,9 +4447,9 @@
     "url": "http://www.dnd5eapi.co/api/features/258"
   },
   {
-    "index": 259,
+    "id": "259",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/8",
+      "ref": "classes/8",
       "name": "Ranger"
     },
     "subclass": {},
@@ -4461,9 +4461,9 @@
     "url": "http://www.dnd5eapi.co/api/features/259"
   },
   {
-    "index": 260,
+    "id": "260",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/9",
+      "ref": "classes/9",
       "name": "Rogue"
     },
     "subclass": {},
@@ -4478,75 +4478,75 @@
       "type": "feature",
       "from": [
         {
-          "url": "http://www.dnd5eapi.co/api/features/278",
+          "ref": "features/278",
           "name": "Expertise: Acrobatics"
         },
         {
-          "url": "http://www.dnd5eapi.co/api/features/277",
+          "ref": "features/277",
           "name": "Expertise: Animal Handling"
         },
         {
-          "url": "http://www.dnd5eapi.co/api/features/261",
+          "ref": "features/261",
           "name": "Expertise: Arcana"
         },
         {
-          "url": "http://www.dnd5eapi.co/api/features/262",
+          "ref": "features/262",
           "name": "Expertise: Athletics"
         },
         {
-          "url": "http://www.dnd5eapi.co/api/features/263",
+          "ref": "features/263",
           "name": "Expertise: Deception"
         },
         {
-          "url": "http://www.dnd5eapi.co/api/features/264",
+          "ref": "features/264",
           "name": "Expertise: History"
         },
         {
-          "url": "http://www.dnd5eapi.co/api/features/265",
+          "ref": "features/265",
           "name": "Expertise: Insight"
         },
         {
-          "url": "http://www.dnd5eapi.co/api/features/266",
+          "ref": "features/266",
           "name": "Expertise: Intimidation"
         },
         {
-          "url": "http://www.dnd5eapi.co/api/features/267",
+          "ref": "features/267",
           "name": "Expertise: Investigation"
         },
         {
-          "url": "http://www.dnd5eapi.co/api/features/268",
+          "ref": "features/268",
           "name": "Expertise: Medicine"
         },
         {
-          "url": "http://www.dnd5eapi.co/api/features/269",
+          "ref": "features/269",
           "name": "Expertise: Nature"
         },
         {
-          "url": "http://www.dnd5eapi.co/api/features/270",
+          "ref": "features/270",
           "name": "Expertise: Perception"
         },
         {
-          "url": "http://www.dnd5eapi.co/api/features/271",
+          "ref": "features/271",
           "name": "Expertise: Performance"
         },
         {
-          "url": "http://www.dnd5eapi.co/api/features/272",
+          "ref": "features/272",
           "name": "Expertise: Persuasion"
         },
         {
-          "url": "http://www.dnd5eapi.co/api/features/273",
+          "ref": "features/273",
           "name": "Expertise: Religion"
         },
         {
-          "url": "http://www.dnd5eapi.co/api/features/274",
+          "ref": "features/274",
           "name": "Expertise: Sleight of Hand"
         },
         {
-          "url": "http://www.dnd5eapi.co/api/features/275",
+          "ref": "features/275",
           "name": "Expertise: Stealth"
         },
         {
-          "url": "http://www.dnd5eapi.co/api/features/276",
+          "ref": "features/276",
           "name": "Expertise: Survival"
         }
       ]
@@ -4554,9 +4554,9 @@
     "url": "http://www.dnd5eapi.co/api/features/260"
   },
   {
-    "index": 261,
+    "id": "261",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/9",
+      "ref": "classes/9",
       "name": "Rogue"
     },
     "subclass": {},
@@ -4574,9 +4574,9 @@
     "url": "http://www.dnd5eapi.co/api/features/261"
   },
   {
-    "index": 262,
+    "id": "262",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/9",
+      "ref": "classes/9",
       "name": "Rogue"
     },
     "subclass": {},
@@ -4594,9 +4594,9 @@
     "url": "http://www.dnd5eapi.co/api/features/262"
   },
   {
-    "index": 263,
+    "id": "263",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/9",
+      "ref": "classes/9",
       "name": "Rogue"
     },
     "subclass": {},
@@ -4614,9 +4614,9 @@
     "url": "http://www.dnd5eapi.co/api/features/263"
   },
   {
-    "index": 264,
+    "id": "264",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/9",
+      "ref": "classes/9",
       "name": "Rogue"
     },
     "subclass": {},
@@ -4634,9 +4634,9 @@
     "url": "http://www.dnd5eapi.co/api/features/264"
   },
   {
-    "index": 265,
+    "id": "265",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/9",
+      "ref": "classes/9",
       "name": "Rogue"
     },
     "subclass": {},
@@ -4654,9 +4654,9 @@
     "url": "http://www.dnd5eapi.co/api/features/265"
   },
   {
-    "index": 266,
+    "id": "266",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/9",
+      "ref": "classes/9",
       "name": "Rogue"
     },
     "subclass": {},
@@ -4674,9 +4674,9 @@
     "url": "http://www.dnd5eapi.co/api/features/266"
   },
   {
-    "index": 267,
+    "id": "267",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/9",
+      "ref": "classes/9",
       "name": "Rogue"
     },
     "subclass": {},
@@ -4694,9 +4694,9 @@
     "url": "http://www.dnd5eapi.co/api/features/267"
   },
   {
-    "index": 268,
+    "id": "268",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/9",
+      "ref": "classes/9",
       "name": "Rogue"
     },
     "subclass": {},
@@ -4714,9 +4714,9 @@
     "url": "http://www.dnd5eapi.co/api/features/268"
   },
   {
-    "index": 269,
+    "id": "269",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/9",
+      "ref": "classes/9",
       "name": "Rogue"
     },
     "subclass": {},
@@ -4734,9 +4734,9 @@
     "url": "http://www.dnd5eapi.co/api/features/269"
   },
   {
-    "index": 270,
+    "id": "270",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/9",
+      "ref": "classes/9",
       "name": "Rogue"
     },
     "subclass": {},
@@ -4754,9 +4754,9 @@
     "url": "http://www.dnd5eapi.co/api/features/270"
   },
   {
-    "index": 271,
+    "id": "271",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/9",
+      "ref": "classes/9",
       "name": "Rogue"
     },
     "subclass": {},
@@ -4774,9 +4774,9 @@
     "url": "http://www.dnd5eapi.co/api/features/271"
   },
   {
-    "index": 272,
+    "id": "272",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/9",
+      "ref": "classes/9",
       "name": "Rogue"
     },
     "subclass": {},
@@ -4794,9 +4794,9 @@
     "url": "http://www.dnd5eapi.co/api/features/272"
   },
   {
-    "index": 273,
+    "id": "273",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/9",
+      "ref": "classes/9",
       "name": "Rogue"
     },
     "subclass": {},
@@ -4814,9 +4814,9 @@
     "url": "http://www.dnd5eapi.co/api/features/273"
   },
   {
-    "index": 274,
+    "id": "274",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/9",
+      "ref": "classes/9",
       "name": "Rogue"
     },
     "subclass": {},
@@ -4834,9 +4834,9 @@
     "url": "http://www.dnd5eapi.co/api/features/274"
   },
   {
-    "index": 275,
+    "id": "275",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/9",
+      "ref": "classes/9",
       "name": "Rogue"
     },
     "subclass": {},
@@ -4854,9 +4854,9 @@
     "url": "http://www.dnd5eapi.co/api/features/275"
   },
   {
-    "index": 276,
+    "id": "276",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/9",
+      "ref": "classes/9",
       "name": "Rogue"
     },
     "subclass": {},
@@ -4874,9 +4874,9 @@
     "url": "http://www.dnd5eapi.co/api/features/276"
   },
   {
-    "index": 277,
+    "id": "277",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/9",
+      "ref": "classes/9",
       "name": "Rogue"
     },
     "subclass": {},
@@ -4894,9 +4894,9 @@
     "url": "http://www.dnd5eapi.co/api/features/277"
   },
   {
-    "index": 278,
+    "id": "278",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/9",
+      "ref": "classes/9",
       "name": "Rogue"
     },
     "subclass": {},
@@ -4914,9 +4914,9 @@
     "url": "http://www.dnd5eapi.co/api/features/278"
   },
   {
-    "index": 279,
+    "id": "279",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/9",
+      "ref": "classes/9",
       "name": "Rogue"
     },
     "subclass": {},
@@ -4934,9 +4934,9 @@
     "url": "http://www.dnd5eapi.co/api/features/279"
   },
   {
-    "index": 280,
+    "id": "280",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/9",
+      "ref": "classes/9",
       "name": "Rogue"
     },
     "subclass": {},
@@ -4950,9 +4950,9 @@
     "url": "http://www.dnd5eapi.co/api/features/280"
   },
   {
-    "index": 281,
+    "id": "281",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/9",
+      "ref": "classes/9",
       "name": "Rogue"
     },
     "subclass": {},
@@ -4965,9 +4965,9 @@
     "url": "http://www.dnd5eapi.co/api/features/281"
   },
   {
-    "index": 282,
+    "id": "282",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/9",
+      "ref": "classes/9",
       "name": "Rogue"
     },
     "subclass": {},
@@ -4979,9 +4979,9 @@
     "url": "http://www.dnd5eapi.co/api/features/282"
   },
   {
-    "index": 283,
+    "id": "283",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/9",
+      "ref": "classes/9",
       "name": "Rogue"
     },
     "subclass": {},
@@ -4993,13 +4993,13 @@
     "url": "http://www.dnd5eapi.co/api/features/283"
   },
   {
-    "index": 284,
+    "id": "284",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/9",
+      "ref": "classes/9",
       "name": "Rogue"
     },
     "subclass": {
-      "url": "http://www.dnd5eapi.co/api/subclasses/9",
+      "ref": "subclasses/9",
       "name": "Thief"
     },
     "name": "Fast Hands",
@@ -5010,13 +5010,13 @@
     "url": "http://www.dnd5eapi.co/api/features/284"
   },
   {
-    "index": 285,
+    "id": "285",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/9",
+      "ref": "classes/9",
       "name": "Rogue"
     },
     "subclass": {
-      "url": "http://www.dnd5eapi.co/api/subclasses/9",
+      "ref": "subclasses/9",
       "name": "Thief"
     },
     "name": "Second-Story Work",
@@ -5028,9 +5028,9 @@
     "url": "http://www.dnd5eapi.co/api/features/285"
   },
   {
-    "index": 286,
+    "id": "286",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/9",
+      "ref": "classes/9",
       "name": "Rogue"
     },
     "subclass": {},
@@ -5042,9 +5042,9 @@
     "url": "http://www.dnd5eapi.co/api/features/286"
   },
   {
-    "index": 287,
+    "id": "287",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/9",
+      "ref": "classes/9",
       "name": "Rogue"
     },
     "subclass": {},
@@ -5056,9 +5056,9 @@
     "url": "http://www.dnd5eapi.co/api/features/287"
   },
   {
-    "index": 288,
+    "id": "288",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/9",
+      "ref": "classes/9",
       "name": "Rogue"
     },
     "subclass": {},
@@ -5073,75 +5073,75 @@
       "type": "feature",
       "from": [
         {
-          "url": "http://www.dnd5eapi.co/api/features/278",
+          "ref": "features/278",
           "name": "Expertise: Acrobatics"
         },
         {
-          "url": "http://www.dnd5eapi.co/api/features/277",
+          "ref": "features/277",
           "name": "Expertise: Animal Handling"
         },
         {
-          "url": "http://www.dnd5eapi.co/api/features/261",
+          "ref": "features/261",
           "name": "Expertise: Arcana"
         },
         {
-          "url": "http://www.dnd5eapi.co/api/features/262",
+          "ref": "features/262",
           "name": "Expertise: Athletics"
         },
         {
-          "url": "http://www.dnd5eapi.co/api/features/263",
+          "ref": "features/263",
           "name": "Expertise: Deception"
         },
         {
-          "url": "http://www.dnd5eapi.co/api/features/264",
+          "ref": "features/264",
           "name": "Expertise: History"
         },
         {
-          "url": "http://www.dnd5eapi.co/api/features/265",
+          "ref": "features/265",
           "name": "Expertise: Insight"
         },
         {
-          "url": "http://www.dnd5eapi.co/api/features/266",
+          "ref": "features/266",
           "name": "Expertise: Intimidation"
         },
         {
-          "url": "http://www.dnd5eapi.co/api/features/267",
+          "ref": "features/267",
           "name": "Expertise: Investigation"
         },
         {
-          "url": "http://www.dnd5eapi.co/api/features/268",
+          "ref": "features/268",
           "name": "Expertise: Medicine"
         },
         {
-          "url": "http://www.dnd5eapi.co/api/features/269",
+          "ref": "features/269",
           "name": "Expertise: Nature"
         },
         {
-          "url": "http://www.dnd5eapi.co/api/features/270",
+          "ref": "features/270",
           "name": "Expertise: Perception"
         },
         {
-          "url": "http://www.dnd5eapi.co/api/features/271",
+          "ref": "features/271",
           "name": "Expertise: Performance"
         },
         {
-          "url": "http://www.dnd5eapi.co/api/features/272",
+          "ref": "features/272",
           "name": "Expertise: Persuasion"
         },
         {
-          "url": "http://www.dnd5eapi.co/api/features/273",
+          "ref": "features/273",
           "name": "Expertise: Religion"
         },
         {
-          "url": "http://www.dnd5eapi.co/api/features/274",
+          "ref": "features/274",
           "name": "Expertise: Sleight of Hand"
         },
         {
-          "url": "http://www.dnd5eapi.co/api/features/275",
+          "ref": "features/275",
           "name": "Expertise: Stealth"
         },
         {
-          "url": "http://www.dnd5eapi.co/api/features/276",
+          "ref": "features/276",
           "name": "Expertise: Survival"
         }
       ]
@@ -5149,9 +5149,9 @@
     "url": "http://www.dnd5eapi.co/api/features/288"
   },
   {
-    "index": 289,
+    "id": "289",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/9",
+      "ref": "classes/9",
       "name": "Rogue"
     },
     "subclass": {},
@@ -5163,9 +5163,9 @@
     "url": "http://www.dnd5eapi.co/api/features/289"
   },
   {
-    "index": 290,
+    "id": "290",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/9",
+      "ref": "classes/9",
       "name": "Rogue"
     },
     "subclass": {},
@@ -5177,13 +5177,13 @@
     "url": "http://www.dnd5eapi.co/api/features/290"
   },
   {
-    "index": 291,
+    "id": "291",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/9",
+      "ref": "classes/9",
       "name": "Rogue"
     },
     "subclass": {
-      "url": "http://www.dnd5eapi.co/api/subclasses/9",
+      "ref": "subclasses/9",
       "name": "Thief"
     },
     "name": "Supreme Sneak",
@@ -5194,9 +5194,9 @@
     "url": "http://www.dnd5eapi.co/api/features/291"
   },
   {
-    "index": 292,
+    "id": "292",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/9",
+      "ref": "classes/9",
       "name": "Rogue"
     },
     "subclass": {},
@@ -5208,9 +5208,9 @@
     "url": "http://www.dnd5eapi.co/api/features/292"
   },
   {
-    "index": 293,
+    "id": "293",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/9",
+      "ref": "classes/9",
       "name": "Rogue"
     },
     "subclass": {},
@@ -5222,9 +5222,9 @@
     "url": "http://www.dnd5eapi.co/api/features/293"
   },
   {
-    "index": 294,
+    "id": "294",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/9",
+      "ref": "classes/9",
       "name": "Rogue"
     },
     "subclass": {},
@@ -5236,13 +5236,13 @@
     "url": "http://www.dnd5eapi.co/api/features/294"
   },
   {
-    "index": 295,
+    "id": "295",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/9",
+      "ref": "classes/9",
       "name": "Rogue"
     },
     "subclass": {
-      "url": "http://www.dnd5eapi.co/api/subclasses/9",
+      "ref": "subclasses/9",
       "name": "Thief"
     },
     "name": "Use Magic Device",
@@ -5253,9 +5253,9 @@
     "url": "http://www.dnd5eapi.co/api/features/295"
   },
   {
-    "index": 296,
+    "id": "296",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/9",
+      "ref": "classes/9",
       "name": "Rogue"
     },
     "subclass": {},
@@ -5267,9 +5267,9 @@
     "url": "http://www.dnd5eapi.co/api/features/296"
   },
   {
-    "index": 297,
+    "id": "297",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/9",
+      "ref": "classes/9",
       "name": "Rogue"
     },
     "subclass": {},
@@ -5281,9 +5281,9 @@
     "url": "http://www.dnd5eapi.co/api/features/297"
   },
   {
-    "index": 298,
+    "id": "298",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/9",
+      "ref": "classes/9",
       "name": "Rogue"
     },
     "subclass": {},
@@ -5295,13 +5295,13 @@
     "url": "http://www.dnd5eapi.co/api/features/298"
   },
   {
-    "index": 299,
+    "id": "299",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/9",
+      "ref": "classes/9",
       "name": "Rogue"
     },
     "subclass": {
-      "url": "http://www.dnd5eapi.co/api/subclasses/9",
+      "ref": "subclasses/9",
       "name": "Thief"
     },
     "name": "Thief's Reflexes",
@@ -5312,9 +5312,9 @@
     "url": "http://www.dnd5eapi.co/api/features/299"
   },
   {
-    "index": 300,
+    "id": "300",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/9",
+      "ref": "classes/9",
       "name": "Rogue"
     },
     "subclass": {},
@@ -5326,9 +5326,9 @@
     "url": "http://www.dnd5eapi.co/api/features/300"
   },
   {
-    "index": 301,
+    "id": "301",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/9",
+      "ref": "classes/9",
       "name": "Rogue"
     },
     "subclass": {},
@@ -5340,9 +5340,9 @@
     "url": "http://www.dnd5eapi.co/api/features/301"
   },
   {
-    "index": 302,
+    "id": "302",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/9",
+      "ref": "classes/9",
       "name": "Rogue"
     },
     "subclass": {},
@@ -5355,9 +5355,9 @@
     "url": "http://www.dnd5eapi.co/api/features/302"
   },
   {
-    "index": 303,
+    "id": "303",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/10",
+      "ref": "classes/10",
       "name": "Sorcerer"
     },
     "subclass": {},
@@ -5370,9 +5370,9 @@
     "url": "http://www.dnd5eapi.co/api/features/303"
   },
   {
-    "index": 304,
+    "id": "304",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/10",
+      "ref": "classes/10",
       "name": "Sorcerer"
     },
     "subclass": {},
@@ -5385,13 +5385,13 @@
     "url": "http://www.dnd5eapi.co/api/features/304"
   },
   {
-    "index": 305,
+    "id": "305",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/10",
+      "ref": "classes/10",
       "name": "Sorcerer"
     },
     "subclass": {
-      "url": "http://www.dnd5eapi.co/api/subclasses/10",
+      "ref": "subclasses/10",
       "name": "Draconic"
     },
     "name": "Choose: Dragon Ancestor",
@@ -5405,43 +5405,43 @@
       "type": "feature",
       "from": [
         {
-          "url": "http://www.dnd5eapi.co/api/features/306",
+          "ref": "features/306",
           "name": "Dragon Ancestor: Black - Acid Damage"
         },
         {
-          "url": "http://www.dnd5eapi.co/api/features/307",
+          "ref": "features/307",
           "name": "Dragon Ancestor: Blue - Lightning Damage"
         },
         {
-          "url": "http://www.dnd5eapi.co/api/features/308",
+          "ref": "features/308",
           "name": "Dragon Ancestor: Brass - Fire Damage"
         },
         {
-          "url": "http://www.dnd5eapi.co/api/features/309",
+          "ref": "features/309",
           "name": "Dragon Ancestor: Bronze - Lightning Damage"
         },
         {
-          "url": "http://www.dnd5eapi.co/api/features/310",
+          "ref": "features/310",
           "name": "Dragon Ancestor: Copper - Acid Damage"
         },
         {
-          "url": "http://www.dnd5eapi.co/api/features/311",
+          "ref": "features/311",
           "name": "Dragon Ancestor: Gold - Fire Damage"
         },
         {
-          "url": "http://www.dnd5eapi.co/api/features/312",
+          "ref": "features/312",
           "name": "Dragon Ancestor: Green - Poison Damage"
         },
         {
-          "url": "http://www.dnd5eapi.co/api/features/313",
+          "ref": "features/313",
           "name": "Dragon Ancestor: Red - Fire Damage"
         },
         {
-          "url": "http://www.dnd5eapi.co/api/features/314",
+          "ref": "features/314",
           "name": "Dragon Ancestor: Silver - Cold Damage"
         },
         {
-          "url": "http://www.dnd5eapi.co/api/features/315",
+          "ref": "features/315",
           "name": "Dragon Ancestor: White - Cold Damage"
         }
       ]
@@ -5449,13 +5449,13 @@
     "url": "http://www.dnd5eapi.co/api/features/305"
   },
   {
-    "index": 306,
+    "id": "306",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/10",
+      "ref": "classes/10",
       "name": "Sorcerer"
     },
     "subclass": {
-      "url": "http://www.dnd5eapi.co/api/subclasses/10",
+      "ref": "subclasses/10",
       "name": "Draconic"
     },
     "name": "Dragon Ancestor: Black - Acid Damage",
@@ -5468,13 +5468,13 @@
     "url": "http://www.dnd5eapi.co/api/features/306"
   },
   {
-    "index": 307,
+    "id": "307",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/10",
+      "ref": "classes/10",
       "name": "Sorcerer"
     },
     "subclass": {
-      "url": "http://www.dnd5eapi.co/api/subclasses/10",
+      "ref": "subclasses/10",
       "name": "Draconic"
     },
     "name": "Dragon Ancestor: Blue - Lightning Damage",
@@ -5487,13 +5487,13 @@
     "url": "http://www.dnd5eapi.co/api/features/307"
   },
   {
-    "index": 308,
+    "id": "308",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/10",
+      "ref": "classes/10",
       "name": "Sorcerer"
     },
     "subclass": {
-      "url": "http://www.dnd5eapi.co/api/subclasses/10",
+      "ref": "subclasses/10",
       "name": "Draconic"
     },
     "name": "Dragon Ancestor: Brass - Fire Damage",
@@ -5506,13 +5506,13 @@
     "url": "http://www.dnd5eapi.co/api/features/308"
   },
   {
-    "index": 309,
+    "id": "309",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/10",
+      "ref": "classes/10",
       "name": "Sorcerer"
     },
     "subclass": {
-      "url": "http://www.dnd5eapi.co/api/subclasses/10",
+      "ref": "subclasses/10",
       "name": "Draconic"
     },
     "name": "Dragon Ancestor: Bronze - Lightning Damage",
@@ -5525,13 +5525,13 @@
     "url": "http://www.dnd5eapi.co/api/features/309"
   },
   {
-    "index": 310,
+    "id": "310",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/10",
+      "ref": "classes/10",
       "name": "Sorcerer"
     },
     "subclass": {
-      "url": "http://www.dnd5eapi.co/api/subclasses/10",
+      "ref": "subclasses/10",
       "name": "Draconic"
     },
     "name": "Dragon Ancestor: Copper - Acid Damage",
@@ -5544,13 +5544,13 @@
     "url": "http://www.dnd5eapi.co/api/features/310"
   },
   {
-    "index": 311,
+    "id": "311",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/10",
+      "ref": "classes/10",
       "name": "Sorcerer"
     },
     "subclass": {
-      "url": "http://www.dnd5eapi.co/api/subclasses/10",
+      "ref": "subclasses/10",
       "name": "Draconic"
     },
     "name": "Dragon Ancestor: Gold - Fire Damage",
@@ -5563,13 +5563,13 @@
     "url": "http://www.dnd5eapi.co/api/features/311"
   },
   {
-    "index": 312,
+    "id": "312",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/10",
+      "ref": "classes/10",
       "name": "Sorcerer"
     },
     "subclass": {
-      "url": "http://www.dnd5eapi.co/api/subclasses/10",
+      "ref": "subclasses/10",
       "name": "Draconic"
     },
     "name": "Dragon Ancestor: Green - Poison Damage",
@@ -5582,13 +5582,13 @@
     "url": "http://www.dnd5eapi.co/api/features/312"
   },
   {
-    "index": 313,
+    "id": "313",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/10",
+      "ref": "classes/10",
       "name": "Sorcerer"
     },
     "subclass": {
-      "url": "http://www.dnd5eapi.co/api/subclasses/10",
+      "ref": "subclasses/10",
       "name": "Draconic"
     },
     "name": "Dragon Ancestor: Red - Fire Damage",
@@ -5601,13 +5601,13 @@
     "url": "http://www.dnd5eapi.co/api/features/313"
   },
   {
-    "index": 314,
+    "id": "314",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/10",
+      "ref": "classes/10",
       "name": "Sorcerer"
     },
     "subclass": {
-      "url": "http://www.dnd5eapi.co/api/subclasses/10",
+      "ref": "subclasses/10",
       "name": "Draconic"
     },
     "name": "Dragon Ancestor: Silver - Cold Damage",
@@ -5620,13 +5620,13 @@
     "url": "http://www.dnd5eapi.co/api/features/314"
   },
   {
-    "index": 315,
+    "id": "315",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/10",
+      "ref": "classes/10",
       "name": "Sorcerer"
     },
     "subclass": {
-      "url": "http://www.dnd5eapi.co/api/subclasses/10",
+      "ref": "subclasses/10",
       "name": "Draconic"
     },
     "name": "Dragon Ancestor: White - Cold Damage",
@@ -5639,13 +5639,13 @@
     "url": "http://www.dnd5eapi.co/api/features/315"
   },
   {
-    "index": 316,
+    "id": "316",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/10",
+      "ref": "classes/10",
       "name": "Sorcerer"
     },
     "subclass": {
-      "url": "http://www.dnd5eapi.co/api/subclasses/10",
+      "ref": "subclasses/10",
       "name": "Draconic"
     },
     "name": "Draconic Resilience",
@@ -5657,9 +5657,9 @@
     "url": "http://www.dnd5eapi.co/api/features/316"
   },
   {
-    "index": 317,
+    "id": "317",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/10",
+      "ref": "classes/10",
       "name": "Sorcerer"
     },
     "subclass": {},
@@ -5673,9 +5673,9 @@
     "url": "http://www.dnd5eapi.co/api/features/317"
   },
   {
-    "index": 318,
+    "id": "318",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/10",
+      "ref": "classes/10",
       "name": "Sorcerer"
     },
     "subclass": {},
@@ -5688,9 +5688,9 @@
     "url": "http://www.dnd5eapi.co/api/features/318"
   },
   {
-    "index": 319,
+    "id": "319",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/10",
+      "ref": "classes/10",
       "name": "Sorcerer"
     },
     "subclass": {},
@@ -5702,9 +5702,9 @@
     "url": "http://www.dnd5eapi.co/api/features/319"
   },
   {
-    "index": 320,
+    "id": "320",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/10",
+      "ref": "classes/10",
       "name": "Sorcerer"
     },
     "subclass": {},
@@ -5719,35 +5719,35 @@
       "type": "feature",
       "from": [
         {
-          "url": "http://www.dnd5eapi.co/api/features/321",
+          "ref": "features/321",
           "name": "Metamagic: Careful Spell"
         },
         {
-          "url": "http://www.dnd5eapi.co/api/features/322",
+          "ref": "features/322",
           "name": "Metamagic: Distant Spell"
         },
         {
-          "url": "http://www.dnd5eapi.co/api/features/323",
+          "ref": "features/323",
           "name": "Metamagic: Empowered Spell"
         },
         {
-          "url": "http://www.dnd5eapi.co/api/features/324",
+          "ref": "features/324",
           "name": "Metamagic: Extended Spell"
         },
         {
-          "url": "http://www.dnd5eapi.co/api/features/325",
+          "ref": "features/325",
           "name": "Metamagic: Heightened Spell"
         },
         {
-          "url": "http://www.dnd5eapi.co/api/features/326",
+          "ref": "features/326",
           "name": "Metamagic: Quickened Spell"
         },
         {
-          "url": "http://www.dnd5eapi.co/api/features/327",
+          "ref": "features/327",
           "name": "Metamagic: Subtle Spell"
         },
         {
-          "url": "http://www.dnd5eapi.co/api/features/328",
+          "ref": "features/328",
           "name": "Metamagic: Twinned Spell"
         }
       ]
@@ -5755,9 +5755,9 @@
     "url": "http://www.dnd5eapi.co/api/features/320"
   },
   {
-    "index": 321,
+    "id": "321",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/10",
+      "ref": "classes/10",
       "name": "Sorcerer"
     },
     "subclass": {},
@@ -5770,9 +5770,9 @@
     "url": "http://www.dnd5eapi.co/api/features/321"
   },
   {
-    "index": 322,
+    "id": "322",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/10",
+      "ref": "classes/10",
       "name": "Sorcerer"
     },
     "subclass": {},
@@ -5786,9 +5786,9 @@
     "url": "http://www.dnd5eapi.co/api/features/322"
   },
   {
-    "index": 323,
+    "id": "323",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/10",
+      "ref": "classes/10",
       "name": "Sorcerer"
     },
     "subclass": {},
@@ -5802,9 +5802,9 @@
     "url": "http://www.dnd5eapi.co/api/features/323"
   },
   {
-    "index": 324,
+    "id": "324",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/10",
+      "ref": "classes/10",
       "name": "Sorcerer"
     },
     "subclass": {},
@@ -5817,9 +5817,9 @@
     "url": "http://www.dnd5eapi.co/api/features/324"
   },
   {
-    "index": 325,
+    "id": "325",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/10",
+      "ref": "classes/10",
       "name": "Sorcerer"
     },
     "subclass": {},
@@ -5832,9 +5832,9 @@
     "url": "http://www.dnd5eapi.co/api/features/325"
   },
   {
-    "index": 326,
+    "id": "326",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/10",
+      "ref": "classes/10",
       "name": "Sorcerer"
     },
     "subclass": {},
@@ -5847,9 +5847,9 @@
     "url": "http://www.dnd5eapi.co/api/features/326"
   },
   {
-    "index": 327,
+    "id": "327",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/10",
+      "ref": "classes/10",
       "name": "Sorcerer"
     },
     "subclass": {},
@@ -5862,9 +5862,9 @@
     "url": "http://www.dnd5eapi.co/api/features/327"
   },
   {
-    "index": 328,
+    "id": "328",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/10",
+      "ref": "classes/10",
       "name": "Sorcerer"
     },
     "subclass": {},
@@ -5877,9 +5877,9 @@
     "url": "http://www.dnd5eapi.co/api/features/328"
   },
   {
-    "index": 329,
+    "id": "329",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/10",
+      "ref": "classes/10",
       "name": "Sorcerer"
     },
     "subclass": {},
@@ -5891,13 +5891,13 @@
     "url": "http://www.dnd5eapi.co/api/features/329"
   },
   {
-    "index": 330,
+    "id": "330",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/10",
+      "ref": "classes/10",
       "name": "Sorcerer"
     },
     "subclass": {
-      "url": "http://www.dnd5eapi.co/api/subclasses/10",
+      "ref": "subclasses/10",
       "name": "Draconic"
     },
     "name": "Elemental Affinity",
@@ -5909,9 +5909,9 @@
     "url": "http://www.dnd5eapi.co/api/features/330"
   },
   {
-    "index": 331,
+    "id": "331",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/10",
+      "ref": "classes/10",
       "name": "Sorcerer"
     },
     "subclass": {},
@@ -5923,9 +5923,9 @@
     "url": "http://www.dnd5eapi.co/api/features/331"
   },
   {
-    "index": 332,
+    "id": "332",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/10",
+      "ref": "classes/10",
       "name": "Sorcerer"
     },
     "subclass": {},
@@ -5940,35 +5940,35 @@
       "type": "feature",
       "from": [
         {
-          "url": "http://www.dnd5eapi.co/api/features/327",
+          "ref": "features/327",
           "name": "Metamagic: Careful Spell"
         },
         {
-          "url": "http://www.dnd5eapi.co/api/features/328",
+          "ref": "features/328",
           "name": "Metamagic: Distant Spell"
         },
         {
-          "url": "http://www.dnd5eapi.co/api/features/321",
+          "ref": "features/321",
           "name": "Metamagic: Empowered Spell"
         },
         {
-          "url": "http://www.dnd5eapi.co/api/features/322",
+          "ref": "features/322",
           "name": "Metamagic: Extended Spell"
         },
         {
-          "url": "http://www.dnd5eapi.co/api/features/323",
+          "ref": "features/323",
           "name": "Metamagic: Heightened Spell"
         },
         {
-          "url": "http://www.dnd5eapi.co/api/features/324",
+          "ref": "features/324",
           "name": "Metamagic: Quickened Spell"
         },
         {
-          "url": "http://www.dnd5eapi.co/api/features/325",
+          "ref": "features/325",
           "name": "Metamagic: Subtle Spell"
         },
         {
-          "url": "http://www.dnd5eapi.co/api/features/326",
+          "ref": "features/326",
           "name": "Metamagic: Twinned Spell"
         }
       ]
@@ -5976,9 +5976,9 @@
     "url": "http://www.dnd5eapi.co/api/features/332"
   },
   {
-    "index": 333,
+    "id": "333",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/10",
+      "ref": "classes/10",
       "name": "Sorcerer"
     },
     "subclass": {},
@@ -5990,13 +5990,13 @@
     "url": "http://www.dnd5eapi.co/api/features/333"
   },
   {
-    "index": 334,
+    "id": "334",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/10",
+      "ref": "classes/10",
       "name": "Sorcerer"
     },
     "subclass": {
-      "url": "http://www.dnd5eapi.co/api/subclasses/10",
+      "ref": "subclasses/10",
       "name": "Draconic"
     },
     "name": "Dragon Wings",
@@ -6008,9 +6008,9 @@
     "url": "http://www.dnd5eapi.co/api/features/334"
   },
   {
-    "index": 335,
+    "id": "335",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/10",
+      "ref": "classes/10",
       "name": "Sorcerer"
     },
     "subclass": {},
@@ -6022,9 +6022,9 @@
     "url": "http://www.dnd5eapi.co/api/features/335"
   },
   {
-    "index": 336,
+    "id": "336",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/10",
+      "ref": "classes/10",
       "name": "Sorcerer"
     },
     "subclass": {},
@@ -6039,35 +6039,35 @@
       "type": "feature",
       "from": [
         {
-          "url": "http://www.dnd5eapi.co/api/features/327",
+          "ref": "features/327",
           "name": "Metamagic: Careful Spell"
         },
         {
-          "url": "http://www.dnd5eapi.co/api/features/328",
+          "ref": "features/328",
           "name": "Metamagic: Distant Spell"
         },
         {
-          "url": "http://www.dnd5eapi.co/api/features/321",
+          "ref": "features/321",
           "name": "Metamagic: Empowered Spell"
         },
         {
-          "url": "http://www.dnd5eapi.co/api/features/322",
+          "ref": "features/322",
           "name": "Metamagic: Extended Spell"
         },
         {
-          "url": "http://www.dnd5eapi.co/api/features/323",
+          "ref": "features/323",
           "name": "Metamagic: Heightened Spell"
         },
         {
-          "url": "http://www.dnd5eapi.co/api/features/324",
+          "ref": "features/324",
           "name": "Metamagic: Quickened Spell"
         },
         {
-          "url": "http://www.dnd5eapi.co/api/features/325",
+          "ref": "features/325",
           "name": "Metamagic: Subtle Spell"
         },
         {
-          "url": "http://www.dnd5eapi.co/api/features/326",
+          "ref": "features/326",
           "name": "Metamagic: Twinned Spell"
         }
       ]
@@ -6075,13 +6075,13 @@
     "url": "http://www.dnd5eapi.co/api/features/336"
   },
   {
-    "index": 337,
+    "id": "337",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/10",
+      "ref": "classes/10",
       "name": "Sorcerer"
     },
     "subclass": {
-      "url": "http://www.dnd5eapi.co/api/subclasses/10",
+      "ref": "subclasses/10",
       "name": "Draconic"
     },
     "name": "Draconic Presence",
@@ -6092,9 +6092,9 @@
     "url": "http://www.dnd5eapi.co/api/features/337"
   },
   {
-    "index": 338,
+    "id": "338",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/10",
+      "ref": "classes/10",
       "name": "Sorcerer"
     },
     "subclass": {},
@@ -6106,9 +6106,9 @@
     "url": "http://www.dnd5eapi.co/api/features/338"
   },
   {
-    "index": 339,
+    "id": "339",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/10",
+      "ref": "classes/10",
       "name": "Sorcerer"
     },
     "subclass": {},
@@ -6120,9 +6120,9 @@
     "url": "http://www.dnd5eapi.co/api/features/339"
   },
   {
-    "index": 340,
+    "id": "340",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/11",
+      "ref": "classes/11",
       "name": "Warlock"
     },
     "subclass": {},
@@ -6134,13 +6134,13 @@
     "url": "http://www.dnd5eapi.co/api/features/340"
   },
   {
-    "index": 341,
+    "id": "341",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/11",
+      "ref": "classes/11",
       "name": "Warlock"
     },
     "subclass": {
-      "url": "http://www.dnd5eapi.co/api/subclasses/11",
+      "ref": "subclasses/11",
       "name": "Fiend"
     },
     "name": "Dark One's Blessing",
@@ -6151,9 +6151,9 @@
     "url": "http://www.dnd5eapi.co/api/features/341"
   },
   {
-    "index": 342,
+    "id": "342",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/11",
+      "ref": "classes/11",
       "name": "Warlock"
     },
     "subclass": {},
@@ -6166,9 +6166,9 @@
     "url": "http://www.dnd5eapi.co/api/features/342"
   },
   {
-    "index": 343,
+    "id": "343",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/11",
+      "ref": "classes/11",
       "name": "Warlock"
     },
     "subclass": {},
@@ -6184,67 +6184,67 @@
       "type": "feature",
       "from": [
         {
-          "url": "http://www.dnd5eapi.co/api/features/344",
+          "ref": "features/344",
           "name": "Eldritch Invocation: Agonizing Blast"
         },
         {
-          "url": "http://www.dnd5eapi.co/api/features/345",
+          "ref": "features/345",
           "name": "Eldritch Invocation: Armor of Shadows"
         },
         {
-          "url": "http://www.dnd5eapi.co/api/features/346",
+          "ref": "features/346",
           "name": "Eldritch Invocation: Beast Speech"
         },
         {
-          "url": "http://www.dnd5eapi.co/api/features/347",
+          "ref": "features/347",
           "name": "Eldritch Invocation: Beguiling Influence"
         },
         {
-          "url": "http://www.dnd5eapi.co/api/features/348",
+          "ref": "features/348",
           "name": "Eldritch Invocation: Book of Ancient Secrets"
         },
         {
-          "url": "http://www.dnd5eapi.co/api/features/349",
+          "ref": "features/349",
           "name": "Eldritch Invocation: Devil's Sight"
         },
         {
-          "url": "http://www.dnd5eapi.co/api/features/350",
+          "ref": "features/350",
           "name": "Eldritch Invocation: Eldritch Sight"
         },
         {
-          "url": "http://www.dnd5eapi.co/api/features/351",
+          "ref": "features/351",
           "name": "Eldritch Invocation: Eldritch Spear"
         },
         {
-          "url": "http://www.dnd5eapi.co/api/features/352",
+          "ref": "features/352",
           "name": "Eldritch Invocation: Eyes of the Rune Keeper"
         },
         {
-          "url": "http://www.dnd5eapi.co/api/features/353",
+          "ref": "features/353",
           "name": "Eldritch Invocation: Fiendish Vigor"
         },
         {
-          "url": "http://www.dnd5eapi.co/api/features/354",
+          "ref": "features/354",
           "name": "Eldritch Invocation: Gaze of Two Minds"
         },
         {
-          "url": "http://www.dnd5eapi.co/api/features/355",
+          "ref": "features/355",
           "name": "Eldritch Invocation: Mask of Many Faces"
         },
         {
-          "url": "http://www.dnd5eapi.co/api/features/356",
+          "ref": "features/356",
           "name": "Eldritch Invocation: Misty Visions"
         },
         {
-          "url": "http://www.dnd5eapi.co/api/features/357",
+          "ref": "features/357",
           "name": "Eldritch Invocation: Repelling Blast"
         },
         {
-          "url": "http://www.dnd5eapi.co/api/features/358",
+          "ref": "features/358",
           "name": "Eldritch Invocation: Thief of Five Fates"
         },
         {
-          "url": "http://www.dnd5eapi.co/api/features/359",
+          "ref": "features/359",
           "name": "Eldritch Invocation: Voice of the Chain Master"
         }
       ]
@@ -6252,9 +6252,9 @@
     "url": "http://www.dnd5eapi.co/api/features/343"
   },
   {
-    "index": 344,
+    "id": "344",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/11",
+      "ref": "classes/11",
       "name": "Warlock"
     },
     "subclass": {},
@@ -6273,9 +6273,9 @@
     "url": "http://www.dnd5eapi.co/api/features/344"
   },
   {
-    "index": 345,
+    "id": "345",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/11",
+      "ref": "classes/11",
       "name": "Warlock"
     },
     "subclass": {},
@@ -6289,9 +6289,9 @@
     "url": "http://www.dnd5eapi.co/api/features/345"
   },
   {
-    "index": 346,
+    "id": "346",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/11",
+      "ref": "classes/11",
       "name": "Warlock"
     },
     "subclass": {},
@@ -6305,9 +6305,9 @@
     "url": "http://www.dnd5eapi.co/api/features/346"
   },
   {
-    "index": 347,
+    "id": "347",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/11",
+      "ref": "classes/11",
       "name": "Warlock"
     },
     "subclass": {},
@@ -6319,9 +6319,9 @@
     "url": "http://www.dnd5eapi.co/api/features/347"
   },
   {
-    "index": 348,
+    "id": "348",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/11",
+      "ref": "classes/11",
       "name": "Warlock"
     },
     "subclass": {},
@@ -6341,9 +6341,9 @@
     "url": "http://www.dnd5eapi.co/api/features/348"
   },
   {
-    "index": 349,
+    "id": "349",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/11",
+      "ref": "classes/11",
       "name": "Warlock"
     },
     "subclass": {},
@@ -6357,9 +6357,9 @@
     "url": "http://www.dnd5eapi.co/api/features/349"
   },
   {
-    "index": 350,
+    "id": "350",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/11",
+      "ref": "classes/11",
       "name": "Warlock"
     },
     "subclass": {},
@@ -6373,9 +6373,9 @@
     "url": "http://www.dnd5eapi.co/api/features/350"
   },
   {
-    "index": 351,
+    "id": "351",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/11",
+      "ref": "classes/11",
       "name": "Warlock"
     },
     "subclass": {},
@@ -6392,9 +6392,9 @@
     "url": "http://www.dnd5eapi.co/api/features/351"
   },
   {
-    "index": 352,
+    "id": "352",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/11",
+      "ref": "classes/11",
       "name": "Warlock"
     },
     "subclass": {},
@@ -6406,9 +6406,9 @@
     "url": "http://www.dnd5eapi.co/api/features/352"
   },
   {
-    "index": 353,
+    "id": "353",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/11",
+      "ref": "classes/11",
       "name": "Warlock"
     },
     "subclass": {},
@@ -6422,9 +6422,9 @@
     "url": "http://www.dnd5eapi.co/api/features/353"
   },
   {
-    "index": 354,
+    "id": "354",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/11",
+      "ref": "classes/11",
       "name": "Warlock"
     },
     "subclass": {},
@@ -6438,9 +6438,9 @@
     "url": "http://www.dnd5eapi.co/api/features/354"
   },
   {
-    "index": 355,
+    "id": "355",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/11",
+      "ref": "classes/11",
       "name": "Warlock"
     },
     "subclass": {},
@@ -6454,9 +6454,9 @@
     "url": "http://www.dnd5eapi.co/api/features/355"
   },
   {
-    "index": 356,
+    "id": "356",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/11",
+      "ref": "classes/11",
       "name": "Warlock"
     },
     "subclass": {},
@@ -6470,9 +6470,9 @@
     "url": "http://www.dnd5eapi.co/api/features/356"
   },
   {
-    "index": 357,
+    "id": "357",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/11",
+      "ref": "classes/11",
       "name": "Warlock"
     },
     "subclass": {},
@@ -6491,9 +6491,9 @@
     "url": "http://www.dnd5eapi.co/api/features/357"
   },
   {
-    "index": 358,
+    "id": "358",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/11",
+      "ref": "classes/11",
       "name": "Warlock"
     },
     "subclass": {},
@@ -6507,9 +6507,9 @@
     "url": "http://www.dnd5eapi.co/api/features/358"
   },
   {
-    "index": 359,
+    "id": "359",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/11",
+      "ref": "classes/11",
       "name": "Warlock"
     },
     "subclass": {},
@@ -6529,9 +6529,9 @@
     "url": "http://www.dnd5eapi.co/api/features/359"
   },
   {
-    "index": 360,
+    "id": "360",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/11",
+      "ref": "classes/11",
       "name": "Warlock"
     },
     "subclass": {},
@@ -6550,9 +6550,9 @@
     "url": "http://www.dnd5eapi.co/api/features/360"
   },
   {
-    "index": 361,
+    "id": "361",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/11",
+      "ref": "classes/11",
       "name": "Warlock"
     },
     "subclass": {},
@@ -6571,9 +6571,9 @@
     "url": "http://www.dnd5eapi.co/api/features/361"
   },
   {
-    "index": 362,
+    "id": "362",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/11",
+      "ref": "classes/11",
       "name": "Warlock"
     },
     "subclass": {},
@@ -6592,9 +6592,9 @@
     "url": "http://www.dnd5eapi.co/api/features/362"
   },
   {
-    "index": 363,
+    "id": "363",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/11",
+      "ref": "classes/11",
       "name": "Warlock"
     },
     "subclass": {},
@@ -6617,9 +6617,9 @@
     "url": "http://www.dnd5eapi.co/api/features/363"
   },
   {
-    "index": 364,
+    "id": "364",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/11",
+      "ref": "classes/11",
       "name": "Warlock"
     },
     "subclass": {},
@@ -6638,9 +6638,9 @@
     "url": "http://www.dnd5eapi.co/api/features/364"
   },
   {
-    "index": 365,
+    "id": "365",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/11",
+      "ref": "classes/11",
       "name": "Warlock"
     },
     "subclass": {},
@@ -6659,9 +6659,9 @@
     "url": "http://www.dnd5eapi.co/api/features/365"
   },
   {
-    "index": 366,
+    "id": "366",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/11",
+      "ref": "classes/11",
       "name": "Warlock"
     },
     "subclass": {},
@@ -6680,9 +6680,9 @@
     "url": "http://www.dnd5eapi.co/api/features/366"
   },
   {
-    "index": 367,
+    "id": "367",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/11",
+      "ref": "classes/11",
       "name": "Warlock"
     },
     "subclass": {},
@@ -6701,9 +6701,9 @@
     "url": "http://www.dnd5eapi.co/api/features/367"
   },
   {
-    "index": 368,
+    "id": "368",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/11",
+      "ref": "classes/11",
       "name": "Warlock"
     },
     "subclass": {},
@@ -6722,9 +6722,9 @@
     "url": "http://www.dnd5eapi.co/api/features/368"
   },
   {
-    "index": 369,
+    "id": "369",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/11",
+      "ref": "classes/11",
       "name": "Warlock"
     },
     "subclass": {},
@@ -6743,9 +6743,9 @@
     "url": "http://www.dnd5eapi.co/api/features/369"
   },
   {
-    "index": 370,
+    "id": "370",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/11",
+      "ref": "classes/11",
       "name": "Warlock"
     },
     "subclass": {},
@@ -6764,9 +6764,9 @@
     "url": "http://www.dnd5eapi.co/api/features/370"
   },
   {
-    "index": 371,
+    "id": "371",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/11",
+      "ref": "classes/11",
       "name": "Warlock"
     },
     "subclass": {},
@@ -6789,9 +6789,9 @@
     "url": "http://www.dnd5eapi.co/api/features/371"
   },
   {
-    "index": 372,
+    "id": "372",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/11",
+      "ref": "classes/11",
       "name": "Warlock"
     },
     "subclass": {},
@@ -6814,9 +6814,9 @@
     "url": "http://www.dnd5eapi.co/api/features/372"
   },
   {
-    "index": 373,
+    "id": "373",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/11",
+      "ref": "classes/11",
       "name": "Warlock"
     },
     "subclass": {},
@@ -6835,9 +6835,9 @@
     "url": "http://www.dnd5eapi.co/api/features/373"
   },
   {
-    "index": 374,
+    "id": "374",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/11",
+      "ref": "classes/11",
       "name": "Warlock"
     },
     "subclass": {},
@@ -6856,9 +6856,9 @@
     "url": "http://www.dnd5eapi.co/api/features/374"
   },
   {
-    "index": 375,
+    "id": "375",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/11",
+      "ref": "classes/11",
       "name": "Warlock"
     },
     "subclass": {},
@@ -6877,9 +6877,9 @@
     "url": "http://www.dnd5eapi.co/api/features/375"
   },
   {
-    "index": 376,
+    "id": "376",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/11",
+      "ref": "classes/11",
       "name": "Warlock"
     },
     "subclass": {},
@@ -6893,15 +6893,15 @@
       "type": "feature",
       "from": [
         {
-          "url": "http://www.dnd5eapi.co/api/features/377",
+          "ref": "features/377",
           "name": "Pact of the Chain"
         },
         {
-          "url": "http://www.dnd5eapi.co/api/features/378",
+          "ref": "features/378",
           "name": "Pact of the Blade"
         },
         {
-          "url": "http://www.dnd5eapi.co/api/features/379",
+          "ref": "features/379",
           "name": "Pact of the Tome"
         }
       ]
@@ -6909,9 +6909,9 @@
     "url": "http://www.dnd5eapi.co/api/features/376"
   },
   {
-    "index": 377,
+    "id": "377",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/11",
+      "ref": "classes/11",
       "name": "Warlock"
     },
     "subclass": {},
@@ -6927,9 +6927,9 @@
     "url": "http://www.dnd5eapi.co/api/features/377"
   },
   {
-    "index": 378,
+    "id": "378",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/11",
+      "ref": "classes/11",
       "name": "Warlock"
     },
     "subclass": {},
@@ -6945,9 +6945,9 @@
     "url": "http://www.dnd5eapi.co/api/features/378"
   },
   {
-    "index": 379,
+    "id": "379",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/11",
+      "ref": "classes/11",
       "name": "Warlock"
     },
     "subclass": {},
@@ -6962,9 +6962,9 @@
     "url": "http://www.dnd5eapi.co/api/features/379"
   },
   {
-    "index": 380,
+    "id": "380",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/11",
+      "ref": "classes/11",
       "name": "Warlock"
     },
     "subclass": {},
@@ -6976,9 +6976,9 @@
     "url": "http://www.dnd5eapi.co/api/features/380"
   },
   {
-    "index": 381,
+    "id": "381",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/11",
+      "ref": "classes/11",
       "name": "Warlock"
     },
     "subclass": {},
@@ -6994,67 +6994,67 @@
       "type": "feature",
       "from": [
         {
-          "url": "http://www.dnd5eapi.co/api/features/344",
+          "ref": "features/344",
           "name": "Eldritch Invocation: Agonizing Blast"
         },
         {
-          "url": "http://www.dnd5eapi.co/api/features/345",
+          "ref": "features/345",
           "name": "Eldritch Invocation: Armor of Shadows"
         },
         {
-          "url": "http://www.dnd5eapi.co/api/features/346",
+          "ref": "features/346",
           "name": "Eldritch Invocation: Beast Speech"
         },
         {
-          "url": "http://www.dnd5eapi.co/api/features/347",
+          "ref": "features/347",
           "name": "Eldritch Invocation: Beguiling Influence"
         },
         {
-          "url": "http://www.dnd5eapi.co/api/features/348",
+          "ref": "features/348",
           "name": "Eldritch Invocation: Book of Ancient Secrets"
         },
         {
-          "url": "http://www.dnd5eapi.co/api/features/349",
+          "ref": "features/349",
           "name": "Eldritch Invocation: Devil's Sight"
         },
         {
-          "url": "http://www.dnd5eapi.co/api/features/350",
+          "ref": "features/350",
           "name": "Eldritch Invocation: Eldritch Sight"
         },
         {
-          "url": "http://www.dnd5eapi.co/api/features/351",
+          "ref": "features/351",
           "name": "Eldritch Invocation: Eldritch Spear"
         },
         {
-          "url": "http://www.dnd5eapi.co/api/features/352",
+          "ref": "features/352",
           "name": "Eldritch Invocation: Eyes of the Rune Keeper"
         },
         {
-          "url": "http://www.dnd5eapi.co/api/features/353",
+          "ref": "features/353",
           "name": "Eldritch Invocation: Fiendish Vigor"
         },
         {
-          "url": "http://www.dnd5eapi.co/api/features/354",
+          "ref": "features/354",
           "name": "Eldritch Invocation: Gaze of Two Minds"
         },
         {
-          "url": "http://www.dnd5eapi.co/api/features/355",
+          "ref": "features/355",
           "name": "Eldritch Invocation: Mask of Many Faces"
         },
         {
-          "url": "http://www.dnd5eapi.co/api/features/356",
+          "ref": "features/356",
           "name": "Eldritch Invocation: Misty Visions"
         },
         {
-          "url": "http://www.dnd5eapi.co/api/features/357",
+          "ref": "features/357",
           "name": "Eldritch Invocation: Repelling Blast"
         },
         {
-          "url": "http://www.dnd5eapi.co/api/features/358",
+          "ref": "features/358",
           "name": "Eldritch Invocation: Thief of Five Fates"
         },
         {
-          "url": "http://www.dnd5eapi.co/api/features/359",
+          "ref": "features/359",
           "name": "Eldritch Invocation: Voice of the Chain Master"
         }
       ]
@@ -7062,13 +7062,13 @@
     "url": "http://www.dnd5eapi.co/api/features/381"
   },
   {
-    "index": 382,
+    "id": "382",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/11",
+      "ref": "classes/11",
       "name": "Warlock"
     },
     "subclass": {
-      "url": "http://www.dnd5eapi.co/api/subclasses/11",
+      "ref": "subclasses/11",
       "name": "Fiend"
     },
     "name": "Dark One's Own Luck",
@@ -7080,9 +7080,9 @@
     "url": "http://www.dnd5eapi.co/api/features/382"
   },
   {
-    "index": 383,
+    "id": "383",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/11",
+      "ref": "classes/11",
       "name": "Warlock"
     },
     "subclass": {},
@@ -7098,67 +7098,67 @@
       "type": "feature",
       "from": [
         {
-          "url": "http://www.dnd5eapi.co/api/features/344",
+          "ref": "features/344",
           "name": "Eldritch Invocation: Agonizing Blast"
         },
         {
-          "url": "http://www.dnd5eapi.co/api/features/345",
+          "ref": "features/345",
           "name": "Eldritch Invocation: Armor of Shadows"
         },
         {
-          "url": "http://www.dnd5eapi.co/api/features/346",
+          "ref": "features/346",
           "name": "Eldritch Invocation: Beast Speech"
         },
         {
-          "url": "http://www.dnd5eapi.co/api/features/347",
+          "ref": "features/347",
           "name": "Eldritch Invocation: Beguiling Influence"
         },
         {
-          "url": "http://www.dnd5eapi.co/api/features/348",
+          "ref": "features/348",
           "name": "Eldritch Invocation: Book of Ancient Secrets"
         },
         {
-          "url": "http://www.dnd5eapi.co/api/features/349",
+          "ref": "features/349",
           "name": "Eldritch Invocation: Devil's Sight"
         },
         {
-          "url": "http://www.dnd5eapi.co/api/features/350",
+          "ref": "features/350",
           "name": "Eldritch Invocation: Eldritch Sight"
         },
         {
-          "url": "http://www.dnd5eapi.co/api/features/351",
+          "ref": "features/351",
           "name": "Eldritch Invocation: Eldritch Spear"
         },
         {
-          "url": "http://www.dnd5eapi.co/api/features/352",
+          "ref": "features/352",
           "name": "Eldritch Invocation: Eyes of the Rune Keeper"
         },
         {
-          "url": "http://www.dnd5eapi.co/api/features/353",
+          "ref": "features/353",
           "name": "Eldritch Invocation: Fiendish Vigor"
         },
         {
-          "url": "http://www.dnd5eapi.co/api/features/354",
+          "ref": "features/354",
           "name": "Eldritch Invocation: Gaze of Two Minds"
         },
         {
-          "url": "http://www.dnd5eapi.co/api/features/355",
+          "ref": "features/355",
           "name": "Eldritch Invocation: Mask of Many Faces"
         },
         {
-          "url": "http://www.dnd5eapi.co/api/features/356",
+          "ref": "features/356",
           "name": "Eldritch Invocation: Misty Visions"
         },
         {
-          "url": "http://www.dnd5eapi.co/api/features/357",
+          "ref": "features/357",
           "name": "Eldritch Invocation: Repelling Blast"
         },
         {
-          "url": "http://www.dnd5eapi.co/api/features/358",
+          "ref": "features/358",
           "name": "Eldritch Invocation: Thief of Five Fates"
         },
         {
-          "url": "http://www.dnd5eapi.co/api/features/359",
+          "ref": "features/359",
           "name": "Eldritch Invocation: Voice of the Chain Master"
         }
       ]
@@ -7166,9 +7166,9 @@
     "url": "http://www.dnd5eapi.co/api/features/383"
   },
   {
-    "index": 384,
+    "id": "384",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/11",
+      "ref": "classes/11",
       "name": "Warlock"
     },
     "subclass": {},
@@ -7180,9 +7180,9 @@
     "url": "http://www.dnd5eapi.co/api/features/384"
   },
   {
-    "index": 385,
+    "id": "385",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/11",
+      "ref": "classes/11",
       "name": "Warlock"
     },
     "subclass": {},
@@ -7198,67 +7198,67 @@
       "type": "feature",
       "from": [
         {
-          "url": "http://www.dnd5eapi.co/api/features/344",
+          "ref": "features/344",
           "name": "Eldritch Invocation: Agonizing Blast"
         },
         {
-          "url": "http://www.dnd5eapi.co/api/features/345",
+          "ref": "features/345",
           "name": "Eldritch Invocation: Armor of Shadows"
         },
         {
-          "url": "http://www.dnd5eapi.co/api/features/346",
+          "ref": "features/346",
           "name": "Eldritch Invocation: Beast Speech"
         },
         {
-          "url": "http://www.dnd5eapi.co/api/features/347",
+          "ref": "features/347",
           "name": "Eldritch Invocation: Beguiling Influence"
         },
         {
-          "url": "http://www.dnd5eapi.co/api/features/348",
+          "ref": "features/348",
           "name": "Eldritch Invocation: Book of Ancient Secrets"
         },
         {
-          "url": "http://www.dnd5eapi.co/api/features/349",
+          "ref": "features/349",
           "name": "Eldritch Invocation: Devil's Sight"
         },
         {
-          "url": "http://www.dnd5eapi.co/api/features/350",
+          "ref": "features/350",
           "name": "Eldritch Invocation: Eldritch Sight"
         },
         {
-          "url": "http://www.dnd5eapi.co/api/features/351",
+          "ref": "features/351",
           "name": "Eldritch Invocation: Eldritch Spear"
         },
         {
-          "url": "http://www.dnd5eapi.co/api/features/352",
+          "ref": "features/352",
           "name": "Eldritch Invocation: Eyes of the Rune Keeper"
         },
         {
-          "url": "http://www.dnd5eapi.co/api/features/353",
+          "ref": "features/353",
           "name": "Eldritch Invocation: Fiendish Vigor"
         },
         {
-          "url": "http://www.dnd5eapi.co/api/features/354",
+          "ref": "features/354",
           "name": "Eldritch Invocation: Gaze of Two Minds"
         },
         {
-          "url": "http://www.dnd5eapi.co/api/features/355",
+          "ref": "features/355",
           "name": "Eldritch Invocation: Mask of Many Faces"
         },
         {
-          "url": "http://www.dnd5eapi.co/api/features/356",
+          "ref": "features/356",
           "name": "Eldritch Invocation: Misty Visions"
         },
         {
-          "url": "http://www.dnd5eapi.co/api/features/357",
+          "ref": "features/357",
           "name": "Eldritch Invocation: Repelling Blast"
         },
         {
-          "url": "http://www.dnd5eapi.co/api/features/358",
+          "ref": "features/358",
           "name": "Eldritch Invocation: Thief of Five Fates"
         },
         {
-          "url": "http://www.dnd5eapi.co/api/features/359",
+          "ref": "features/359",
           "name": "Eldritch Invocation: Voice of the Chain Master"
         }
       ]
@@ -7266,13 +7266,13 @@
     "url": "http://www.dnd5eapi.co/api/features/385"
   },
   {
-    "index": 386,
+    "id": "386",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/11",
+      "ref": "classes/11",
       "name": "Warlock"
     },
     "subclass": {
-      "url": "http://www.dnd5eapi.co/api/subclasses/11",
+      "ref": "subclasses/11",
       "name": "Fiend"
     },
     "name": "Fiendish Resilience",
@@ -7283,9 +7283,9 @@
     "url": "http://www.dnd5eapi.co/api/features/386"
   },
   {
-    "index": 387,
+    "id": "387",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/11",
+      "ref": "classes/11",
       "name": "Warlock"
     },
     "subclass": {},
@@ -7299,9 +7299,9 @@
     "url": "http://www.dnd5eapi.co/api/features/387"
   },
   {
-    "index": 388,
+    "id": "388",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/11",
+      "ref": "classes/11",
       "name": "Warlock"
     },
     "subclass": {},
@@ -7313,9 +7313,9 @@
     "url": "http://www.dnd5eapi.co/api/features/388"
   },
   {
-    "index": 389,
+    "id": "389",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/11",
+      "ref": "classes/11",
       "name": "Warlock"
     },
     "subclass": {},
@@ -7331,67 +7331,67 @@
       "type": "feature",
       "from": [
         {
-          "url": "http://www.dnd5eapi.co/api/features/344",
+          "ref": "features/344",
           "name": "Eldritch Invocation: Agonizing Blast"
         },
         {
-          "url": "http://www.dnd5eapi.co/api/features/345",
+          "ref": "features/345",
           "name": "Eldritch Invocation: Armor of Shadows"
         },
         {
-          "url": "http://www.dnd5eapi.co/api/features/346",
+          "ref": "features/346",
           "name": "Eldritch Invocation: Beast Speech"
         },
         {
-          "url": "http://www.dnd5eapi.co/api/features/347",
+          "ref": "features/347",
           "name": "Eldritch Invocation: Beguiling Influence"
         },
         {
-          "url": "http://www.dnd5eapi.co/api/features/348",
+          "ref": "features/348",
           "name": "Eldritch Invocation: Book of Ancient Secrets"
         },
         {
-          "url": "http://www.dnd5eapi.co/api/features/349",
+          "ref": "features/349",
           "name": "Eldritch Invocation: Devil's Sight"
         },
         {
-          "url": "http://www.dnd5eapi.co/api/features/350",
+          "ref": "features/350",
           "name": "Eldritch Invocation: Eldritch Sight"
         },
         {
-          "url": "http://www.dnd5eapi.co/api/features/351",
+          "ref": "features/351",
           "name": "Eldritch Invocation: Eldritch Spear"
         },
         {
-          "url": "http://www.dnd5eapi.co/api/features/352",
+          "ref": "features/352",
           "name": "Eldritch Invocation: Eyes of the Rune Keeper"
         },
         {
-          "url": "http://www.dnd5eapi.co/api/features/353",
+          "ref": "features/353",
           "name": "Eldritch Invocation: Fiendish Vigor"
         },
         {
-          "url": "http://www.dnd5eapi.co/api/features/354",
+          "ref": "features/354",
           "name": "Eldritch Invocation: Gaze of Two Minds"
         },
         {
-          "url": "http://www.dnd5eapi.co/api/features/355",
+          "ref": "features/355",
           "name": "Eldritch Invocation: Mask of Many Faces"
         },
         {
-          "url": "http://www.dnd5eapi.co/api/features/356",
+          "ref": "features/356",
           "name": "Eldritch Invocation: Misty Visions"
         },
         {
-          "url": "http://www.dnd5eapi.co/api/features/357",
+          "ref": "features/357",
           "name": "Eldritch Invocation: Repelling Blast"
         },
         {
-          "url": "http://www.dnd5eapi.co/api/features/358",
+          "ref": "features/358",
           "name": "Eldritch Invocation: Thief of Five Fates"
         },
         {
-          "url": "http://www.dnd5eapi.co/api/features/359",
+          "ref": "features/359",
           "name": "Eldritch Invocation: Voice of the Chain Master"
         }
       ]
@@ -7399,9 +7399,9 @@
     "url": "http://www.dnd5eapi.co/api/features/389"
   },
   {
-    "index": 390,
+    "id": "390",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/11",
+      "ref": "classes/11",
       "name": "Warlock"
     },
     "subclass": {},
@@ -7415,13 +7415,13 @@
     "url": "http://www.dnd5eapi.co/api/features/390"
   },
   {
-    "index": 391,
+    "id": "391",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/11",
+      "ref": "classes/11",
       "name": "Warlock"
     },
     "subclass": {
-      "url": "http://www.dnd5eapi.co/api/subclasses/11",
+      "ref": "subclasses/11",
       "name": "Fiend"
     },
     "name": "Hurl Through Hell",
@@ -7434,9 +7434,9 @@
     "url": "http://www.dnd5eapi.co/api/features/391"
   },
   {
-    "index": 392,
+    "id": "392",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/11",
+      "ref": "classes/11",
       "name": "Warlock"
     },
     "subclass": {},
@@ -7450,9 +7450,9 @@
     "url": "http://www.dnd5eapi.co/api/features/392"
   },
   {
-    "index": 393,
+    "id": "393",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/11",
+      "ref": "classes/11",
       "name": "Warlock"
     },
     "subclass": {},
@@ -7468,67 +7468,67 @@
       "type": "feature",
       "from": [
         {
-          "url": "http://www.dnd5eapi.co/api/features/344",
+          "ref": "features/344",
           "name": "Eldritch Invocation: Agonizing Blast"
         },
         {
-          "url": "http://www.dnd5eapi.co/api/features/345",
+          "ref": "features/345",
           "name": "Eldritch Invocation: Armor of Shadows"
         },
         {
-          "url": "http://www.dnd5eapi.co/api/features/346",
+          "ref": "features/346",
           "name": "Eldritch Invocation: Beast Speech"
         },
         {
-          "url": "http://www.dnd5eapi.co/api/features/347",
+          "ref": "features/347",
           "name": "Eldritch Invocation: Beguiling Influence"
         },
         {
-          "url": "http://www.dnd5eapi.co/api/features/348",
+          "ref": "features/348",
           "name": "Eldritch Invocation: Book of Ancient Secrets"
         },
         {
-          "url": "http://www.dnd5eapi.co/api/features/349",
+          "ref": "features/349",
           "name": "Eldritch Invocation: Devil's Sight"
         },
         {
-          "url": "http://www.dnd5eapi.co/api/features/350",
+          "ref": "features/350",
           "name": "Eldritch Invocation: Eldritch Sight"
         },
         {
-          "url": "http://www.dnd5eapi.co/api/features/351",
+          "ref": "features/351",
           "name": "Eldritch Invocation: Eldritch Spear"
         },
         {
-          "url": "http://www.dnd5eapi.co/api/features/352",
+          "ref": "features/352",
           "name": "Eldritch Invocation: Eyes of the Rune Keeper"
         },
         {
-          "url": "http://www.dnd5eapi.co/api/features/353",
+          "ref": "features/353",
           "name": "Eldritch Invocation: Fiendish Vigor"
         },
         {
-          "url": "http://www.dnd5eapi.co/api/features/354",
+          "ref": "features/354",
           "name": "Eldritch Invocation: Gaze of Two Minds"
         },
         {
-          "url": "http://www.dnd5eapi.co/api/features/355",
+          "ref": "features/355",
           "name": "Eldritch Invocation: Mask of Many Faces"
         },
         {
-          "url": "http://www.dnd5eapi.co/api/features/356",
+          "ref": "features/356",
           "name": "Eldritch Invocation: Misty Visions"
         },
         {
-          "url": "http://www.dnd5eapi.co/api/features/357",
+          "ref": "features/357",
           "name": "Eldritch Invocation: Repelling Blast"
         },
         {
-          "url": "http://www.dnd5eapi.co/api/features/358",
+          "ref": "features/358",
           "name": "Eldritch Invocation: Thief of Five Fates"
         },
         {
-          "url": "http://www.dnd5eapi.co/api/features/359",
+          "ref": "features/359",
           "name": "Eldritch Invocation: Voice of the Chain Master"
         }
       ]
@@ -7536,9 +7536,9 @@
     "url": "http://www.dnd5eapi.co/api/features/393"
   },
   {
-    "index": 394,
+    "id": "394",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/11",
+      "ref": "classes/11",
       "name": "Warlock"
     },
     "subclass": {},
@@ -7550,9 +7550,9 @@
     "url": "http://www.dnd5eapi.co/api/features/394"
   },
   {
-    "index": 395,
+    "id": "395",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/11",
+      "ref": "classes/11",
       "name": "Warlock"
     },
     "subclass": {},
@@ -7566,9 +7566,9 @@
     "url": "http://www.dnd5eapi.co/api/features/395"
   },
   {
-    "index": 396,
+    "id": "396",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/11",
+      "ref": "classes/11",
       "name": "Warlock"
     },
     "subclass": {},
@@ -7584,67 +7584,67 @@
       "type": "feature",
       "from": [
         {
-          "url": "http://www.dnd5eapi.co/api/features/344",
+          "ref": "features/344",
           "name": "Eldritch Invocation: Agonizing Blast"
         },
         {
-          "url": "http://www.dnd5eapi.co/api/features/345",
+          "ref": "features/345",
           "name": "Eldritch Invocation: Armor of Shadows"
         },
         {
-          "url": "http://www.dnd5eapi.co/api/features/346",
+          "ref": "features/346",
           "name": "Eldritch Invocation: Beast Speech"
         },
         {
-          "url": "http://www.dnd5eapi.co/api/features/347",
+          "ref": "features/347",
           "name": "Eldritch Invocation: Beguiling Influence"
         },
         {
-          "url": "http://www.dnd5eapi.co/api/features/348",
+          "ref": "features/348",
           "name": "Eldritch Invocation: Book of Ancient Secrets"
         },
         {
-          "url": "http://www.dnd5eapi.co/api/features/349",
+          "ref": "features/349",
           "name": "Eldritch Invocation: Devil's Sight"
         },
         {
-          "url": "http://www.dnd5eapi.co/api/features/350",
+          "ref": "features/350",
           "name": "Eldritch Invocation: Eldritch Sight"
         },
         {
-          "url": "http://www.dnd5eapi.co/api/features/351",
+          "ref": "features/351",
           "name": "Eldritch Invocation: Eldritch Spear"
         },
         {
-          "url": "http://www.dnd5eapi.co/api/features/352",
+          "ref": "features/352",
           "name": "Eldritch Invocation: Eyes of the Rune Keeper"
         },
         {
-          "url": "http://www.dnd5eapi.co/api/features/353",
+          "ref": "features/353",
           "name": "Eldritch Invocation: Fiendish Vigor"
         },
         {
-          "url": "http://www.dnd5eapi.co/api/features/354",
+          "ref": "features/354",
           "name": "Eldritch Invocation: Gaze of Two Minds"
         },
         {
-          "url": "http://www.dnd5eapi.co/api/features/355",
+          "ref": "features/355",
           "name": "Eldritch Invocation: Mask of Many Faces"
         },
         {
-          "url": "http://www.dnd5eapi.co/api/features/356",
+          "ref": "features/356",
           "name": "Eldritch Invocation: Misty Visions"
         },
         {
-          "url": "http://www.dnd5eapi.co/api/features/357",
+          "ref": "features/357",
           "name": "Eldritch Invocation: Repelling Blast"
         },
         {
-          "url": "http://www.dnd5eapi.co/api/features/358",
+          "ref": "features/358",
           "name": "Eldritch Invocation: Thief of Five Fates"
         },
         {
-          "url": "http://www.dnd5eapi.co/api/features/359",
+          "ref": "features/359",
           "name": "Eldritch Invocation: Voice of the Chain Master"
         }
       ]
@@ -7652,9 +7652,9 @@
     "url": "http://www.dnd5eapi.co/api/features/396"
   },
   {
-    "index": 397,
+    "id": "397",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/11",
+      "ref": "classes/11",
       "name": "Warlock"
     },
     "subclass": {},
@@ -7666,9 +7666,9 @@
     "url": "http://www.dnd5eapi.co/api/features/397"
   },
   {
-    "index": 398,
+    "id": "398",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/11",
+      "ref": "classes/11",
       "name": "Warlock"
     },
     "subclass": {},
@@ -7681,9 +7681,9 @@
     "url": "http://www.dnd5eapi.co/api/features/398"
   },
   {
-    "index": 399,
+    "id": "399",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/11",
+      "ref": "classes/11",
       "name": "Warlock"
     },
     "subclass": {},
@@ -7699,67 +7699,67 @@
       "type": "feature",
       "from": [
         {
-          "url": "http://www.dnd5eapi.co/api/features/344",
+          "ref": "features/344",
           "name": "Eldritch Invocation: Agonizing Blast"
         },
         {
-          "url": "http://www.dnd5eapi.co/api/features/345",
+          "ref": "features/345",
           "name": "Eldritch Invocation: Armor of Shadows"
         },
         {
-          "url": "http://www.dnd5eapi.co/api/features/346",
+          "ref": "features/346",
           "name": "Eldritch Invocation: Beast Speech"
         },
         {
-          "url": "http://www.dnd5eapi.co/api/features/347",
+          "ref": "features/347",
           "name": "Eldritch Invocation: Beguiling Influence"
         },
         {
-          "url": "http://www.dnd5eapi.co/api/features/348",
+          "ref": "features/348",
           "name": "Eldritch Invocation: Book of Ancient Secrets"
         },
         {
-          "url": "http://www.dnd5eapi.co/api/features/349",
+          "ref": "features/349",
           "name": "Eldritch Invocation: Devil's Sight"
         },
         {
-          "url": "http://www.dnd5eapi.co/api/features/350",
+          "ref": "features/350",
           "name": "Eldritch Invocation: Eldritch Sight"
         },
         {
-          "url": "http://www.dnd5eapi.co/api/features/351",
+          "ref": "features/351",
           "name": "Eldritch Invocation: Eldritch Spear"
         },
         {
-          "url": "http://www.dnd5eapi.co/api/features/352",
+          "ref": "features/352",
           "name": "Eldritch Invocation: Eyes of the Rune Keeper"
         },
         {
-          "url": "http://www.dnd5eapi.co/api/features/353",
+          "ref": "features/353",
           "name": "Eldritch Invocation: Fiendish Vigor"
         },
         {
-          "url": "http://www.dnd5eapi.co/api/features/354",
+          "ref": "features/354",
           "name": "Eldritch Invocation: Gaze of Two Minds"
         },
         {
-          "url": "http://www.dnd5eapi.co/api/features/355",
+          "ref": "features/355",
           "name": "Eldritch Invocation: Mask of Many Faces"
         },
         {
-          "url": "http://www.dnd5eapi.co/api/features/356",
+          "ref": "features/356",
           "name": "Eldritch Invocation: Misty Visions"
         },
         {
-          "url": "http://www.dnd5eapi.co/api/features/357",
+          "ref": "features/357",
           "name": "Eldritch Invocation: Repelling Blast"
         },
         {
-          "url": "http://www.dnd5eapi.co/api/features/358",
+          "ref": "features/358",
           "name": "Eldritch Invocation: Thief of Five Fates"
         },
         {
-          "url": "http://www.dnd5eapi.co/api/features/359",
+          "ref": "features/359",
           "name": "Eldritch Invocation: Voice of the Chain Master"
         }
       ]
@@ -7767,9 +7767,9 @@
     "url": "http://www.dnd5eapi.co/api/features/399"
   },
   {
-    "index": 400,
+    "id": "400",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/12",
+      "ref": "classes/12",
       "name": "Wizard"
     },
     "subclass": {},
@@ -7782,9 +7782,9 @@
     "url": "http://www.dnd5eapi.co/api/features/400"
   },
   {
-    "index": 401,
+    "id": "401",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/12",
+      "ref": "classes/12",
       "name": "Wizard"
     },
     "subclass": {},
@@ -7797,9 +7797,9 @@
     "url": "http://www.dnd5eapi.co/api/features/401"
   },
   {
-    "index": 402,
+    "id": "402",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/12",
+      "ref": "classes/12",
       "name": "Wizard"
     },
     "subclass": {},
@@ -7812,13 +7812,13 @@
     "url": "http://www.dnd5eapi.co/api/features/402"
   },
   {
-    "index": 403,
+    "id": "403",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/12",
+      "ref": "classes/12",
       "name": "Wizard"
     },
     "subclass": {
-      "url": "http://www.dnd5eapi.co/api/subclasses/12",
+      "ref": "subclasses/12",
       "name": "Evocation"
     },
     "name": "Evocation Savant",
@@ -7829,13 +7829,13 @@
     "url": "http://www.dnd5eapi.co/api/features/403"
   },
   {
-    "index": 404,
+    "id": "404",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/12",
+      "ref": "classes/12",
       "name": "Wizard"
     },
     "subclass": {
-      "url": "http://www.dnd5eapi.co/api/subclasses/12",
+      "ref": "subclasses/12",
       "name": "Evocation"
     },
     "name": "Sculpt Spells",
@@ -7846,9 +7846,9 @@
     "url": "http://www.dnd5eapi.co/api/features/404"
   },
   {
-    "index": 405,
+    "id": "405",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/12",
+      "ref": "classes/12",
       "name": "Wizard"
     },
     "subclass": {},
@@ -7860,13 +7860,13 @@
     "url": "http://www.dnd5eapi.co/api/features/405"
   },
   {
-    "index": 406,
+    "id": "406",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/12",
+      "ref": "classes/12",
       "name": "Wizard"
     },
     "subclass": {
-      "url": "http://www.dnd5eapi.co/api/subclasses/12",
+      "ref": "subclasses/12",
       "name": "Evocation"
     },
     "name": "Potent Cantrip",
@@ -7877,9 +7877,9 @@
     "url": "http://www.dnd5eapi.co/api/features/406"
   },
   {
-    "index": 407,
+    "id": "407",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/12",
+      "ref": "classes/12",
       "name": "Wizard"
     },
     "subclass": {},
@@ -7891,13 +7891,13 @@
     "url": "http://www.dnd5eapi.co/api/features/407"
   },
   {
-    "index": 409,
+    "id": "409",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/12",
+      "ref": "classes/12",
       "name": "Wizard"
     },
     "subclass": {
-      "url": "http://www.dnd5eapi.co/api/subclasses/12",
+      "ref": "subclasses/12",
       "name": "Evocation"
     },
     "name": "Empowered Evocation",
@@ -7908,9 +7908,9 @@
     "url": "http://www.dnd5eapi.co/api/features/409"
   },
   {
-    "index": 410,
+    "id": "410",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/12",
+      "ref": "classes/12",
       "name": "Wizard"
     },
     "subclass": {},
@@ -7922,13 +7922,13 @@
     "url": "http://www.dnd5eapi.co/api/features/410"
   },
   {
-    "index": 412,
+    "id": "412",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/12",
+      "ref": "classes/12",
       "name": "Wizard"
     },
     "subclass": {
-      "url": "http://www.dnd5eapi.co/api/subclasses/12",
+      "ref": "subclasses/12",
       "name": "Evocation"
     },
     "name": "Overchannel",
@@ -7940,9 +7940,9 @@
     "url": "http://www.dnd5eapi.co/api/features/412"
   },
   {
-    "index": 413,
+    "id": "413",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/12",
+      "ref": "classes/12",
       "name": "Wizard"
     },
     "subclass": {},
@@ -7954,9 +7954,9 @@
     "url": "http://www.dnd5eapi.co/api/features/413"
   },
   {
-    "index": 414,
+    "id": "414",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/12",
+      "ref": "classes/12",
       "name": "Wizard"
     },
     "subclass": {},
@@ -7969,9 +7969,9 @@
     "url": "http://www.dnd5eapi.co/api/features/414"
   },
   {
-    "index": 415,
+    "id": "415",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/12",
+      "ref": "classes/12",
       "name": "Wizard"
     },
     "subclass": {},
@@ -7983,9 +7983,9 @@
     "url": "http://www.dnd5eapi.co/api/features/415"
   },
   {
-    "index": 416,
+    "id": "416",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/12",
+      "ref": "classes/12",
       "name": "Wizard"
     },
     "subclass": {},

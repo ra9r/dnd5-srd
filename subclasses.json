@@ -1,7 +1,7 @@
 [{
-	"index": 1,
+	"id": "1",
 	"class": {
-		"url": "http://www.dnd5eapi.co/api/classes/1",
+		"ref": "classes/1",
 		"name": "Barbarian"
 	},
 	"name": "Berserker",
@@ -19,9 +19,9 @@
 	],
 	"url": "http://www.dnd5eapi.co/api/subclasses/1"
 }, {
-	"index": 2,
+	"id": "2",
 	"class": {
-		"url": "http://www.dnd5eapi.co/api/classes/2",
+		"ref": "classes/2",
 		"name": "Bard"
 	},
 	"name": "Lore",
@@ -32,9 +32,9 @@
 	],
 	"url": "http://www.dnd5eapi.co/api/subclasses/2"
 }, {
-	"index": 3,
+	"id": "3",
 	"class": {
-		"url": "http://www.dnd5eapi.co/api/classes/3",
+		"ref": "classes/3",
 		"name": "Cleric"
 	},
 	"name": "Life",
@@ -45,91 +45,91 @@
 	],
 	"spells": [{
 		"prerequisites": [{
-			"url": "http://www.dnd5eapi.co/api/classes/cleric/level/1",
+			"ref": "classes/cleric/level/1",
 			"type": "level"
 		}],
 		"spell": {
-			"url": "http://www.dnd5eapi.co/api/spells/28",
+			"ref": "spells/28",
 			"name": "Bless"
 		}
 	}, {
 		"prerequisites": [{
-			"url": "http://www.dnd5eapi.co/api/classes/cleric/level/1",
+			"ref": "classes/cleric/level/1",
 			"type": "level"
 		}],
 		"spell": {
-			"url": "http://www.dnd5eapi.co/api/spells/66",
+			"ref": "spells/66",
 			"name": "Cure Wounds"
 		}
 	}, {
 		"prerequisites": [{
-			"url": "http://www.dnd5eapi.co/api/classes/cleric/level/3",
+			"ref": "classes/cleric/level/3",
 			"type": "level"
 		}],
 		"spell": {
-			"url": "http://www.dnd5eapi.co/api/spells/167",
+			"ref": "spells/167",
 			"name": "Lesser Restoration"
 		}
 	}, {
 		"prerequisites": [{
-			"url": "http://www.dnd5eapi.co/api/classes/cleric/level/3",
+			"ref": "classes/cleric/level/3",
 			"type": "level"
 		}],
 		"spell": {
-			"url": "http://www.dnd5eapi.co/api/spells/265",
+			"ref": "spells/265",
 			"name": "Spiritual Weapon"
 		}
 	}, {
 		"prerequisites": [{
-			"url": "http://www.dnd5eapi.co/api/classes/cleric/level/5",
+			"ref": "classes/cleric/level/5",
 			"type": "level"
 		}],
 		"spell": {
-			"url": "http://www.dnd5eapi.co/api/spells/24",
+			"ref": "spells/24",
 			"name": "Beacon of Hope"
 		}
 	}, {
 		"prerequisites": [{
-			"url": "http://www.dnd5eapi.co/api/classes/cleric/level/5",
+			"ref": "classes/cleric/level/5",
 			"type": "level"
 		}],
 		"spell": {
-			"url": "http://www.dnd5eapi.co/api/spells/236",
+			"ref": "spells/236",
 			"name": "Revivify"
 		}
 	}, {
 		"prerequisites": [{
-			"url": "http://www.dnd5eapi.co/api/classes/cleric/level/7",
+			"ref": "classes/cleric/level/7",
 			"type": "level"
 		}],
 		"spell": {
-			"url": "http://www.dnd5eapi.co/api/spells/71",
+			"ref": "spells/71",
 			"name": "Death Ward"
 		}
 	}, {
 		"prerequisites": [{
-			"url": "http://www.dnd5eapi.co/api/classes/cleric/level/9",
+			"ref": "classes/cleric/level/9",
 			"type": "level"
 		}],
 		"spell": {
-			"url": "http://www.dnd5eapi.co/api/spells/184",
+			"ref": "spells/184",
 			"name": "Mass Cure Wounds"
 		}
 	}, {
 		"prerequisites": [{
-			"url": "http://www.dnd5eapi.co/api/classes/cleric/level/9",
+			"ref": "classes/cleric/level/9",
 			"type": "level"
 		}],
 		"spell": {
-			"url": "http://www.dnd5eapi.co/api/spells/226",
+			"ref": "spells/226",
 			"name": "Raise Dead"
 		}
 	}],
 	"url": "http://www.dnd5eapi.co/api/subclasses/3"
 }, {
-	"index": 4,
+	"id": "4",
 	"class": {
-		"url": "http://www.dnd5eapi.co/api/classes/4",
+		"ref": "classes/4",
 		"name": "Druid"
 	},
 	"name": "Land",
@@ -140,682 +140,682 @@
 	],
 	"spells": [{
 		"prerequisites": [{
-			"url": "http://www.dnd5eapi.co/api/classes/druid/level/3",
+			"ref": "classes/druid/level/3",
 			"type": "level"
 		}, {
 			"name": "Circle of the Land: Arctic",
 			"url": "http://www.dnd5eapi.co/api/features/105"
 		}],
 		"spell": {
-			"url": "http://www.dnd5eapi.co/api/spells/151",
+			"ref": "spells/151",
 			"name": "Hold Person"
 		}
 	}, {
 		"prerequisites": [{
-			"url": "http://www.dnd5eapi.co/api/classes/druid/level/3",
+			"ref": "classes/druid/level/3",
 			"type": "level"
 		}, {
 			"name": "Circle of the Land: Arctic",
 			"url": "http://www.dnd5eapi.co/api/features/105"
 		}],
 		"spell": {
-			"url": "http://www.dnd5eapi.co/api/spells/263",
+			"ref": "spells/263",
 			"name": "Spike Growth"
 		}
 	}, {
 		"prerequisites": [{
-			"url": "http://www.dnd5eapi.co/api/classes/druid/level/5",
+			"ref": "classes/druid/level/5",
 			"type": "level"
 		}, {
 			"name": "Circle of the Land: Arctic",
 			"url": "http://www.dnd5eapi.co/api/features/105"
 		}],
 		"spell": {
-			"url": "http://www.dnd5eapi.co/api/spells/257",
+			"ref": "spells/257",
 			"name": "Sleet Storm"
 		}
 	}, {
 		"prerequisites": [{
-			"url": "http://www.dnd5eapi.co/api/classes/druid/level/5",
+			"ref": "classes/druid/level/5",
 			"type": "level"
 		}, {
 			"name": "Circle of the Land: Arctic",
 			"url": "http://www.dnd5eapi.co/api/features/105"
 		}],
 		"spell": {
-			"url": "http://www.dnd5eapi.co/api/spells/258",
+			"ref": "spells/258",
 			"name": "Slow"
 		}
 	}, {
 		"prerequisites": [{
-			"url": "http://www.dnd5eapi.co/api/classes/druid/level/7",
+			"ref": "classes/druid/level/7",
 			"type": "level"
 		}, {
 			"name": "Circle of the Land: Arctic",
 			"url": "http://www.dnd5eapi.co/api/features/105"
 		}],
 		"spell": {
-			"url": "http://www.dnd5eapi.co/api/spells/123",
+			"ref": "spells/123",
 			"name": "Freedom of Movement"
 		}
 	}, {
 		"prerequisites": [{
-			"url": "http://www.dnd5eapi.co/api/classes/druid/level/7",
+			"ref": "classes/druid/level/7",
 			"type": "level"
 		}, {
 			"name": "Circle of the Land: Arctic",
 			"url": "http://www.dnd5eapi.co/api/features/105"
 		}],
 		"spell": {
-			"url": "http://www.dnd5eapi.co/api/spells/152",
+			"ref": "spells/152",
 			"name": "Holy Aura"
 		}
 	}, {
 		"prerequisites": [{
-			"url": "http://www.dnd5eapi.co/api/classes/druid/level/9",
+			"ref": "classes/druid/level/9",
 			"type": "level"
 		}, {
 			"name": "Circle of the Land: Arctic",
 			"url": "http://www.dnd5eapi.co/api/features/105"
 		}],
 		"spell": {
-			"url": "http://www.dnd5eapi.co/api/spells/45",
+			"ref": "spells/45",
 			"name": "Commune"
 		}
 	}, {
 		"prerequisites": [{
-			"url": "http://www.dnd5eapi.co/api/classes/druid/level/9",
+			"ref": "classes/druid/level/9",
 			"type": "level"
 		}, {
 			"name": "Circle of the Land: Arctic",
 			"url": "http://www.dnd5eapi.co/api/features/105"
 		}],
 		"spell": {
-			"url": "http://www.dnd5eapi.co/api/spells/47",
+			"ref": "spells/47",
 			"name": "Comprehend Languages"
 		}
 	}, {
 		"prerequisites": [{
-			"url": "http://www.dnd5eapi.co/api/classes/druid/level/3",
+			"ref": "classes/druid/level/3",
 			"type": "level"
 		}, {
 			"name": "Circle of the Land: Coast",
 			"url": "http://www.dnd5eapi.co/api/features/106"
 		}],
 		"spell": {
-			"url": "http://www.dnd5eapi.co/api/spells/196",
+			"ref": "spells/196",
 			"name": "Mirror Image"
 		}
 	}, {
 		"prerequisites": [{
-			"url": "http://www.dnd5eapi.co/api/classes/druid/level/3",
+			"ref": "classes/druid/level/3",
 			"type": "level"
 		}, {
 			"name": "Circle of the Land: Coast",
 			"url": "http://www.dnd5eapi.co/api/features/106"
 		}],
 		"spell": {
-			"url": "http://www.dnd5eapi.co/api/spells/198",
+			"ref": "spells/198",
 			"name": "Misty Step"
 		}
 	}, {
 		"prerequisites": [{
-			"url": "http://www.dnd5eapi.co/api/classes/druid/level/5",
+			"ref": "classes/druid/level/5",
 			"type": "level"
 		}, {
 			"name": "Circle of the Land: Coast",
 			"url": "http://www.dnd5eapi.co/api/features/106"
 		}],
 		"spell": {
-			"url": "http://www.dnd5eapi.co/api/spells/297",
+			"ref": "spells/297",
 			"name": "Water Breathing"
 		}
 	}, {
 		"prerequisites": [{
-			"url": "http://www.dnd5eapi.co/api/classes/druid/level/5",
+			"ref": "classes/druid/level/5",
 			"type": "level"
 		}, {
 			"name": "Circle of the Land: Coast",
 			"url": "http://www.dnd5eapi.co/api/features/106"
 		}],
 		"spell": {
-			"url": "http://www.dnd5eapi.co/api/spells/298",
+			"ref": "spells/298",
 			"name": "Water Walk"
 		}
 	}, {
 		"prerequisites": [{
-			"url": "http://www.dnd5eapi.co/api/classes/druid/level/7",
+			"ref": "classes/druid/level/7",
 			"type": "level"
 		}, {
 			"name": "Circle of the Land: Coast",
 			"url": "http://www.dnd5eapi.co/api/features/106"
 		}],
 		"spell": {
-			"url": "http://www.dnd5eapi.co/api/spells/60",
+			"ref": "spells/60",
 			"name": "Control Water"
 		}
 	}, {
 		"prerequisites": [{
-			"url": "http://www.dnd5eapi.co/api/classes/druid/level/7",
+			"ref": "classes/druid/level/7",
 			"type": "level"
 		}, {
 			"name": "Circle of the Land: Coast",
 			"url": "http://www.dnd5eapi.co/api/features/106"
 		}],
 		"spell": {
-			"url": "http://www.dnd5eapi.co/api/spells/123",
+			"ref": "spells/123",
 			"name": "Freedom of Movement"
 		}
 	}, {
 		"prerequisites": [{
-			"url": "http://www.dnd5eapi.co/api/classes/druid/level/9",
+			"ref": "classes/druid/level/9",
 			"type": "level"
 		}, {
 			"name": "Circle of the Land: Coast",
 			"url": "http://www.dnd5eapi.co/api/features/106"
 		}],
 		"spell": {
-			"url": "http://www.dnd5eapi.co/api/spells/52",
+			"ref": "spells/52",
 			"name": "Conjure Elemental"
 		}
 	}, {
 		"prerequisites": [{
-			"url": "http://www.dnd5eapi.co/api/classes/druid/level/9",
+			"ref": "classes/druid/level/9",
 			"type": "level"
 		}, {
 			"name": "Circle of the Land: Coast",
 			"url": "http://www.dnd5eapi.co/api/features/106"
 		}],
 		"spell": {
-			"url": "http://www.dnd5eapi.co/api/spells/241",
+			"ref": "spells/241",
 			"name": "Scrying"
 		}
 	}, {
 		"prerequisites": [{
-			"url": "http://www.dnd5eapi.co/api/classes/druid/level/3",
+			"ref": "classes/druid/level/3",
 			"type": "level"
 		}, {
 			"name": "Circle of the Land: Desert",
 			"url": "http://www.dnd5eapi.co/api/features/107"
 		}],
 		"spell": {
-			"url": "http://www.dnd5eapi.co/api/spells/32",
+			"ref": "spells/32",
 			"name": "Blur"
 		}
 	}, {
 		"prerequisites": [{
-			"url": "http://www.dnd5eapi.co/api/classes/druid/level/3",
+			"ref": "classes/druid/level/3",
 			"type": "level"
 		}, {
 			"name": "Circle of the Land: Desert",
 			"url": "http://www.dnd5eapi.co/api/features/107"
 		}],
 		"spell": {
-			"url": "http://www.dnd5eapi.co/api/spells/253",
+			"ref": "spells/253",
 			"name": "Silence"
 		}
 	}, {
 		"prerequisites": [{
-			"url": "http://www.dnd5eapi.co/api/classes/druid/level/5",
+			"ref": "classes/druid/level/5",
 			"type": "level"
 		}, {
 			"name": "Circle of the Land: Desert",
 			"url": "http://www.dnd5eapi.co/api/features/107"
 		}],
 		"spell": {
-			"url": "http://www.dnd5eapi.co/api/spells/62",
+			"ref": "spells/62",
 			"name": "Create Food and Water"
 		}
 	}, {
 		"prerequisites": [{
-			"url": "http://www.dnd5eapi.co/api/classes/druid/level/5",
+			"ref": "classes/druid/level/5",
 			"type": "level"
 		}, {
 			"name": "Circle of the Land: Desert",
 			"url": "http://www.dnd5eapi.co/api/features/107"
 		}],
 		"spell": {
-			"url": "http://www.dnd5eapi.co/api/spells/222",
+			"ref": "spells/222",
 			"name": "Protection From Energy"
 		}
 	}, {
 		"prerequisites": [{
-			"url": "http://www.dnd5eapi.co/api/classes/druid/level/7",
+			"ref": "classes/druid/level/7",
 			"type": "level"
 		}, {
 			"name": "Circle of the Land: Desert",
 			"url": "http://www.dnd5eapi.co/api/features/107"
 		}],
 		"spell": {
-			"url": "http://www.dnd5eapi.co/api/spells/29",
+			"ref": "spells/29",
 			"name": "Blight"
 		}
 	}, {
 		"prerequisites": [{
-			"url": "http://www.dnd5eapi.co/api/classes/druid/level/7",
+			"ref": "classes/druid/level/7",
 			"type": "level"
 		}, {
 			"name": "Circle of the Land: Desert",
 			"url": "http://www.dnd5eapi.co/api/features/107"
 		}],
 		"spell": {
-			"url": "http://www.dnd5eapi.co/api/spells/141",
+			"ref": "spells/141",
 			"name": "Hallucinatory Terrain"
 		}
 	}, {
 		"prerequisites": [{
-			"url": "http://www.dnd5eapi.co/api/classes/druid/level/9",
+			"ref": "classes/druid/level/9",
 			"type": "level"
 		}, {
 			"name": "Circle of the Land: Desert",
 			"url": "http://www.dnd5eapi.co/api/features/107"
 		}],
 		"spell": {
-			"url": "http://www.dnd5eapi.co/api/spells/160",
+			"ref": "spells/160",
 			"name": "Insect Plague"
 		}
 	}, {
 		"prerequisites": [{
-			"url": "http://www.dnd5eapi.co/api/classes/druid/level/9",
+			"ref": "classes/druid/level/9",
 			"type": "level"
 		}, {
 			"name": "Circle of the Land: Desert",
 			"url": "http://www.dnd5eapi.co/api/features/107"
 		}],
 		"spell": {
-			"url": "http://www.dnd5eapi.co/api/spells/294",
+			"ref": "spells/294",
 			"name": "Wall of Stone"
 		}
 	}, {
 		"prerequisites": [{
-			"url": "http://www.dnd5eapi.co/api/classes/druid/level/3",
+			"ref": "classes/druid/level/3",
 			"type": "level"
 		}, {
 			"name": "Circle of the Land: Forest",
 			"url": "http://www.dnd5eapi.co/api/features/108"
 		}],
 		"spell": {
-			"url": "http://www.dnd5eapi.co/api/spells/23",
+			"ref": "spells/23",
 			"name": "Barkskin"
 		}
 	}, {
 		"prerequisites": [{
-			"url": "http://www.dnd5eapi.co/api/classes/druid/level/3",
+			"ref": "classes/druid/level/3",
 			"type": "level"
 		}, {
 			"name": "Circle of the Land: Forest",
 			"url": "http://www.dnd5eapi.co/api/features/108"
 		}],
 		"spell": {
-			"url": "http://www.dnd5eapi.co/api/spells/262",
+			"ref": "spells/262",
 			"name": "Spider Climb"
 		}
 	}, {
 		"prerequisites": [{
-			"url": "http://www.dnd5eapi.co/api/classes/druid/level/5",
+			"ref": "classes/druid/level/5",
 			"type": "level"
 		}, {
 			"name": "Circle of the Land: Forest",
 			"url": "http://www.dnd5eapi.co/api/features/108"
 		}],
 		"spell": {
-			"url": "http://www.dnd5eapi.co/api/spells/34",
+			"ref": "spells/34",
 			"name": "Call Lightning"
 		}
 	}, {
 		"prerequisites": [{
-			"url": "http://www.dnd5eapi.co/api/classes/druid/level/5",
+			"ref": "classes/druid/level/5",
 			"type": "level"
 		}, {
 			"name": "Circle of the Land: Forest",
 			"url": "http://www.dnd5eapi.co/api/features/108"
 		}],
 		"spell": {
-			"url": "http://www.dnd5eapi.co/api/spells/210",
+			"ref": "spells/210",
 			"name": "Plant Growth"
 		}
 	}, {
 		"prerequisites": [{
-			"url": "http://www.dnd5eapi.co/api/classes/druid/level/7",
+			"ref": "classes/druid/level/7",
 			"type": "level"
 		}, {
 			"name": "Circle of the Land: Forest",
 			"url": "http://www.dnd5eapi.co/api/features/108"
 		}],
 		"spell": {
-			"url": "http://www.dnd5eapi.co/api/spells/83",
+			"ref": "spells/83",
 			"name": "Divination"
 		}
 	}, {
 		"prerequisites": [{
-			"url": "http://www.dnd5eapi.co/api/classes/druid/level/7",
+			"ref": "classes/druid/level/7",
 			"type": "level"
 		}, {
 			"name": "Circle of the Land: Forest",
 			"url": "http://www.dnd5eapi.co/api/features/108"
 		}],
 		"spell": {
-			"url": "http://www.dnd5eapi.co/api/spells/123",
+			"ref": "spells/123",
 			"name": "Freedom of Movement"
 		}
 	}, {
 		"prerequisites": [{
-			"url": "http://www.dnd5eapi.co/api/classes/druid/level/9",
+			"ref": "classes/druid/level/9",
 			"type": "level"
 		}, {
 			"name": "Circle of the Land: Forest",
 			"url": "http://www.dnd5eapi.co/api/features/108"
 		}],
 		"spell": {
-			"url": "http://www.dnd5eapi.co/api/spells/46",
+			"ref": "spells/46",
 			"name": "Commune With Nature"
 		}
 	}, {
 		"prerequisites": [{
-			"url": "http://www.dnd5eapi.co/api/classes/druid/level/9",
+			"ref": "classes/druid/level/9",
 			"type": "level"
 		}, {
 			"name": "Circle of the Land: Forest",
 			"url": "http://www.dnd5eapi.co/api/features/108"
 		}],
 		"spell": {
-			"url": "http://www.dnd5eapi.co/api/spells/284",
+			"ref": "spells/284",
 			"name": "Tree Stride"
 		}
 	}, {
 		"prerequisites": [{
-			"url": "http://www.dnd5eapi.co/api/classes/druid/level/3",
+			"ref": "classes/druid/level/3",
 			"type": "level"
 		}, {
 			"name": "Circle of the Land: Grassland",
 			"url": "http://www.dnd5eapi.co/api/features/109"
 		}],
 		"spell": {
-			"url": "http://www.dnd5eapi.co/api/spells/160",
+			"ref": "spells/160",
 			"name": "Invisibility"
 		}
 	}, {
 		"prerequisites": [{
-			"url": "http://www.dnd5eapi.co/api/classes/druid/level/3",
+			"ref": "classes/druid/level/3",
 			"type": "level"
 		}, {
 			"name": "Circle of the Land: Grassland",
 			"url": "http://www.dnd5eapi.co/api/features/109"
 		}],
 		"spell": {
-			"url": "http://www.dnd5eapi.co/api/spells/203",
+			"ref": "spells/203",
 			"name": "Pass Without Trace"
 		}
 	}, {
 		"prerequisites": [{
-			"url": "http://www.dnd5eapi.co/api/classes/druid/level/5",
+			"ref": "classes/druid/level/5",
 			"type": "level"
 		}, {
 			"name": "Circle of the Land: Grassland",
 			"url": "http://www.dnd5eapi.co/api/features/109"
 		}],
 		"spell": {
-			"url": "http://www.dnd5eapi.co/api/spells/70",
+			"ref": "spells/70",
 			"name": "Daylight"
 		}
 	}, {
 		"prerequisites": [{
-			"url": "http://www.dnd5eapi.co/api/classes/druid/level/5",
+			"ref": "classes/druid/level/5",
 			"type": "level"
 		}, {
 			"name": "Circle of the Land: Grassland",
 			"url": "http://www.dnd5eapi.co/api/features/109"
 		}],
 		"spell": {
-			"url": "http://www.dnd5eapi.co/api/spells/143",
+			"ref": "spells/143",
 			"name": "Haste"
 		}
 	}, {
 		"prerequisites": [{
-			"url": "http://www.dnd5eapi.co/api/classes/druid/level/7",
+			"ref": "classes/druid/level/7",
 			"type": "level"
 		}, {
 			"name": "Circle of the Land: Grassland",
 			"url": "http://www.dnd5eapi.co/api/features/109"
 		}],
 		"spell": {
-			"url": "http://www.dnd5eapi.co/api/spells/83",
+			"ref": "spells/83",
 			"name": "Divination"
 		}
 	}, {
 		"prerequisites": [{
-			"url": "http://www.dnd5eapi.co/api/classes/druid/level/7",
+			"ref": "classes/druid/level/7",
 			"type": "level"
 		}, {
 			"name": "Circle of the Land: Grassland",
 			"url": "http://www.dnd5eapi.co/api/features/109"
 		}],
 		"spell": {
-			"url": "http://www.dnd5eapi.co/api/spells/123",
+			"ref": "spells/123",
 			"name": "Freedom of Movement"
 		}
 	}, {
 		"prerequisites": [{
-			"url": "http://www.dnd5eapi.co/api/classes/druid/level/9",
+			"ref": "classes/druid/level/9",
 			"type": "level"
 		}, {
 			"name": "Circle of the Land: Grassland",
 			"url": "http://www.dnd5eapi.co/api/features/109"
 		}],
 		"spell": {
-			"url": "http://www.dnd5eapi.co/api/spells/89",
+			"ref": "spells/89",
 			"name": "Dream"
 		}
 	}, {
 		"prerequisites": [{
-			"url": "http://www.dnd5eapi.co/api/classes/druid/level/9",
+			"ref": "classes/druid/level/9",
 			"type": "level"
 		}, {
 			"name": "Circle of the Land: Grassland",
 			"url": "http://www.dnd5eapi.co/api/features/109"
 		}],
 		"spell": {
-			"url": "http://www.dnd5eapi.co/api/spells/160",
+			"ref": "spells/160",
 			"name": "Insect Plague"
 		}
 	}, {
 		"prerequisites": [{
-			"url": "http://www.dnd5eapi.co/api/classes/druid/level/3",
+			"ref": "classes/druid/level/3",
 			"type": "level"
 		}, {
 			"name": "Circle of the Land: Mountain",
 			"url": "http://www.dnd5eapi.co/api/features/110"
 		}],
 		"spell": {
-			"url": "http://www.dnd5eapi.co/api/spells/262",
+			"ref": "spells/262",
 			"name": "Spider Climb"
 		}
 	}, {
 		"prerequisites": [{
-			"url": "http://www.dnd5eapi.co/api/classes/druid/level/3",
+			"ref": "classes/druid/level/3",
 			"type": "level"
 		}, {
 			"name": "Circle of the Land: Mountain",
 			"url": "http://www.dnd5eapi.co/api/features/110"
 		}],
 		"spell": {
-			"url": "http://www.dnd5eapi.co/api/spells/263",
+			"ref": "spells/263",
 			"name": "Spike Growth"
 		}
 	}, {
 		"prerequisites": [{
-			"url": "http://www.dnd5eapi.co/api/classes/druid/level/5",
+			"ref": "classes/druid/level/5",
 			"type": "level"
 		}, {
 			"name": "Circle of the Land: Mountain",
 			"url": "http://www.dnd5eapi.co/api/features/110"
 		}],
 		"spell": {
-			"url": "http://www.dnd5eapi.co/api/spells/170",
+			"ref": "spells/170",
 			"name": "Lightning Bolt"
 		}
 	}, {
 		"prerequisites": [{
-			"url": "http://www.dnd5eapi.co/api/classes/druid/level/5",
+			"ref": "classes/druid/level/5",
 			"type": "level"
 		}, {
 			"name": "Circle of the Land: Mountain",
 			"url": "http://www.dnd5eapi.co/api/features/110"
 		}],
 		"spell": {
-			"url": "http://www.dnd5eapi.co/api/spells/189",
+			"ref": "spells/189",
 			"name": "Meld Into Stone"
 		}
 	}, {
 		"prerequisites": [{
-			"url": "http://www.dnd5eapi.co/api/classes/druid/level/7",
+			"ref": "classes/druid/level/7",
 			"type": "level"
 		}, {
 			"name": "Circle of the Land: Mountain",
 			"url": "http://www.dnd5eapi.co/api/features/110"
 		}],
 		"spell": {
-			"url": "http://www.dnd5eapi.co/api/spells/267",
+			"ref": "spells/267",
 			"name": "Stone Shape"
 		}
 	}, {
 		"prerequisites": [{
-			"url": "http://www.dnd5eapi.co/api/classes/druid/level/7",
+			"ref": "classes/druid/level/7",
 			"type": "level"
 		}, {
 			"name": "Circle of the Land: Mountain",
 			"url": "http://www.dnd5eapi.co/api/features/110"
 		}],
 		"spell": {
-			"url": "http://www.dnd5eapi.co/api/spells/268",
+			"ref": "spells/268",
 			"name": "Stoneskin"
 		}
 	}, {
 		"prerequisites": [{
-			"url": "http://www.dnd5eapi.co/api/classes/druid/level/9",
+			"ref": "classes/druid/level/9",
 			"type": "level"
 		}, {
 			"name": "Circle of the Land: Mountain",
 			"url": "http://www.dnd5eapi.co/api/features/110"
 		}],
 		"spell": {
-			"url": "http://www.dnd5eapi.co/api/spells/204",
+			"ref": "spells/204",
 			"name": "Passwall"
 		}
 	}, {
 		"prerequisites": [{
-			"url": "http://www.dnd5eapi.co/api/classes/druid/level/9",
+			"ref": "classes/druid/level/9",
 			"type": "level"
 		}, {
 			"name": "Circle of the Land: Mountain",
 			"url": "http://www.dnd5eapi.co/api/features/110"
 		}],
 		"spell": {
-			"url": "http://www.dnd5eapi.co/api/spells/294",
+			"ref": "spells/294",
 			"name": "Wall of Stone"
 		}
 	}, {
 		"prerequisites": [{
-			"url": "http://www.dnd5eapi.co/api/classes/druid/level/3",
+			"ref": "classes/druid/level/3",
 			"type": "level"
 		}, {
 			"name": "Circle of the Land: Swamp",
 			"url": "http://www.dnd5eapi.co/api/features/112"
 		}],
 		"spell": {
-			"url": "http://www.dnd5eapi.co/api/spells/1",
+			"ref": "spells/1",
 			"name": "Acid Arrow"
 		}
 	}, {
 		"prerequisites": [{
-			"url": "http://www.dnd5eapi.co/api/classes/druid/level/3",
+			"ref": "classes/druid/level/3",
 			"type": "level"
 		}, {
 			"name": "Circle of the Land: Swamp",
 			"url": "http://www.dnd5eapi.co/api/features/112"
 		}],
 		"spell": {
-			"url": "http://www.dnd5eapi.co/api/spells/68",
+			"ref": "spells/68",
 			"name": "Darkness"
 		}
 	}, {
 		"prerequisites": [{
-			"url": "http://www.dnd5eapi.co/api/classes/druid/level/5",
+			"ref": "classes/druid/level/5",
 			"type": "level"
 		}, {
 			"name": "Circle of the Land: Swamp",
 			"url": "http://www.dnd5eapi.co/api/features/112"
 		}],
 		"spell": {
-			"url": "http://www.dnd5eapi.co/api/spells/298",
+			"ref": "spells/298",
 			"name": "Water Walk"
 		}
 	}, {
 		"prerequisites": [{
-			"url": "http://www.dnd5eapi.co/api/classes/druid/level/5",
+			"ref": "classes/druid/level/5",
 			"type": "level"
 		}, {
 			"name": "Circle of the Land: Swamp",
 			"url": "http://www.dnd5eapi.co/api/features/112"
 		}],
 		"spell": {
-			"url": "http://www.dnd5eapi.co/api/spells/266",
+			"ref": "spells/266",
 			"name": "Stinking Cloud"
 		}
 	}, {
 		"prerequisites": [{
-			"url": "http://www.dnd5eapi.co/api/classes/druid/level/7",
+			"ref": "classes/druid/level/7",
 			"type": "level"
 		}, {
 			"name": "Circle of the Land: Swamp",
 			"url": "http://www.dnd5eapi.co/api/features/112"
 		}],
 		"spell": {
-			"url": "http://www.dnd5eapi.co/api/spells/123",
+			"ref": "spells/123",
 			"name": "Freedom of Movement"
 		}
 	}, {
 		"prerequisites": [{
-			"url": "http://www.dnd5eapi.co/api/classes/druid/level/7",
+			"ref": "classes/druid/level/7",
 			"type": "level"
 		}, {
 			"name": "Circle of the Land: Swamp",
 			"url": "http://www.dnd5eapi.co/api/features/112"
 		}],
 		"spell": {
-			"url": "http://www.dnd5eapi.co/api/spells/172",
+			"ref": "spells/172",
 			"name": "Locate Creature"
 		}
 	}, {
 		"prerequisites": [{
-			"url": "http://www.dnd5eapi.co/api/classes/druid/level/9",
+			"ref": "classes/druid/level/9",
 			"type": "level"
 		}, {
 			"name": "Circle of the Land: Swamp",
 			"url": "http://www.dnd5eapi.co/api/features/112"
 		}],
 		"spell": {
-			"url": "http://www.dnd5eapi.co/api/spells/160",
+			"ref": "spells/160",
 			"name": "Insect Plague"
 		}
 	}, {
 		"prerequisites": [{
-			"url": "http://www.dnd5eapi.co/api/classes/druid/level/9",
+			"ref": "classes/druid/level/9",
 			"type": "level"
 		}, {
 			"name": "Circle of the Land: Swamp",
 			"url": "http://www.dnd5eapi.co/api/features/112"
 		}],
 		"spell": {
-			"url": "http://www.dnd5eapi.co/api/spells/241",
+			"ref": "spells/241",
 			"name": "Scrying"
 		}
 	}],
 	"url": "http://www.dnd5eapi.co/api/subclasses/4"
 }, {
-	"index": 5,
+	"id": "5",
 	"class": {
-		"url": "http://www.dnd5eapi.co/api/classes/5",
+		"ref": "classes/5",
 		"name": "Fighter"
 	},
 	"name": "Champion",
@@ -826,9 +826,9 @@
 	],
 	"url": "http://www.dnd5eapi.co/api/subclasses/5"
 }, {
-	"index": 6,
+	"id": "6",
 	"class": {
-		"url": "http://www.dnd5eapi.co/api/classes/6",
+		"ref": "classes/6",
 		"name": "Monk"
 	},
 	"name": "Open Hand",
@@ -839,9 +839,9 @@
 	],
 	"url": "http://www.dnd5eapi.co/api/subclasses/6"
 }, {
-	"index": 7,
+	"id": "7",
 	"class": {
-		"url": "http://www.dnd5eapi.co/api/classes/7",
+		"ref": "classes/7",
 		"name": "Paladin"
 	},
 	"name": "Devotion",
@@ -852,91 +852,91 @@
 	],
 	"spells": [{
 		"prerequisites": [{
-			"url": "http://www.dnd5eapi.co/api/classes/paladin/level/3",
+			"ref": "classes/paladin/level/3",
 			"type": "level"
 		}],
 		"spell": {
-			"url": "http://www.dnd5eapi.co/api/spells/223",
+			"ref": "spells/223",
 			"name": "Protection from Evil and Good"
 		}
 	}, {
 		"prerequisites": [{
-			"url": "http://www.dnd5eapi.co/api/classes/paladin/level/3",
+			"ref": "classes/paladin/level/3",
 			"type": "level"
 		}],
 		"spell": {
-			"url": "http://www.dnd5eapi.co/api/spells/239",
+			"ref": "spells/239",
 			"name": "Sanctuary"
 		}
 	}, {
 		"prerequisites": [{
-			"url": "http://www.dnd5eapi.co/api/classes/paladin/level/5",
+			"ref": "classes/paladin/level/5",
 			"type": "level"
 		}],
 		"spell": {
-			"url": "http://www.dnd5eapi.co/api/spells/167",
+			"ref": "spells/167",
 			"name": "Lesser Restoration"
 		}
 	}, {
 		"prerequisites": [{
-			"url": "http://www.dnd5eapi.co/api/classes/paladin/level/5",
+			"ref": "classes/paladin/level/5",
 			"type": "level"
 		}],
 		"spell": {
-			"url": "http://www.dnd5eapi.co/api/spells/305",
+			"ref": "spells/305",
 			"name": "Zone of Truth"
 		}
 	}, {
 		"prerequisites": [{
-			"url": "http://www.dnd5eapi.co/api/classes/paladin/level/9",
+			"ref": "classes/paladin/level/9",
 			"type": "level"
 		}],
 		"spell": {
-			"url": "http://www.dnd5eapi.co/api/spells/24",
+			"ref": "spells/24",
 			"name": "Beacon of Hope"
 		}
 	}, {
 		"prerequisites": [{
-			"url": "http://www.dnd5eapi.co/api/classes/paladin/level/9",
+			"ref": "classes/paladin/level/9",
 			"type": "level"
 		}],
 		"spell": {
-			"url": "http://www.dnd5eapi.co/api/spells/82",
+			"ref": "spells/82",
 			"name": "Dispel Magic"
 		}
 	}, {
 		"prerequisites": [{
-			"url": "http://www.dnd5eapi.co/api/classes/paladin/level/13",
+			"ref": "classes/paladin/level/13",
 			"type": "level"
 		}],
 		"spell": {
-			"url": "http://www.dnd5eapi.co/api/spells/123",
+			"ref": "spells/123",
 			"name": "Freedom of Movement"
 		}
 	}, {
 		"prerequisites": [{
-			"url": "http://www.dnd5eapi.co/api/classes/paladin/level/17",
+			"ref": "classes/paladin/level/17",
 			"type": "level"
 		}],
 		"spell": {
-			"url": "http://www.dnd5eapi.co/api/spells/45",
+			"ref": "spells/45",
 			"name": "Commune"
 		}
 	}, {
 		"prerequisites": [{
-			"url": "http://www.dnd5eapi.co/api/classes/paladin/level/17",
+			"ref": "classes/paladin/level/17",
 			"type": "level"
 		}],
 		"spell": {
-			"url": "http://www.dnd5eapi.co/api/spells/114",
+			"ref": "spells/114",
 			"name": "Flame Strike"
 		}
 	}],
 	"url": "http://www.dnd5eapi.co/api/subclasses/7"
 }, {
-	"index": 8,
+	"id": "8",
 	"class": {
-		"url": "http://www.dnd5eapi.co/api/classes/8",
+		"ref": "classes/8",
 		"name": "Ranger"
 	},
 	"name": "Hunter",
@@ -947,9 +947,9 @@
 	],
 	"url": "http://www.dnd5eapi.co/api/subclasses/8"
 }, {
-	"index": 9,
+	"id": "9",
 	"class": {
-		"url": "http://www.dnd5eapi.co/api/classes/9",
+		"ref": "classes/9",
 		"name": "Rogue"
 	},
 	"name": "Thief",
@@ -960,9 +960,9 @@
 	],
 	"url": "http://www.dnd5eapi.co/api/subclasses/9"
 }, {
-	"index": 10,
+	"id": "10",
 	"class": {
-		"url": "http://www.dnd5eapi.co/api/classes/10",
+		"ref": "classes/10",
 		"name": "Sorcerer"
 	},
 	"name": "Draconic",
@@ -973,9 +973,9 @@
 	],
 	"url": "http://www.dnd5eapi.co/api/subclasses/10"
 }, {
-	"index": 11,
+	"id": "11",
 	"class": {
-		"url": "http://www.dnd5eapi.co/api/classes/11",
+		"ref": "classes/11",
 		"name": "Warlock"
 	},
 	"name": "Fiend",
@@ -986,100 +986,100 @@
 	],
 	"spells": [{
 		"prerequisites": [{
-			"url": "http://www.dnd5eapi.co/api/classes/warlock/level/1",
+			"ref": "classes/warlock/level/1",
 			"type": "level"
 		}],
 		"spell": {
-			"url": "http://www.dnd5eapi.co/api/spells/33",
+			"ref": "spells/33",
 			"name": "Burning Hands"
 		}
 	}, {
 		"prerequisites": [{
-			"url": "http://www.dnd5eapi.co/api/classes/warlock/level/1",
+			"ref": "classes/warlock/level/1",
 			"type": "level"
 		}],
 		"spell": {
-			"url": "http://www.dnd5eapi.co/api/spells/44",
+			"ref": "spells/44",
 			"name": "Command"
 		}
 	}, {
 		"prerequisites": [{
-			"url": "http://www.dnd5eapi.co/api/classes/warlock/level/1",
+			"ref": "classes/warlock/level/1",
 			"type": "level"
 		}],
 		"spell": {
-			"url": "http://www.dnd5eapi.co/api/spells/30",
+			"ref": "spells/30",
 			"name": "Blindness/Deafness"
 		}
 	}, {
 		"prerequisites": [{
-			"url": "http://www.dnd5eapi.co/api/classes/warlock/level/1",
+			"ref": "classes/warlock/level/1",
 			"type": "level"
 		}],
 		"spell": {
-			"url": "http://www.dnd5eapi.co/api/spells/240",
+			"ref": "spells/240",
 			"name": "Scorching Ray"
 		}
 	}, {
 		"prerequisites": [{
-			"url": "http://www.dnd5eapi.co/api/classes/warlock/level/1",
+			"ref": "classes/warlock/level/1",
 			"type": "level"
 		}],
 		"spell": {
-			"url": "http://www.dnd5eapi.co/api/spells/110",
+			"ref": "spells/110",
 			"name": "Fireball"
 		}
 	}, {
 		"prerequisites": [{
-			"url": "http://www.dnd5eapi.co/api/classes/warlock/level/1",
+			"ref": "classes/warlock/level/1",
 			"type": "level"
 		}],
 		"spell": {
-			"url": "http://www.dnd5eapi.co/api/spells/266",
+			"ref": "spells/266",
 			"name": "Stinking Cloud"
 		}
 	}, {
 		"prerequisites": [{
-			"url": "http://www.dnd5eapi.co/api/classes/warlock/level/1",
+			"ref": "classes/warlock/level/1",
 			"type": "level"
 		}],
 		"spell": {
-			"url": "http://www.dnd5eapi.co/api/spells/111",
+			"ref": "spells/111",
 			"name": "Fire Shield"
 		}
 	}, {
 		"prerequisites": [{
-			"url": "http://www.dnd5eapi.co/api/classes/warlock/level/1",
+			"ref": "classes/warlock/level/1",
 			"type": "level"
 		}],
 		"spell": {
-			"url": "http://www.dnd5eapi.co/api/spells/291",
+			"ref": "spells/291",
 			"name": "Wall of Fire"
 		}
 	}, {
 		"prerequisites": [{
-			"url": "http://www.dnd5eapi.co/api/classes/warlock/level/1",
+			"ref": "classes/warlock/level/1",
 			"type": "level"
 		}],
 		"spell": {
-			"url": "http://www.dnd5eapi.co/api/spells/114",
+			"ref": "spells/114",
 			"name": "Flame Strike"
 		}
 	}, {
 		"prerequisites": [{
-			"url": "http://www.dnd5eapi.co/api/classes/warlock/level/1",
+			"ref": "classes/warlock/level/1",
 			"type": "level"
 		}],
 		"spell": {
-			"url": "http://www.dnd5eapi.co/api/spells/140",
+			"ref": "spells/140",
 			"name": "Hallow"
 		}
 	}],
 	"url": "http://www.dnd5eapi.co/api/subclasses/11"
 }, {
-	"index": 12,
+	"id": "12",
 	"class": {
-		"url": "http://www.dnd5eapi.co/api/classes/12",
+		"ref": "classes/12",
 		"name": "Wizard"
 	},
 	"name": "Evocation",

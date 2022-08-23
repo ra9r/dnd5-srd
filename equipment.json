@@ -1,6 +1,6 @@
 [
   {
-    "index": 1,
+    "id": "1",
     "name": "Club",
     "equipment_category": "Weapon",
     "weapon_category": "Simple",
@@ -14,7 +14,7 @@
       "damage_dice": "1d4",
       "damage_bonus": 0,
       "damage_type": {
-        "url": "http://www.dnd5eapi.co/api/damage-types/2",
+        "ref": "damage-types/2",
         "name": "Bludgeoning"
       }
     },
@@ -25,18 +25,18 @@
     "weight": 2,
     "properties": [
       {
-        "url": "http://www.dnd5eapi.co/api/weapon-properties/4",
+        "ref": "weapon-properties/4",
         "name": "Light"
       },
       {
-        "url": "http://www.dnd5eapi.co/api/weapon-properties/11",
+        "ref": "weapon-properties/11",
         "name": "Monk"
       }
     ],
     "url": "http://www.dnd5eapi.co/api/equipment/1"
   },
   {
-    "index": 2,
+    "id": "2",
     "name": "Dagger",
     "equipment_category": "Weapon",
     "weapon_category": "Simple",
@@ -50,7 +50,7 @@
       "damage_dice": "1d4",
       "damage_bonus": 0,
       "damage_type": {
-        "url": "http://www.dnd5eapi.co/api/damage-types/8",
+        "ref": "damage-types/8",
         "name": "Piercing"
       }
     },
@@ -61,19 +61,19 @@
     "weight": 1,
     "properties": [
       {
-        "url": "http://www.dnd5eapi.co/api/weapon-properties/2",
+        "ref": "weapon-properties/2",
         "name": "Finesse"
       },
       {
-        "url": "http://www.dnd5eapi.co/api/weapon-properties/4",
+        "ref": "weapon-properties/4",
         "name": "Light"
       },
       {
-        "url": "http://www.dnd5eapi.co/api/weapon-properties/8",
+        "ref": "weapon-properties/8",
         "name": "Thrown"
       },
       {
-        "url": "http://www.dnd5eapi.co/api/weapon-properties/11",
+        "ref": "weapon-properties/11",
         "name": "Monk"
       }
     ],
@@ -84,7 +84,7 @@
     "url": "http://www.dnd5eapi.co/api/equipment/2"
   },
   {
-    "index": 3,
+    "id": "3",
     "name": "Greatclub",
     "equipment_category": "Weapon",
     "weapon_category": "Simple",
@@ -98,7 +98,7 @@
       "damage_dice": "1d8",
       "damage_bonus": 0,
       "damage_type": {
-        "url": "http://www.dnd5eapi.co/api/damage-types/2",
+        "ref": "damage-types/2",
         "name": "Bludgeoning"
       }
     },
@@ -109,14 +109,14 @@
     "weight": 10,
     "properties": [
       {
-        "url": "http://www.dnd5eapi.co/api/weapon-properties/9",
+        "ref": "weapon-properties/9",
         "name": "Two-Handed"
       }
     ],
     "url": "http://www.dnd5eapi.co/api/equipment/3"
   },
   {
-    "index": 4,
+    "id": "4",
     "name": "Handaxe",
     "equipment_category": "Weapon",
     "weapon_category": "Simple",
@@ -130,7 +130,7 @@
       "damage_dice": "1d6",
       "damage_bonus": 0,
       "damage_type": {
-        "url": "http://www.dnd5eapi.co/api/damage-types/12",
+        "ref": "damage-types/12",
         "name": "Slashing"
       }
     },
@@ -141,15 +141,15 @@
     "weight": 2,
     "properties": [
       {
-        "url": "http://www.dnd5eapi.co/api/weapon-properties/4",
+        "ref": "weapon-properties/4",
         "name": "Light"
       },
       {
-        "url": "http://www.dnd5eapi.co/api/weapon-properties/8",
+        "ref": "weapon-properties/8",
         "name": "Thrown"
       },
       {
-        "url": "http://www.dnd5eapi.co/api/weapon-properties/11",
+        "ref": "weapon-properties/11",
         "name": "Monk"
       }
     ],
@@ -160,7 +160,7 @@
     "url": "http://www.dnd5eapi.co/api/equipment/4"
   },
   {
-    "index": 5,
+    "id": "5",
     "name": "Javelin",
     "equipment_category": "Weapon",
     "weapon_category": "Simple",
@@ -174,7 +174,7 @@
       "damage_dice": "1d6",
       "damage_bonus": 0,
       "damage_type": {
-        "url": "http://www.dnd5eapi.co/api/damage-types/8",
+        "ref": "damage-types/8",
         "name": "Piercing"
       }
     },
@@ -185,11 +185,11 @@
     "weight": 2,
     "properties": [
       {
-        "url": "http://www.dnd5eapi.co/api/weapon-properties/8",
+        "ref": "weapon-properties/8",
         "name": "Thrown"
       },
       {
-        "url": "http://www.dnd5eapi.co/api/weapon-properties/11",
+        "ref": "weapon-properties/11",
         "name": "Monk"
       }
     ],
@@ -200,7 +200,7 @@
     "url": "http://www.dnd5eapi.co/api/equipment/5"
   },
   {
-    "index": 6,
+    "id": "6",
     "name": "Light hammer",
     "equipment_category": "Weapon",
     "weapon_category": "Simple",
@@ -214,7 +214,7 @@
       "damage_dice": "1d4",
       "damage_bonus": 0,
       "damage_type": {
-        "url": "http://www.dnd5eapi.co/api/damage-types/2",
+        "ref": "damage-types/2",
         "name": "Bludgeoning"
       }
     },
@@ -225,15 +225,15 @@
     "weight": 2,
     "properties": [
       {
-        "url": "http://www.dnd5eapi.co/api/weapon-properties/4",
+        "ref": "weapon-properties/4",
         "name": "Light"
       },
       {
-        "url": "http://www.dnd5eapi.co/api/weapon-properties/8",
+        "ref": "weapon-properties/8",
         "name": "Thrown"
       },
       {
-        "url": "http://www.dnd5eapi.co/api/weapon-properties/11",
+        "ref": "weapon-properties/11",
         "name": "Monk"
       }
     ],
@@ -244,7 +244,7 @@
     "url": "http://www.dnd5eapi.co/api/equipment/6"
   },
   {
-    "index": 7,
+    "id": "7",
     "name": "Mace",
     "equipment_category": "Weapon",
     "weapon_category": "Simple",
@@ -258,7 +258,7 @@
       "damage_dice": "1d6",
       "damage_bonus": 0,
       "damage_type": {
-        "url": "http://www.dnd5eapi.co/api/damage-types/2",
+        "ref": "damage-types/2",
         "name": "Bludgeoning"
       }
     },
@@ -269,14 +269,14 @@
     "weight": 4,
     "properties": [
       {
-        "url": "http://www.dnd5eapi.co/api/weapon-properties/11",
+        "ref": "weapon-properties/11",
         "name": "Monk"
       }
     ],
     "url": "http://www.dnd5eapi.co/api/equipment/7"
   },
   {
-    "index": 8,
+    "id": "8",
     "name": "Quarterstaff",
     "equipment_category": "Weapon",
     "weapon_category": "Simple",
@@ -290,7 +290,7 @@
       "damage_dice": "1d6",
       "damage_bonus": 0,
       "damage_type": {
-        "url": "http://www.dnd5eapi.co/api/damage-types/2",
+        "ref": "damage-types/2",
         "name": "Bludgeoning"
       }
     },
@@ -301,11 +301,11 @@
     "weight": 4,
     "properties": [
       {
-        "url": "http://www.dnd5eapi.co/api/weapon-properties/10",
+        "ref": "weapon-properties/10",
         "name": "Versatile"
       },
       {
-        "url": "http://www.dnd5eapi.co/api/weapon-properties/11",
+        "ref": "weapon-properties/11",
         "name": "Monk"
       }
     ],
@@ -313,14 +313,14 @@
       "damage_dice": "1d8",
       "damage_bonus": 0,
       "damage_type": {
-        "url": "http://www.dnd5eapi.co/api/damage-types/2",
+        "ref": "damage-types/2",
         "name": "Bludgeoning"
       }
     },
     "url": "http://www.dnd5eapi.co/api/equipment/8"
   },
   {
-    "index": 9,
+    "id": "9",
     "name": "Sickle",
     "equipment_category": "Weapon",
     "weapon_category": "Simple",
@@ -334,7 +334,7 @@
       "damage_dice": "1d4",
       "damage_bonus": 0,
       "damage_type": {
-        "url": "http://www.dnd5eapi.co/api/damage-types/12",
+        "ref": "damage-types/12",
         "name": "Slashing"
       }
     },
@@ -345,18 +345,18 @@
     "weight": 2,
     "properties": [
       {
-        "url": "http://www.dnd5eapi.co/api/weapon-properties/4",
+        "ref": "weapon-properties/4",
         "name": "Light"
       },
       {
-        "url": "http://www.dnd5eapi.co/api/weapon-properties/11",
+        "ref": "weapon-properties/11",
         "name": "Monk"
       }
     ],
     "url": "http://www.dnd5eapi.co/api/equipment/9"
   },
   {
-    "index": 10,
+    "id": "10",
     "name": "Spear",
     "equipment_category": "Weapon",
     "weapon_category": "Simple",
@@ -370,7 +370,7 @@
       "damage_dice": "1d4",
       "damage_bonus": 0,
       "damage_type": {
-        "url": "http://www.dnd5eapi.co/api/damage-types/8",
+        "ref": "damage-types/8",
         "name": "Piercing"
       }
     },
@@ -381,15 +381,15 @@
     "weight": 3,
     "properties": [
       {
-        "url": "http://www.dnd5eapi.co/api/weapon-properties/8",
+        "ref": "weapon-properties/8",
         "name": "Thrown"
       },
       {
-        "url": "http://www.dnd5eapi.co/api/weapon-properties/10",
+        "ref": "weapon-properties/10",
         "name": "Versatile"
       },
       {
-        "url": "http://www.dnd5eapi.co/api/weapon-properties/11",
+        "ref": "weapon-properties/11",
         "name": "Monk"
       }
     ],
@@ -401,14 +401,14 @@
       "damage_dice": "1d8",
       "damage_bonus": 0,
       "damage_type": {
-        "url": "http://www.dnd5eapi.co/api/damage-types/8",
+        "ref": "damage-types/8",
         "name": "Piercing"
       }
     },
     "url": "http://www.dnd5eapi.co/api/equipment/10"
   },
   {
-    "index": 11,
+    "id": "11",
     "name": "Crossbow, light",
     "equipment_category": "Weapon",
     "weapon_category": "Simple",
@@ -422,7 +422,7 @@
       "damage_dice": "1d8",
       "damage_bonus": 0,
       "damage_type": {
-        "url": "http://www.dnd5eapi.co/api/damage-types/8",
+        "ref": "damage-types/8",
         "name": "Piercing"
       }
     },
@@ -433,22 +433,22 @@
     "weight": 5,
     "properties": [
       {
-        "url": "http://www.dnd5eapi.co/api/weapon-properties/1",
+        "ref": "weapon-properties/1",
         "name": "Ammunition"
       },
       {
-        "url": "http://www.dnd5eapi.co/api/weapon-properties/5",
+        "ref": "weapon-properties/5",
         "name": "Loading"
       },
       {
-        "url": "http://www.dnd5eapi.co/api/weapon-properties/9",
+        "ref": "weapon-properties/9",
         "name": "Two-Handed"
       }
     ],
     "url": "http://www.dnd5eapi.co/api/equipment/11"
   },
   {
-    "index": 12,
+    "id": "12",
     "name": "Dart",
     "equipment_category": "Weapon",
     "weapon_category": "Simple",
@@ -462,7 +462,7 @@
       "damage_dice": "1d4",
       "damage_bonus": 0,
       "damage_type": {
-        "url": "http://www.dnd5eapi.co/api/damage-types/8",
+        "ref": "damage-types/8",
         "name": "Piercing"
       }
     },
@@ -473,11 +473,11 @@
     "weight": 0.25,
     "properties": [
       {
-        "url": "http://www.dnd5eapi.co/api/weapon-properties/2",
+        "ref": "weapon-properties/2",
         "name": "Finesse"
       },
       {
-        "url": "http://www.dnd5eapi.co/api/weapon-properties/8",
+        "ref": "weapon-properties/8",
         "name": "Thrown"
       }
     ],
@@ -488,7 +488,7 @@
     "url": "http://www.dnd5eapi.co/api/equipment/12"
   },
   {
-    "index": 13,
+    "id": "13",
     "name": "Shortbow",
     "equipment_category": "Weapon",
     "weapon_category": "Simple",
@@ -502,7 +502,7 @@
       "damage_dice": "1d6",
       "damage_bonus": 0,
       "damage_type": {
-        "url": "http://www.dnd5eapi.co/api/damage-types/8",
+        "ref": "damage-types/8",
         "name": "Piercing"
       }
     },
@@ -513,18 +513,18 @@
     "weight": 2,
     "properties": [
       {
-        "url": "http://www.dnd5eapi.co/api/weapon-properties/1",
+        "ref": "weapon-properties/1",
         "name": "Ammunition"
       },
       {
-        "url": "http://www.dnd5eapi.co/api/weapon-properties/9",
+        "ref": "weapon-properties/9",
         "name": "Two-Handed"
       }
     ],
     "url": "http://www.dnd5eapi.co/api/equipment/13"
   },
   {
-    "index": 14,
+    "id": "14",
     "name": "Sling",
     "equipment_category": "Weapon",
     "weapon_category": "Simple",
@@ -538,7 +538,7 @@
       "damage_dice": "1d4",
       "damage_bonus": 0,
       "damage_type": {
-        "url": "http://www.dnd5eapi.co/api/damage-types/2",
+        "ref": "damage-types/2",
         "name": "Bludgeoning"
       }
     },
@@ -549,14 +549,14 @@
     "weight": 0,
     "properties": [
       {
-        "url": "http://www.dnd5eapi.co/api/weapon-properties/1",
+        "ref": "weapon-properties/1",
         "name": "Ammunition"
       }
     ],
     "url": "http://www.dnd5eapi.co/api/equipment/14"
   },
   {
-    "index": 15,
+    "id": "15",
     "name": "Battleaxe",
     "equipment_category": "Weapon",
     "weapon_category": "Martial",
@@ -570,7 +570,7 @@
       "damage_dice": "1d8",
       "damage_bonus": 0,
       "damage_type": {
-        "url": "http://www.dnd5eapi.co/api/damage-types/12",
+        "ref": "damage-types/12",
         "name": "Slashing"
       }
     },
@@ -581,7 +581,7 @@
     "weight": 4,
     "properties": [
       {
-        "url": "http://www.dnd5eapi.co/api/weapon-properties/10",
+        "ref": "weapon-properties/10",
         "name": "Versatile"
       }
     ],
@@ -589,14 +589,14 @@
       "damage_dice": "1d10",
       "damage_bonus": 0,
       "damage_type": {
-        "url": "http://www.dnd5eapi.co/api/damage-types/12",
+        "ref": "damage-types/12",
         "name": "Slashing"
       }
     },
     "url": "http://www.dnd5eapi.co/api/equipment/15"
   },
   {
-    "index": 16,
+    "id": "16",
     "name": "Flail",
     "equipment_category": "Weapon",
     "weapon_category": "Martial",
@@ -610,7 +610,7 @@
       "damage_dice": "1d8",
       "damage_bonus": 0,
       "damage_type": {
-        "url": "http://www.dnd5eapi.co/api/damage-types/2",
+        "ref": "damage-types/2",
         "name": "Bludgeoning"
       }
     },
@@ -623,7 +623,7 @@
     "url": "http://www.dnd5eapi.co/api/equipment/16"
   },
   {
-    "index": 17,
+    "id": "17",
     "name": "Glaive",
     "equipment_category": "Weapon",
     "weapon_category": "Martial",
@@ -637,7 +637,7 @@
       "damage_dice": "1d10",
       "damage_bonus": 0,
       "damage_type": {
-        "url": "http://www.dnd5eapi.co/api/damage-types/12",
+        "ref": "damage-types/12",
         "name": "Slashing"
       }
     },
@@ -648,22 +648,22 @@
     "weight": 6,
     "properties": [
       {
-        "url": "http://www.dnd5eapi.co/api/weapon-properties/3",
+        "ref": "weapon-properties/3",
         "name": "Heavy"
       },
       {
-        "url": "http://www.dnd5eapi.co/api/weapon-properties/6",
+        "ref": "weapon-properties/6",
         "name": "Reach"
       },
       {
-        "url": "http://www.dnd5eapi.co/api/weapon-properties/9",
+        "ref": "weapon-properties/9",
         "name": "Two-Handed"
       }
     ],
     "url": "http://www.dnd5eapi.co/api/equipment/17"
   },
   {
-    "index": 18,
+    "id": "18",
     "name": "Greataxe",
     "equipment_category": "Weapon",
     "weapon_category": "Martial",
@@ -677,7 +677,7 @@
       "damage_dice": "1d12",
       "damage_bonus": 0,
       "damage_type": {
-        "url": "http://www.dnd5eapi.co/api/damage-types/12",
+        "ref": "damage-types/12",
         "name": "Slashing"
       }
     },
@@ -688,18 +688,18 @@
     "weight": 7,
     "properties": [
       {
-        "url": "http://www.dnd5eapi.co/api/weapon-properties/3",
+        "ref": "weapon-properties/3",
         "name": "Heavy"
       },
       {
-        "url": "http://www.dnd5eapi.co/api/weapon-properties/9",
+        "ref": "weapon-properties/9",
         "name": "Two-Handed"
       }
     ],
     "url": "http://www.dnd5eapi.co/api/equipment/18"
   },
   {
-    "index": 19,
+    "id": "19",
     "name": "Greatsword",
     "equipment_category": "Weapon",
     "weapon_category": "Martial",
@@ -713,7 +713,7 @@
       "damage_dice": "2d6",
       "damage_bonus": 0,
       "damage_type": {
-        "url": "http://www.dnd5eapi.co/api/damage-types/12",
+        "ref": "damage-types/12",
         "name": "Slashing"
       }
     },
@@ -724,18 +724,18 @@
     "weight": 6,
     "properties": [
       {
-        "url": "http://www.dnd5eapi.co/api/weapon-properties/3",
+        "ref": "weapon-properties/3",
         "name": "Heavy"
       },
       {
-        "url": "http://www.dnd5eapi.co/api/weapon-properties/9",
+        "ref": "weapon-properties/9",
         "name": "Two-Handed"
       }
     ],
     "url": "http://www.dnd5eapi.co/api/equipment/19"
   },
   {
-    "index": 20,
+    "id": "20",
     "name": "Halberd",
     "equipment_category": "Weapon",
     "weapon_category": "Martial",
@@ -749,7 +749,7 @@
       "damage_dice": "1d10",
       "damage_bonus": 0,
       "damage_type": {
-        "url": "http://www.dnd5eapi.co/api/damage-types/12",
+        "ref": "damage-types/12",
         "name": "Slashing"
       }
     },
@@ -760,22 +760,22 @@
     "weight": 6,
     "properties": [
       {
-        "url": "http://www.dnd5eapi.co/api/weapon-properties/3",
+        "ref": "weapon-properties/3",
         "name": "Heavy"
       },
       {
-        "url": "http://www.dnd5eapi.co/api/weapon-properties/6",
+        "ref": "weapon-properties/6",
         "name": "Reach"
       },
       {
-        "url": "http://www.dnd5eapi.co/api/weapon-properties/9",
+        "ref": "weapon-properties/9",
         "name": "Two-Handed"
       }
     ],
     "url": "http://www.dnd5eapi.co/api/equipment/20"
   },
   {
-    "index": 21,
+    "id": "21",
     "name": "Lance",
     "equipment_category": "Weapon",
     "weapon_category": "Martial",
@@ -789,7 +789,7 @@
       "damage_dice": "1d12",
       "damage_bonus": 0,
       "damage_type": {
-        "url": "http://www.dnd5eapi.co/api/damage-types/8",
+        "ref": "damage-types/8",
         "name": "Piercing"
       }
     },
@@ -800,11 +800,11 @@
     "weight": 6,
     "properties": [
       {
-        "url": "http://www.dnd5eapi.co/api/weapon-properties/6",
+        "ref": "weapon-properties/6",
         "name": "Reach"
       },
       {
-        "url": "http://www.dnd5eapi.co/api/weapon-properties/7",
+        "ref": "weapon-properties/7",
         "name": "Special"
       }
     ],
@@ -814,7 +814,7 @@
     "url": "http://www.dnd5eapi.co/api/equipment/21"
   },
   {
-    "index": 22,
+    "id": "22",
     "name": "Longsword",
     "equipment_category": "Weapon",
     "weapon_category": "Martial",
@@ -828,7 +828,7 @@
       "damage_dice": "1d8",
       "damage_bonus": 0,
       "damage_type": {
-        "url": "http://www.dnd5eapi.co/api/damage-types/12",
+        "ref": "damage-types/12",
         "name": "Slashing"
       }
     },
@@ -839,7 +839,7 @@
     "weight": 3,
     "properties": [
       {
-        "url": "http://www.dnd5eapi.co/api/weapon-properties/10",
+        "ref": "weapon-properties/10",
         "name": "Versatile"
       }
     ],
@@ -847,14 +847,14 @@
       "damage_dice": "1d10",
       "damage_bonus": 0,
       "damage_type": {
-        "url": "http://www.dnd5eapi.co/api/damage-types/12",
+        "ref": "damage-types/12",
         "name": "Slashing"
       }
     },
     "url": "http://www.dnd5eapi.co/api/equipment/22"
   },
   {
-    "index": 23,
+    "id": "23",
     "name": "Maul",
     "equipment_category": "Weapon",
     "weapon_category": "Martial",
@@ -868,7 +868,7 @@
       "damage_dice": "2d6",
       "damage_bonus": 0,
       "damage_type": {
-        "url": "http://www.dnd5eapi.co/api/damage-types/2",
+        "ref": "damage-types/2",
         "name": "Bludgeoning"
       }
     },
@@ -879,18 +879,18 @@
     "weight": 10,
     "properties": [
       {
-        "url": "http://www.dnd5eapi.co/api/weapon-properties/3",
+        "ref": "weapon-properties/3",
         "name": "Heavy"
       },
       {
-        "url": "http://www.dnd5eapi.co/api/weapon-properties/9",
+        "ref": "weapon-properties/9",
         "name": "Two-Handed"
       }
     ],
     "url": "http://www.dnd5eapi.co/api/equipment/23"
   },
   {
-    "index": 24,
+    "id": "24",
     "name": "Morningstar",
     "equipment_category": "Weapon",
     "weapon_category": "Martial",
@@ -904,7 +904,7 @@
       "damage_dice": "1d8",
       "damage_bonus": 0,
       "damage_type": {
-        "url": "http://www.dnd5eapi.co/api/damage-types/8",
+        "ref": "damage-types/8",
         "name": "Piercing"
       }
     },
@@ -917,7 +917,7 @@
     "url": "http://www.dnd5eapi.co/api/equipment/24"
   },
   {
-    "index": 25,
+    "id": "25",
     "name": "Pike",
     "equipment_category": "Weapon",
     "weapon_category": "Martial",
@@ -931,7 +931,7 @@
       "damage_dice": "1d10",
       "damage_bonus": 0,
       "damage_type": {
-        "url": "http://www.dnd5eapi.co/api/damage-types/8",
+        "ref": "damage-types/8",
         "name": "Piercing"
       }
     },
@@ -942,22 +942,22 @@
     "weight": 18,
     "properties": [
       {
-        "url": "http://www.dnd5eapi.co/api/weapon-properties/3",
+        "ref": "weapon-properties/3",
         "name": "Heavy"
       },
       {
-        "url": "http://www.dnd5eapi.co/api/weapon-properties/6",
+        "ref": "weapon-properties/6",
         "name": "Reach"
       },
       {
-        "url": "http://www.dnd5eapi.co/api/weapon-properties/9",
+        "ref": "weapon-properties/9",
         "name": "Two-Handed"
       }
     ],
     "url": "http://www.dnd5eapi.co/api/equipment/25"
   },
   {
-    "index": 26,
+    "id": "26",
     "name": "Rapier",
     "equipment_category": "Weapon",
     "weapon_category": "Martial",
@@ -971,7 +971,7 @@
       "damage_dice": "1d8",
       "damage_bonus": 0,
       "damage_type": {
-        "url": "http://www.dnd5eapi.co/api/damage-types/8",
+        "ref": "damage-types/8",
         "name": "Piercing"
       }
     },
@@ -982,14 +982,14 @@
     "weight": 2,
     "properties": [
       {
-        "url": "http://www.dnd5eapi.co/api/weapon-properties/2",
+        "ref": "weapon-properties/2",
         "name": "Finesse"
       }
     ],
     "url": "http://www.dnd5eapi.co/api/equipment/26"
   },
   {
-    "index": 27,
+    "id": "27",
     "name": "Scimitar",
     "equipment_category": "Weapon",
     "weapon_category": "Martial",
@@ -1003,7 +1003,7 @@
       "damage_dice": "1d6",
       "damage_bonus": 0,
       "damage_type": {
-        "url": "http://www.dnd5eapi.co/api/damage-types/12",
+        "ref": "damage-types/12",
         "name": "Slashing"
       }
     },
@@ -1014,18 +1014,18 @@
     "weight": 3,
     "properties": [
       {
-        "url": "http://www.dnd5eapi.co/api/weapon-properties/2",
+        "ref": "weapon-properties/2",
         "name": "Finesse"
       },
       {
-        "url": "http://www.dnd5eapi.co/api/weapon-properties/4",
+        "ref": "weapon-properties/4",
         "name": "Light"
       }
     ],
     "url": "http://www.dnd5eapi.co/api/equipment/27"
   },
   {
-    "index": 28,
+    "id": "28",
     "name": "Shortsword",
     "equipment_category": "Weapon",
     "weapon_category": "Martial",
@@ -1039,7 +1039,7 @@
       "damage_dice": "1d6",
       "damage_bonus": 0,
       "damage_type": {
-        "url": "http://www.dnd5eapi.co/api/damage-types/8",
+        "ref": "damage-types/8",
         "name": "Piercing"
       }
     },
@@ -1050,22 +1050,22 @@
     "weight": 2,
     "properties": [
       {
-        "url": "http://www.dnd5eapi.co/api/weapon-properties/2",
+        "ref": "weapon-properties/2",
         "name": "Finesse"
       },
       {
-        "url": "http://www.dnd5eapi.co/api/weapon-properties/4",
+        "ref": "weapon-properties/4",
         "name": "Light"
       },
       {
-        "url": "http://www.dnd5eapi.co/api/weapon-properties/11",
+        "ref": "weapon-properties/11",
         "name": "Monk"
       }
     ],
     "url": "http://www.dnd5eapi.co/api/equipment/28"
   },
   {
-    "index": 29,
+    "id": "29",
     "name": "Trident",
     "equipment_category": "Weapon",
     "weapon_category": "Martial",
@@ -1079,7 +1079,7 @@
       "damage_dice": "1d6",
       "damage_bonus": 0,
       "damage_type": {
-        "url": "http://www.dnd5eapi.co/api/damage-types/12",
+        "ref": "damage-types/12",
         "name": "Slashing"
       }
     },
@@ -1090,11 +1090,11 @@
     "weight": 4,
     "properties": [
       {
-        "url": "http://www.dnd5eapi.co/api/weapon-properties/8",
+        "ref": "weapon-properties/8",
         "name": "Thrown"
       },
       {
-        "url": "http://www.dnd5eapi.co/api/weapon-properties/10",
+        "ref": "weapon-properties/10",
         "name": "Versatile"
       }
     ],
@@ -1106,14 +1106,14 @@
       "damage_dice": "1d8",
       "damage_bonus": 0,
       "damage_type": {
-        "url": "http://www.dnd5eapi.co/api/damage-types/8",
+        "ref": "damage-types/8",
         "name": "Piercing"
       }
     },
     "url": "http://www.dnd5eapi.co/api/equipment/29"
   },
   {
-    "index": 30,
+    "id": "30",
     "name": "War pick",
     "equipment_category": "Weapon",
     "weapon_category": "Martial",
@@ -1127,7 +1127,7 @@
       "damage_dice": "1d8",
       "damage_bonus": 0,
       "damage_type": {
-        "url": "http://www.dnd5eapi.co/api/damage-types/8",
+        "ref": "damage-types/8",
         "name": "Piercing"
       }
     },
@@ -1140,7 +1140,7 @@
     "url": "http://www.dnd5eapi.co/api/equipment/30"
   },
   {
-    "index": 31,
+    "id": "31",
     "name": "Warhammer",
     "equipment_category": "Weapon",
     "weapon_category": "Martial",
@@ -1154,7 +1154,7 @@
       "damage_dice": "1d8",
       "damage_bonus": 0,
       "damage_type": {
-        "url": "http://www.dnd5eapi.co/api/damage-types/2",
+        "ref": "damage-types/2",
         "name": "Bludgeoning"
       }
     },
@@ -1165,7 +1165,7 @@
     "weight": 2,
     "properties": [
       {
-        "url": "http://www.dnd5eapi.co/api/weapon-properties/10",
+        "ref": "weapon-properties/10",
         "name": "Versatile"
       }
     ],
@@ -1173,14 +1173,14 @@
       "damage_dice": "1d10",
       "damage_bonus": 0,
       "damage_type": {
-        "url": "http://www.dnd5eapi.co/api/damage-types/2",
+        "ref": "damage-types/2",
         "name": "Bludgeoning"
       }
     },
     "url": "http://www.dnd5eapi.co/api/equipment/31"
   },
   {
-    "index": 32,
+    "id": "32",
     "name": "Whip",
     "equipment_category": "Weapon",
     "weapon_category": "Martial",
@@ -1194,7 +1194,7 @@
       "damage_dice": "1d4",
       "damage_bonus": 0,
       "damage_type": {
-        "url": "http://www.dnd5eapi.co/api/damage-types/12",
+        "ref": "damage-types/12",
         "name": "Slashing"
       }
     },
@@ -1205,18 +1205,18 @@
     "weight": 3,
     "properties": [
       {
-        "url": "http://www.dnd5eapi.co/api/weapon-properties/2",
+        "ref": "weapon-properties/2",
         "name": "Finesse"
       },
       {
-        "url": "http://www.dnd5eapi.co/api/weapon-properties/6",
+        "ref": "weapon-properties/6",
         "name": "Reach"
       }
     ],
     "url": "http://www.dnd5eapi.co/api/equipment/32"
   },
   {
-    "index": 33,
+    "id": "33",
     "name": "Blowgun",
     "equipment_category": "Weapon",
     "weapon_category": "Martial",
@@ -1230,7 +1230,7 @@
       "damage_dice": "1d1",
       "damage_bonus": 0,
       "damage_type": {
-        "url": "http://www.dnd5eapi.co/api/damage-types/8",
+        "ref": "damage-types/8",
         "name": "Piercing"
       }
     },
@@ -1252,7 +1252,7 @@
     "url": "http://www.dnd5eapi.co/api/equipment/33"
   },
   {
-    "index": 34,
+    "id": "34",
     "name": "Crossbow, hand",
     "equipment_category": "Weapon",
     "weapon_category": "Martial",
@@ -1266,7 +1266,7 @@
       "damage_dice": "1d6",
       "damage_bonus": 0,
       "damage_type": {
-        "url": "http://www.dnd5eapi.co/api/damage-types/8",
+        "ref": "damage-types/8",
         "name": "Piercing"
       }
     },
@@ -1281,7 +1281,7 @@
         "url": "http://www.dnd5eapi.co/api/weapon-properties/1"
       },
       {
-        "url": "http://www.dnd5eapi.co/api/weapon-properties/4",
+        "ref": "weapon-properties/4",
         "name": "Light"
       },
       {
@@ -1292,7 +1292,7 @@
     "url": "http://www.dnd5eapi.co/api/equipment/34"
   },
   {
-    "index": 35,
+    "id": "35",
     "name": "Crossbow, heavy",
     "equipment_category": "Weapon",
     "weapon_category": "Martial",
@@ -1306,7 +1306,7 @@
       "damage_dice": "1d10",
       "damage_bonus": 0,
       "damage_type": {
-        "url": "http://www.dnd5eapi.co/api/damage-types/8",
+        "ref": "damage-types/8",
         "name": "Piercing"
       }
     },
@@ -1321,7 +1321,7 @@
         "url": "http://www.dnd5eapi.co/api/weapon-properties/1"
       },
       {
-        "url": "http://www.dnd5eapi.co/api/weapon-properties/4",
+        "ref": "weapon-properties/4",
         "name": "Light"
       },
       {
@@ -1329,14 +1329,14 @@
         "url": "http://www.dnd5eapi.co/api/weapon-properties/5"
       },
       {
-        "url": "http://www.dnd5eapi.co/api/weapon-properties/9",
+        "ref": "weapon-properties/9",
         "name": "Two-Handed"
       }
     ],
     "url": "http://www.dnd5eapi.co/api/equipment/35"
   },
   {
-    "index": 36,
+    "id": "36",
     "name": "Longbow",
     "equipment_category": "Weapon",
     "weapon_category": "Martial",
@@ -1350,7 +1350,7 @@
       "damage_dice": "1d8",
       "damage_bonus": 0,
       "damage_type": {
-        "url": "http://www.dnd5eapi.co/api/damage-types/8",
+        "ref": "damage-types/8",
         "name": "Piercing"
       }
     },
@@ -1365,18 +1365,18 @@
         "url": "http://www.dnd5eapi.co/api/weapon-properties/1"
       },
       {
-        "url": "http://www.dnd5eapi.co/api/weapon-properties/3",
+        "ref": "weapon-properties/3",
         "name": "Heavy"
       },
       {
-        "url": "http://www.dnd5eapi.co/api/weapon-properties/9",
+        "ref": "weapon-properties/9",
         "name": "Two-Handed"
       }
     ],
     "url": "http://www.dnd5eapi.co/api/equipment/36"
   },
   {
-    "index": 37,
+    "id": "37",
     "name": "Net",
     "equipment_category": "Weapon",
     "weapon_category": "Martial",
@@ -1390,7 +1390,7 @@
       "damage_dice": "1d0",
       "damage_bonus": 0,
       "damage_type": {
-        "url": "http://www.dnd5eapi.co/api/damage-types/12",
+        "ref": "damage-types/12",
         "name": "Slashing"
       }
     },
@@ -1401,11 +1401,11 @@
     "weight": 3,
     "properties": [
       {
-        "url": "http://www.dnd5eapi.co/api/weapon-properties/8",
+        "ref": "weapon-properties/8",
         "name": "Thrown"
       },
       {
-        "url": "http://www.dnd5eapi.co/api/weapon-properties/7",
+        "ref": "weapon-properties/7",
         "name": "Special"
       }
     ],
@@ -1419,7 +1419,7 @@
     "url": "http://www.dnd5eapi.co/api/equipment/37"
   },
   {
-    "index": 38,
+    "id": "38",
     "name": "Padded",
     "equipment_category": "Armor",
     "armor_category": "Light",
@@ -1438,7 +1438,7 @@
     "url": "http://www.dnd5eapi.co/api/equipment/38"
   },
   {
-    "index": 39,
+    "id": "39",
     "name": "Leather",
     "equipment_category": "Armor",
     "armor_category": "Light",
@@ -1457,7 +1457,7 @@
     "url": "http://www.dnd5eapi.co/api/equipment/39"
   },
   {
-    "index": 40,
+    "id": "40",
     "name": "Studded Leather",
     "equipment_category": "Armor",
     "armor_category": "Light",
@@ -1476,7 +1476,7 @@
     "url": "http://www.dnd5eapi.co/api/equipment/40"
   },
   {
-    "index": 41,
+    "id": "41",
     "name": "Hide",
     "equipment_category": "Armor",
     "armor_category": "Medium",
@@ -1495,7 +1495,7 @@
     "url": "http://www.dnd5eapi.co/api/equipment/41"
   },
   {
-    "index": 42,
+    "id": "42",
     "name": "Chain Shirt",
     "equipment_category": "Armor",
     "armor_category": "Medium",
@@ -1514,7 +1514,7 @@
     "url": "http://www.dnd5eapi.co/api/equipment/42"
   },
   {
-    "index": 43,
+    "id": "43",
     "name": "Scale Mail",
     "equipment_category": "Armor",
     "armor_category": "Medium",
@@ -1533,7 +1533,7 @@
     "url": "http://www.dnd5eapi.co/api/equipment/43"
   },
   {
-    "index": 44,
+    "id": "44",
     "name": "Breastplate",
     "equipment_category": "Armor",
     "armor_category": "Medium",
@@ -1552,7 +1552,7 @@
     "url": "http://www.dnd5eapi.co/api/equipment/44"
   },
   {
-    "index": 45,
+    "id": "45",
     "name": "Half Plate",
     "equipment_category": "Armor",
     "armor_category": "Medium",
@@ -1571,7 +1571,7 @@
     "url": "http://www.dnd5eapi.co/api/equipment/45"
   },
   {
-    "index": 46,
+    "id": "46",
     "name": "Ring Mail",
     "equipment_category": "Armor",
     "armor_category": "Heavy",
@@ -1590,7 +1590,7 @@
     "url": "http://www.dnd5eapi.co/api/equipment/46"
   },
   {
-    "index": 47,
+    "id": "47",
     "name": "Chain Mail",
     "equipment_category": "Armor",
     "armor_category": "Heavy",
@@ -1609,7 +1609,7 @@
     "url": "http://www.dnd5eapi.co/api/equipment/47"
   },
   {
-    "index": 48,
+    "id": "48",
     "name": "Splint",
     "equipment_category": "Armor",
     "armor_category": "Heavy",
@@ -1628,7 +1628,7 @@
     "url": "http://www.dnd5eapi.co/api/equipment/48"
   },
   {
-    "index": 49,
+    "id": "49",
     "name": "Plate",
     "equipment_category": "Armor",
     "armor_category": "Heavy",
@@ -1647,7 +1647,7 @@
     "url": "http://www.dnd5eapi.co/api/equipment/49"
   },
   {
-    "index": 50,
+    "id": "50",
     "name": "Shield",
     "equipment_category": "Armor",
     "armor_category": "Shield",
@@ -1666,7 +1666,7 @@
     "url": "http://www.dnd5eapi.co/api/equipment/50"
   },
   {
-    "index": 51,
+    "id": "51",
     "name": "Abacus",
     "equipment_category": "Adventuring Gear",
     "gear_category": "Standard Gear",
@@ -1678,7 +1678,7 @@
     "url": "http://www.dnd5eapi.co/api/equipment/51"
   },
   {
-    "index": 52,
+    "id": "52",
     "name": "Acid (vial)",
     "equipment_category": "Adventuring Gear",
     "gear_category": "Standard Gear",
@@ -1694,7 +1694,7 @@
     "url": "http://www.dnd5eapi.co/api/equipment/52"
   },
   {
-    "index": 53,
+    "id": "53",
     "name": "Alchemist's fire (flask)",
     "equipment_category": "Adventuring Gear",
     "gear_category": "Standard Gear",
@@ -1711,7 +1711,7 @@
     "url": "http://www.dnd5eapi.co/api/equipment/53"
   },
   {
-    "index": 54,
+    "id": "54",
     "name": "Arrow",
     "equipment_category": "Adventuring Gear",
     "gear_category": "Ammunition",
@@ -1723,7 +1723,7 @@
     "url": "http://www.dnd5eapi.co/api/equipment/54"
   },
   {
-    "index": 55,
+    "id": "55",
     "name": "Blowgun needle",
     "equipment_category": "Adventuring Gear",
     "gear_category": "Ammunition",
@@ -1735,7 +1735,7 @@
     "url": "http://www.dnd5eapi.co/api/equipment/55"
   },
   {
-    "index": 56,
+    "id": "56",
     "name": "Crossbow bolt",
     "equipment_category": "Adventuring Gear",
     "gear_category": "Ammunition",
@@ -1747,7 +1747,7 @@
     "url": "http://www.dnd5eapi.co/api/equipment/56"
   },
   {
-    "index": 57,
+    "id": "57",
     "name": "Sling bullet",
     "equipment_category": "Adventuring Gear",
     "gear_category": "Ammunition",
@@ -1759,7 +1759,7 @@
     "url": "http://www.dnd5eapi.co/api/equipment/57"
   },
   {
-    "index": 58,
+    "id": "58",
     "name": "Amulet",
     "equipment_category": "Adventuring Gear",
     "gear_category": "Holy Symbol",
@@ -1775,7 +1775,7 @@
     "url": "http://www.dnd5eapi.co/api/equipment/58"
   },
   {
-    "index": 59,
+    "id": "59",
     "name": "Antitoxin (vial)",
     "equipment_category": "Adventuring Gear",
     "gear_category": "Standard Gear",
@@ -1790,7 +1790,7 @@
     "url": "http://www.dnd5eapi.co/api/equipment/59"
   },
   {
-    "index": 60,
+    "id": "60",
     "name": "Crystal",
     "equipment_category": "Adventuring Gear",
     "gear_category": "Arcane focus",
@@ -1805,7 +1805,7 @@
     "url": "http://www.dnd5eapi.co/api/equipment/60"
   },
   {
-    "index": 61,
+    "id": "61",
     "name": "Orb",
     "equipment_category": "Adventuring Gear",
     "gear_category": "Arcane focus",
@@ -1820,7 +1820,7 @@
     "url": "http://www.dnd5eapi.co/api/equipment/61"
   },
   {
-    "index": 62,
+    "id": "62",
     "name": "Rod",
     "equipment_category": "Adventuring Gear",
     "gear_category": "Arcane focus",
@@ -1835,7 +1835,7 @@
     "url": "http://www.dnd5eapi.co/api/equipment/62"
   },
   {
-    "index": 63,
+    "id": "63",
     "name": "Staff",
     "equipment_category": "Adventuring Gear",
     "gear_category": "Arcane focus",
@@ -1850,7 +1850,7 @@
     "url": "http://www.dnd5eapi.co/api/equipment/63"
   },
   {
-    "index": 64,
+    "id": "64",
     "name": "Wand",
     "equipment_category": "Adventuring Gear",
     "gear_category": "Arcane focus",
@@ -1865,7 +1865,7 @@
     "url": "http://www.dnd5eapi.co/api/equipment/64"
   },
   {
-    "index": 65,
+    "id": "65",
     "name": "Backpack",
     "equipment_category": "Adventuring Gear",
     "gear_category": "Standard Gear",
@@ -1877,7 +1877,7 @@
     "url": "http://www.dnd5eapi.co/api/equipment/65"
   },
   {
-    "index": 66,
+    "id": "66",
     "name": "Ball bearings (bag of 1,000)",
     "equipment_category": "Adventuring Gear",
     "gear_category": "Standard Gear",
@@ -1894,7 +1894,7 @@
     "url": "http://www.dnd5eapi.co/api/equipment/66"
   },
   {
-    "index": 67,
+    "id": "67",
     "name": "Barrel",
     "equipment_category": "Adventuring Gear",
     "gear_category": "Standard Gear",
@@ -1906,7 +1906,7 @@
     "url": "http://www.dnd5eapi.co/api/equipment/67"
   },
   {
-    "index": 68,
+    "id": "68",
     "name": "Basket",
     "equipment_category": "Adventuring Gear",
     "gear_category": "Standard Gear",
@@ -1918,7 +1918,7 @@
     "url": "http://www.dnd5eapi.co/api/equipment/68"
   },
   {
-    "index": 69,
+    "id": "69",
     "name": "Bedroll",
     "equipment_category": "Adventuring Gear",
     "gear_category": "Standard Gear",
@@ -1930,7 +1930,7 @@
     "url": "http://www.dnd5eapi.co/api/equipment/69"
   },
   {
-    "index": 70,
+    "id": "70",
     "name": "Bell",
     "equipment_category": "Adventuring Gear",
     "gear_category": "Standard Gear",
@@ -1942,7 +1942,7 @@
     "url": "http://www.dnd5eapi.co/api/equipment/70"
   },
   {
-    "index": 71,
+    "id": "71",
     "name": "Blanket",
     "equipment_category": "Adventuring Gear",
     "gear_category": "Standard Gear",
@@ -1954,7 +1954,7 @@
     "url": "http://www.dnd5eapi.co/api/equipment/71"
   },
   {
-    "index": 72,
+    "id": "72",
     "name": "Block and tackle",
     "equipment_category": "Adventuring Gear",
     "gear_category": "Standard Gear",
@@ -1969,7 +1969,7 @@
     "url": "http://www.dnd5eapi.co/api/equipment/72"
   },
   {
-    "index": 73,
+    "id": "73",
     "name": "Book",
     "equipment_category": "Adventuring Gear",
     "gear_category": "Standard Gear",
@@ -1984,7 +1984,7 @@
     "url": "http://www.dnd5eapi.co/api/equipment/73"
   },
   {
-    "index": 74,
+    "id": "74",
     "name": "Bottle, glass",
     "equipment_category": "Adventuring Gear",
     "gear_category": "Standard Gear",
@@ -1996,7 +1996,7 @@
     "url": "http://www.dnd5eapi.co/api/equipment/74"
   },
   {
-    "index": 75,
+    "id": "75",
     "name": "Bucket",
     "equipment_category": "Adventuring Gear",
     "gear_category": "Standard Gear",
@@ -2008,7 +2008,7 @@
     "url": "http://www.dnd5eapi.co/api/equipment/75"
   },
   {
-    "index": 76,
+    "id": "76",
     "name": "Caltrops",
     "equipment_category": "Adventuring Gear",
     "gear_category": "Standard Gear",
@@ -2026,7 +2026,7 @@
     "url": "http://www.dnd5eapi.co/api/equipment/76"
   },
   {
-    "index": 77,
+    "id": "77",
     "name": "Candle",
     "equipment_category": "Adventuring Gear",
     "gear_category": "Standard Gear",
@@ -2041,7 +2041,7 @@
     "url": "http://www.dnd5eapi.co/api/equipment/77"
   },
   {
-    "index": 78,
+    "id": "78",
     "name": "Case, crossbow bolt",
     "equipment_category": "Adventuring Gear",
     "gear_category": "Standard Gear",
@@ -2054,7 +2054,7 @@
     "url": "http://www.dnd5eapi.co/api/equipment/78"
   },
   {
-    "index": 79,
+    "id": "79",
     "name": "Case, map or scroll",
     "equipment_category": "Adventuring Gear",
     "gear_category": "Standard Gear",
@@ -2069,7 +2069,7 @@
     "url": "http://www.dnd5eapi.co/api/equipment/79"
   },
   {
-    "index": 80,
+    "id": "80",
     "name": "Chain (10 feet)",
     "equipment_category": "Adventuring Gear",
     "gear_category": "Standard Gear",
@@ -2084,7 +2084,7 @@
     "url": "http://www.dnd5eapi.co/api/equipment/80"
   },
   {
-    "index": 81,
+    "id": "81",
     "name": "Chalk (1 piece)",
     "equipment_category": "Adventuring Gear",
     "gear_category": "Standard Gear",
@@ -2096,7 +2096,7 @@
     "url": "http://www.dnd5eapi.co/api/equipment/81"
   },
   {
-    "index": 82,
+    "id": "82",
     "name": "Chest",
     "equipment_category": "Adventuring Gear",
     "gear_category": "Standard Gear",
@@ -2108,7 +2108,7 @@
     "url": "http://www.dnd5eapi.co/api/equipment/82"
   },
   {
-    "index": 83,
+    "id": "83",
     "name": "Clothes, common",
     "equipment_category": "Adventuring Gear",
     "gear_category": "Standard Gear",
@@ -2120,7 +2120,7 @@
     "url": "http://www.dnd5eapi.co/api/equipment/83"
   },
   {
-    "index": 84,
+    "id": "84",
     "name": "Clothes, costume",
     "equipment_category": "Adventuring Gear",
     "gear_category": "Standard Gear",
@@ -2132,7 +2132,7 @@
     "url": "http://www.dnd5eapi.co/api/equipment/84"
   },
   {
-    "index": 85,
+    "id": "85",
     "name": "Clothes, fine",
     "equipment_category": "Adventuring Gear",
     "gear_category": "Standard Gear",
@@ -2144,7 +2144,7 @@
     "url": "http://www.dnd5eapi.co/api/equipment/85"
   },
   {
-    "index": 86,
+    "id": "86",
     "name": "Clothes, traveler's",
     "equipment_category": "Adventuring Gear",
     "gear_category": "Standard Gear",
@@ -2156,7 +2156,7 @@
     "url": "http://www.dnd5eapi.co/api/equipment/86"
   },
   {
-    "index": 87,
+    "id": "87",
     "name": "Component pouch",
     "equipment_category": "Adventuring Gear",
     "gear_category": "Standard Gear",
@@ -2171,7 +2171,7 @@
     "url": "http://www.dnd5eapi.co/api/equipment/87"
   },
   {
-    "index": 88,
+    "id": "88",
     "name": "Crowbar",
     "equipment_category": "Adventuring Gear",
     "gear_category": "Standard Gear",
@@ -2186,7 +2186,7 @@
     "url": "http://www.dnd5eapi.co/api/equipment/88"
   },
   {
-    "index": 89,
+    "id": "89",
     "name": "Sprig of mistletoe",
     "equipment_category": "Adventuring Gear",
     "gear_category": "Druidic focus",
@@ -2201,7 +2201,7 @@
     "url": "http://www.dnd5eapi.co/api/equipment/89"
   },
   {
-    "index": 90,
+    "id": "90",
     "name": "Totem",
     "equipment_category": "Adventuring Gear",
     "gear_category": "Druidic focus",
@@ -2216,7 +2216,7 @@
     "url": "http://www.dnd5eapi.co/api/equipment/90"
   },
   {
-    "index": 91,
+    "id": "91",
     "name": "Wooden staff",
     "equipment_category": "Adventuring Gear",
     "gear_category": "Druidic focus",
@@ -2231,7 +2231,7 @@
     "url": "http://www.dnd5eapi.co/api/equipment/91"
   },
   {
-    "index": 92,
+    "id": "92",
     "name": "Yew wand",
     "equipment_category": "Adventuring Gear",
     "gear_category": "Druidic focus",
@@ -2246,7 +2246,7 @@
     "url": "http://www.dnd5eapi.co/api/equipment/92"
   },
   {
-    "index": 93,
+    "id": "93",
     "name": "Emblem",
     "equipment_category": "Adventuring Gear",
     "gear_category": "Holy Symbol",
@@ -2262,7 +2262,7 @@
     "url": "http://www.dnd5eapi.co/api/equipment/93"
   },
   {
-    "index": 94,
+    "id": "94",
     "name": "Fishing tackle",
     "equipment_category": "Adventuring Gear",
     "gear_category": "Standard Gear",
@@ -2277,7 +2277,7 @@
     "url": "http://www.dnd5eapi.co/api/equipment/94"
   },
   {
-    "index": 95,
+    "id": "95",
     "name": "Flask or tankard",
     "equipment_category": "Adventuring Gear",
     "gear_category": "Standard Gear",
@@ -2289,7 +2289,7 @@
     "url": "http://www.dnd5eapi.co/api/equipment/95"
   },
   {
-    "index": 96,
+    "id": "96",
     "name": "Grappling hook",
     "equipment_category": "Adventuring Gear",
     "gear_category": "Standard Gear",
@@ -2301,7 +2301,7 @@
     "url": "http://www.dnd5eapi.co/api/equipment/96"
   },
   {
-    "index": 97,
+    "id": "97",
     "name": "Hammer",
     "equipment_category": "Adventuring Gear",
     "gear_category": "Standard Gear",
@@ -2313,7 +2313,7 @@
     "url": "http://www.dnd5eapi.co/api/equipment/97"
   },
   {
-    "index": 98,
+    "id": "98",
     "name": "Hammer, sledge",
     "equipment_category": "Adventuring Gear",
     "gear_category": "Standard Gear",
@@ -2325,7 +2325,7 @@
     "url": "http://www.dnd5eapi.co/api/equipment/98"
   },
   {
-    "index": 99,
+    "id": "99",
     "name": "Holy water (flask)",
     "equipment_category": "Adventuring Gear",
     "gear_category": "Standard Gear",
@@ -2343,7 +2343,7 @@
     "url": "http://www.dnd5eapi.co/api/equipment/99"
   },
   {
-    "index": 100,
+    "id": "100",
     "name": "Hourglass",
     "equipment_category": "Adventuring Gear",
     "gear_category": "Standard Gear",
@@ -2355,7 +2355,7 @@
     "url": "http://www.dnd5eapi.co/api/equipment/100"
   },
   {
-    "index": 101,
+    "id": "101",
     "name": "Hunting trap",
     "equipment_category": "Adventuring Gear",
     "gear_category": "Standard Gear",
@@ -2372,7 +2372,7 @@
     "url": "http://www.dnd5eapi.co/api/equipment/101"
   },
   {
-    "index": 102,
+    "id": "102",
     "name": "Ink (1 ounce bottle)",
     "equipment_category": "Adventuring Gear",
     "gear_category": "Standard Gear",
@@ -2384,7 +2384,7 @@
     "url": "http://www.dnd5eapi.co/api/equipment/102"
   },
   {
-    "index": 103,
+    "id": "103",
     "name": "Ink pen",
     "equipment_category": "Adventuring Gear",
     "gear_category": "Standard Gear",
@@ -2396,7 +2396,7 @@
     "url": "http://www.dnd5eapi.co/api/equipment/103"
   },
   {
-    "index": 104,
+    "id": "104",
     "name": "Jug or pitcher",
     "equipment_category": "Adventuring Gear",
     "gear_category": "Standard Gear",
@@ -2408,7 +2408,7 @@
     "url": "http://www.dnd5eapi.co/api/equipment/104"
   },
   {
-    "index": 105,
+    "id": "105",
     "name": "Climber's Kit",
     "equipment_category": "Adventuring Gear",
     "gear_category": "Kit",
@@ -2423,7 +2423,7 @@
     "url": "http://www.dnd5eapi.co/api/equipment/105"
   },
   {
-    "index": 106,
+    "id": "106",
     "name": "Disguise Kit",
     "equipment_category": "Adventuring Gear",
     "gear_category": "Kit",
@@ -2438,7 +2438,7 @@
     "url": "http://www.dnd5eapi.co/api/equipment/106"
   },
   {
-    "index": 107,
+    "id": "107",
     "name": "Forgery Kit",
     "equipment_category": "Adventuring Gear",
     "gear_category": "Kit",
@@ -2453,7 +2453,7 @@
     "url": "http://www.dnd5eapi.co/api/equipment/107"
   },
   {
-    "index": 108,
+    "id": "108",
     "name": "Herbalism Kit",
     "equipment_category": "Adventuring Gear",
     "gear_category": "Kit",
@@ -2468,7 +2468,7 @@
     "url": "http://www.dnd5eapi.co/api/equipment/108"
   },
   {
-    "index": 109,
+    "id": "109",
     "name": "Healer's Kit",
     "equipment_category": "Adventuring Gear",
     "gear_category": "Kit",
@@ -2483,7 +2483,7 @@
     "url": "http://www.dnd5eapi.co/api/equipment/109"
   },
   {
-    "index": 110,
+    "id": "110",
     "name": "Mess Kit",
     "equipment_category": "Adventuring Gear",
     "gear_category": "Kit",
@@ -2498,7 +2498,7 @@
     "url": "http://www.dnd5eapi.co/api/equipment/110"
   },
   {
-    "index": 111,
+    "id": "111",
     "name": "Poisoner's Kit",
     "equipment_category": "Adventuring Gear",
     "gear_category": "Kit",
@@ -2513,7 +2513,7 @@
     "url": "http://www.dnd5eapi.co/api/equipment/111"
   },
   {
-    "index": 112,
+    "id": "112",
     "name": "Ladder (10-foot)",
     "equipment_category": "Adventuring Gear",
     "gear_category": "Standard Gear",
@@ -2525,7 +2525,7 @@
     "url": "http://www.dnd5eapi.co/api/equipment/112"
   },
   {
-    "index": 113,
+    "id": "113",
     "name": "Lamp",
     "equipment_category": "Adventuring Gear",
     "gear_category": "Standard Gear",
@@ -2540,7 +2540,7 @@
     "url": "http://www.dnd5eapi.co/api/equipment/113"
   },
   {
-    "index": 114,
+    "id": "114",
     "name": "Lantern, bullseye",
     "equipment_category": "Adventuring Gear",
     "gear_category": "Standard Gear",
@@ -2555,7 +2555,7 @@
     "url": "http://www.dnd5eapi.co/api/equipment/114"
   },
   {
-    "index": 115,
+    "id": "115",
     "name": "Lantern, hooded",
     "equipment_category": "Adventuring Gear",
     "gear_category": "Standard Gear",
@@ -2570,7 +2570,7 @@
     "url": "http://www.dnd5eapi.co/api/equipment/115"
   },
   {
-    "index": 116,
+    "id": "116",
     "name": "Lock",
     "equipment_category": "Adventuring Gear",
     "gear_category": "Standard Gear",
@@ -2585,7 +2585,7 @@
     "url": "http://www.dnd5eapi.co/api/equipment/116"
   },
   {
-    "index": 117,
+    "id": "117",
     "name": "Magnifying glass",
     "equipment_category": "Adventuring Gear",
     "gear_category": "Standard Gear",
@@ -2601,7 +2601,7 @@
     "url": "http://www.dnd5eapi.co/api/equipment/117"
   },
   {
-    "index": 118,
+    "id": "118",
     "name": "Manacles",
     "equipment_category": "Adventuring Gear",
     "gear_category": "Standard Gear",
@@ -2617,7 +2617,7 @@
     "url": "http://www.dnd5eapi.co/api/equipment/118"
   },
   {
-    "index": 119,
+    "id": "119",
     "name": "Mirror, steel",
     "equipment_category": "Adventuring Gear",
     "gear_category": "Standard Gear",
@@ -2629,7 +2629,7 @@
     "url": "http://www.dnd5eapi.co/api/equipment/119"
   },
   {
-    "index": 120,
+    "id": "120",
     "name": "Oil (flask)",
     "equipment_category": "Adventuring Gear",
     "gear_category": "Standard Gear",
@@ -2648,7 +2648,7 @@
     "url": "http://www.dnd5eapi.co/api/equipment/120"
   },
   {
-    "index": 121,
+    "id": "121",
     "name": "Paper (one sheet)",
     "equipment_category": "Adventuring Gear",
     "gear_category": "Standard Gear",
@@ -2660,7 +2660,7 @@
     "url": "http://www.dnd5eapi.co/api/equipment/121"
   },
   {
-    "index": 122,
+    "id": "122",
     "name": "Parchment (one sheet)",
     "equipment_category": "Adventuring Gear",
     "gear_category": "Standard Gear",
@@ -2672,7 +2672,7 @@
     "url": "http://www.dnd5eapi.co/api/equipment/122"
   },
   {
-    "index": 123,
+    "id": "123",
     "name": "Perfume (vial)",
     "equipment_category": "Adventuring Gear",
     "gear_category": "Standard Gear",
@@ -2684,7 +2684,7 @@
     "url": "http://www.dnd5eapi.co/api/equipment/123"
   },
   {
-    "index": 124,
+    "id": "124",
     "name": "Pick, miner's",
     "equipment_category": "Adventuring Gear",
     "gear_category": "Standard Gear",
@@ -2696,7 +2696,7 @@
     "url": "http://www.dnd5eapi.co/api/equipment/124"
   },
   {
-    "index": 125,
+    "id": "125",
     "name": "Piton",
     "equipment_category": "Adventuring Gear",
     "gear_category": "Standard Gear",
@@ -2708,7 +2708,7 @@
     "url": "http://www.dnd5eapi.co/api/equipment/125"
   },
   {
-    "index": 126,
+    "id": "126",
     "name": "Poison, basic (vial)",
     "equipment_category": "Adventuring Gear",
     "gear_category": "Standard Gear",
@@ -2723,7 +2723,7 @@
     "url": "http://www.dnd5eapi.co/api/equipment/126"
   },
   {
-    "index": 127,
+    "id": "127",
     "name": "Pole (10-foot)",
     "equipment_category": "Adventuring Gear",
     "gear_category": "Standard Gear",
@@ -2735,7 +2735,7 @@
     "url": "http://www.dnd5eapi.co/api/equipment/127"
   },
   {
-    "index": 128,
+    "id": "128",
     "name": "Pot, iron",
     "equipment_category": "Adventuring Gear",
     "gear_category": "Standard Gear",
@@ -2747,7 +2747,7 @@
     "url": "http://www.dnd5eapi.co/api/equipment/128"
   },
   {
-    "index": 129,
+    "id": "129",
     "name": "Potion of healing",
     "equipment_category": "Adventuring Gear",
     "gear_category": "Standard Gear",
@@ -2762,7 +2762,7 @@
     "url": "http://www.dnd5eapi.co/api/equipment/129"
   },
   {
-    "index": 130,
+    "id": "130",
     "name": "Pouch",
     "equipment_category": "Adventuring Gear",
     "gear_category": "Standard Gear",
@@ -2777,7 +2777,7 @@
     "url": "http://www.dnd5eapi.co/api/equipment/130"
   },
   {
-    "index": 131,
+    "id": "131",
     "name": "Quiver",
     "equipment_category": "Adventuring Gear",
     "gear_category": "Standard Gear",
@@ -2790,7 +2790,7 @@
     "url": "http://www.dnd5eapi.co/api/equipment/131"
   },
   {
-    "index": 132,
+    "id": "132",
     "name": "Ram, portable",
     "equipment_category": "Adventuring Gear",
     "gear_category": "Standard Gear",
@@ -2805,7 +2805,7 @@
     "url": "http://www.dnd5eapi.co/api/equipment/132"
   },
   {
-    "index": 133,
+    "id": "133",
     "name": "Rations (1 day)",
     "equipment_category": "Adventuring Gear",
     "gear_category": "Standard Gear",
@@ -2820,7 +2820,7 @@
     "url": "http://www.dnd5eapi.co/api/equipment/133"
   },
   {
-    "index": 134,
+    "id": "134",
     "name": "Reliquary",
     "equipment_category": "Adventuring Gear",
     "gear_category": "Holy Symbol",
@@ -2836,7 +2836,7 @@
     "url": "http://www.dnd5eapi.co/api/equipment/134"
   },
   {
-    "index": 135,
+    "id": "135",
     "name": "Robes",
     "equipment_category": "Adventuring Gear",
     "gear_category": "Standard Gear",
@@ -2848,7 +2848,7 @@
     "url": "http://www.dnd5eapi.co/api/equipment/135"
   },
   {
-    "index": 136,
+    "id": "136",
     "name": "Rope, hempen (50 feet)",
     "equipment_category": "Adventuring Gear",
     "gear_category": "Standard Gear",
@@ -2863,7 +2863,7 @@
     "url": "http://www.dnd5eapi.co/api/equipment/136"
   },
   {
-    "index": 137,
+    "id": "137",
     "name": "Rope, silk (50 feet)",
     "equipment_category": "Adventuring Gear",
     "gear_category": "Standard Gear",
@@ -2878,7 +2878,7 @@
     "url": "http://www.dnd5eapi.co/api/equipment/137"
   },
   {
-    "index": 138,
+    "id": "138",
     "name": "Sack",
     "equipment_category": "Adventuring Gear",
     "gear_category": "Standard Gear",
@@ -2890,7 +2890,7 @@
     "url": "http://www.dnd5eapi.co/api/equipment/138"
   },
   {
-    "index": 139,
+    "id": "139",
     "name": "Scale, merchant's",
     "equipment_category": "Adventuring Gear",
     "gear_category": "Standard Gear",
@@ -2905,7 +2905,7 @@
     "url": "http://www.dnd5eapi.co/api/equipment/139"
   },
   {
-    "index": 140,
+    "id": "140",
     "name": "Sealing wax",
     "equipment_category": "Adventuring Gear",
     "gear_category": "Standard Gear",
@@ -2917,7 +2917,7 @@
     "url": "http://www.dnd5eapi.co/api/equipment/140"
   },
   {
-    "index": 141,
+    "id": "141",
     "name": "Shovel",
     "equipment_category": "Adventuring Gear",
     "gear_category": "Standard Gear",
@@ -2929,7 +2929,7 @@
     "url": "http://www.dnd5eapi.co/api/equipment/141"
   },
   {
-    "index": 142,
+    "id": "142",
     "name": "Signal whistle",
     "equipment_category": "Adventuring Gear",
     "gear_category": "Standard Gear",
@@ -2941,7 +2941,7 @@
     "url": "http://www.dnd5eapi.co/api/equipment/142"
   },
   {
-    "index": 143,
+    "id": "143",
     "name": "Signet ring",
     "equipment_category": "Adventuring Gear",
     "gear_category": "Standard Gear",
@@ -2953,7 +2953,7 @@
     "url": "http://www.dnd5eapi.co/api/equipment/143"
   },
   {
-    "index": 144,
+    "id": "144",
     "name": "Soap",
     "equipment_category": "Adventuring Gear",
     "gear_category": "Standard Gear",
@@ -2965,7 +2965,7 @@
     "url": "http://www.dnd5eapi.co/api/equipment/144"
   },
   {
-    "index": 145,
+    "id": "145",
     "name": "Spellbook",
     "equipment_category": "Adventuring Gear",
     "gear_category": "Standard Gear",
@@ -2980,7 +2980,7 @@
     "url": "http://www.dnd5eapi.co/api/equipment/145"
   },
   {
-    "index": 146,
+    "id": "146",
     "name": "Spike, iron",
     "equipment_category": "Adventuring Gear",
     "gear_category": "Standard Gear",
@@ -2992,7 +2992,7 @@
     "url": "http://www.dnd5eapi.co/api/equipment/146"
   },
   {
-    "index": 147,
+    "id": "147",
     "name": "Spyglass",
     "equipment_category": "Adventuring Gear",
     "gear_category": "Standard Gear",
@@ -3007,7 +3007,7 @@
     "url": "http://www.dnd5eapi.co/api/equipment/147"
   },
   {
-    "index": 148,
+    "id": "148",
     "name": "Tent, two-person",
     "equipment_category": "Adventuring Gear",
     "gear_category": "Standard Gear",
@@ -3020,7 +3020,7 @@
     "url": "http://www.dnd5eapi.co/api/equipment/148"
   },
   {
-    "index": 149,
+    "id": "149",
     "name": "Tinderbox",
     "equipment_category": "Adventuring Gear",
     "gear_category": "Standard Gear",
@@ -3036,7 +3036,7 @@
     "url": "http://www.dnd5eapi.co/api/equipment/149"
   },
   {
-    "index": 150,
+    "id": "150",
     "name": "Torch",
     "equipment_category": "Adventuring Gear",
     "gear_category": "Standard Gear",
@@ -3051,7 +3051,7 @@
     "url": "http://www.dnd5eapi.co/api/equipment/150"
   },
   {
-    "index": 151,
+    "id": "151",
     "name": "Vial",
     "equipment_category": "Adventuring Gear",
     "gear_category": "Standard Gear",
@@ -3063,7 +3063,7 @@
     "url": "http://www.dnd5eapi.co/api/equipment/151"
   },
   {
-    "index": 152,
+    "id": "152",
     "name": "Waterskin",
     "equipment_category": "Adventuring Gear",
     "gear_category": "Standard Gear",
@@ -3075,7 +3075,7 @@
     "url": "http://www.dnd5eapi.co/api/equipment/152"
   },
   {
-    "index": 153,
+    "id": "153",
     "name": "Whetstone",
     "equipment_category": "Adventuring Gear",
     "gear_category": "Standard Gear",
@@ -3087,7 +3087,7 @@
     "url": "http://www.dnd5eapi.co/api/equipment/153"
   },
   {
-    "index": 154,
+    "id": "154",
     "name": "Burglar's Pack",
     "equipment_category": "Adventuring Gear",
     "gear_category": "Equipment Pack",
@@ -3148,7 +3148,7 @@
     "url": "http://www.dnd5eapi.co/api/equipment/154"
   },
   {
-    "index": 155,
+    "id": "155",
     "name": "Diplomat's Pack",
     "equipment_category": "Adventuring Gear",
     "gear_category": "Equipment Pack",
@@ -3205,7 +3205,7 @@
     "url": "http://www.dnd5eapi.co/api/equipment/155"
   },
   {
-    "index": 156,
+    "id": "156",
     "name": "Dungeoneer's Pack",
     "equipment_category": "Adventuring Gear",
     "gear_category": "Equipment Pack",
@@ -3250,7 +3250,7 @@
     "url": "http://www.dnd5eapi.co/api/equipment/156"
   },
   {
-    "index": 157,
+    "id": "157",
     "name": "Entertainer's Pack",
     "equipment_category": "Adventuring Gear",
     "gear_category": "Equipment Pack",
@@ -3291,7 +3291,7 @@
     "url": "http://www.dnd5eapi.co/api/equipment/157"
   },
   {
-    "index": 158,
+    "id": "158",
     "name": "Explorer's Pack",
     "equipment_category": "Adventuring Gear",
     "gear_category": "Equipment Pack",
@@ -3336,7 +3336,7 @@
     "url": "http://www.dnd5eapi.co/api/equipment/158"
   },
   {
-    "index": 159,
+    "id": "159",
     "name": "Priest's Pack",
     "equipment_category": "Adventuring Gear",
     "gear_category": "Equipment Pack",
@@ -3373,7 +3373,7 @@
     "url": "http://www.dnd5eapi.co/api/equipment/159"
   },
   {
-    "index": 160,
+    "id": "160",
     "name": "Scholar's Pack",
     "equipment_category": "Adventuring Gear",
     "gear_category": "Equipment Pack",
@@ -3406,7 +3406,7 @@
     "url": "http://www.dnd5eapi.co/api/equipment/160"
   },
   {
-    "index": 161,
+    "id": "161",
     "name": "Alchemist's supplies",
     "equipment_category": "Tools",
     "tool_category": "Artisan's Tools",
@@ -3421,7 +3421,7 @@
     "url": "http://www.dnd5eapi.co/api/equipment/161"
   },
   {
-    "index": 162,
+    "id": "162",
     "name": "Brewer's supplies",
     "equipment_category": "Tools",
     "tool_category": "Artisan's Tools",
@@ -3436,7 +3436,7 @@
     "url": "http://www.dnd5eapi.co/api/equipment/162"
   },
   {
-    "index": 163,
+    "id": "163",
     "name": "Calligrapher's supplies",
     "equipment_category": "Tools",
     "tool_category": "Artisan's Tools",
@@ -3451,7 +3451,7 @@
     "url": "http://www.dnd5eapi.co/api/equipment/163"
   },
   {
-    "index": 164,
+    "id": "164",
     "name": "Carpenter's tools",
     "equipment_category": "Tools",
     "tool_category": "Artisan's Tools",
@@ -3466,7 +3466,7 @@
     "url": "http://www.dnd5eapi.co/api/equipment/164"
   },
   {
-    "index": 165,
+    "id": "165",
     "name": "Cartographer's tools",
     "equipment_category": "Tools",
     "tool_category": "Artisan's Tools",
@@ -3481,7 +3481,7 @@
     "url": "http://www.dnd5eapi.co/api/equipment/165"
   },
   {
-    "index": 166,
+    "id": "166",
     "name": "Cobbler's tools",
     "equipment_category": "Tools",
     "tool_category": "Artisan's Tools",
@@ -3496,7 +3496,7 @@
     "url": "http://www.dnd5eapi.co/api/equipment/166"
   },
   {
-    "index": 167,
+    "id": "167",
     "name": "Cook's utensils",
     "equipment_category": "Tools",
     "tool_category": "Artisan's Tools",
@@ -3511,7 +3511,7 @@
     "url": "http://www.dnd5eapi.co/api/equipment/167"
   },
   {
-    "index": 168,
+    "id": "168",
     "name": "Glassblower's tools",
     "equipment_category": "Tools",
     "tool_category": "Artisan's Tools",
@@ -3526,7 +3526,7 @@
     "url": "http://www.dnd5eapi.co/api/equipment/168"
   },
   {
-    "index": 169,
+    "id": "169",
     "name": "Jeweler's tools",
     "equipment_category": "Tools",
     "tool_category": "Artisan's Tools",
@@ -3541,7 +3541,7 @@
     "url": "http://www.dnd5eapi.co/api/equipment/169"
   },
   {
-    "index": 170,
+    "id": "170",
     "name": "Leatherworker's tools",
     "equipment_category": "Tools",
     "tool_category": "Artisan's Tools",
@@ -3556,7 +3556,7 @@
     "url": "http://www.dnd5eapi.co/api/equipment/170"
   },
   {
-    "index": 171,
+    "id": "171",
     "name": "Mason's tools",
     "equipment_category": "Tools",
     "tool_category": "Artisan's Tools",
@@ -3571,7 +3571,7 @@
     "url": "http://www.dnd5eapi.co/api/equipment/171"
   },
   {
-    "index": 172,
+    "id": "172",
     "name": "Painter's supplies",
     "equipment_category": "Tools",
     "tool_category": "Artisan's Tools",
@@ -3586,7 +3586,7 @@
     "url": "http://www.dnd5eapi.co/api/equipment/172"
   },
   {
-    "index": 173,
+    "id": "173",
     "name": "Potter's tools",
     "equipment_category": "Tools",
     "tool_category": "Artisan's Tools",
@@ -3601,7 +3601,7 @@
     "url": "http://www.dnd5eapi.co/api/equipment/173"
   },
   {
-    "index": 174,
+    "id": "174",
     "name": "Smith's tools",
     "equipment_category": "Tools",
     "tool_category": "Artisan's Tools",
@@ -3616,7 +3616,7 @@
     "url": "http://www.dnd5eapi.co/api/equipment/174"
   },
   {
-    "index": 175,
+    "id": "175",
     "name": "Tinker's tools",
     "equipment_category": "Tools",
     "tool_category": "Artisan's Tools",
@@ -3631,7 +3631,7 @@
     "url": "http://www.dnd5eapi.co/api/equipment/175"
   },
   {
-    "index": 176,
+    "id": "176",
     "name": "Weaver's tools",
     "equipment_category": "Tools",
     "tool_category": "Artisan's Tools",
@@ -3646,7 +3646,7 @@
     "url": "http://www.dnd5eapi.co/api/equipment/176"
   },
   {
-    "index": 177,
+    "id": "177",
     "name": "Woodcarver's tools",
     "equipment_category": "Tools",
     "tool_category": "Artisan's Tools",
@@ -3661,7 +3661,7 @@
     "url": "http://www.dnd5eapi.co/api/equipment/177"
   },
   {
-    "index": 178,
+    "id": "178",
     "name": "Dice set",
     "equipment_category": "Tools",
     "tool_category": "Gaming Sets",
@@ -3676,7 +3676,7 @@
     "url": "http://www.dnd5eapi.co/api/equipment/178"
   },
   {
-    "index": 179,
+    "id": "179",
     "name": "Playing card set",
     "equipment_category": "Tools",
     "tool_category": "Gaming Sets",
@@ -3691,7 +3691,7 @@
     "url": "http://www.dnd5eapi.co/api/equipment/179"
   },
   {
-    "index": 180,
+    "id": "180",
     "name": "Bagpipes",
     "equipment_category": "Tools",
     "tool_category": "Musical Instrument",
@@ -3706,7 +3706,7 @@
     "url": "http://www.dnd5eapi.co/api/equipment/180"
   },
   {
-    "index": 181,
+    "id": "181",
     "name": "Drum",
     "equipment_category": "Tools",
     "tool_category": "Musical Instrument",
@@ -3721,7 +3721,7 @@
     "url": "http://www.dnd5eapi.co/api/equipment/181"
   },
   {
-    "index": 182,
+    "id": "182",
     "name": "Dulcimer",
     "equipment_category": "Tools",
     "tool_category": "Musical Instrument",
@@ -3736,7 +3736,7 @@
     "url": "http://www.dnd5eapi.co/api/equipment/182"
   },
   {
-    "index": 183,
+    "id": "183",
     "name": "Flute",
     "equipment_category": "Tools",
     "tool_category": "Musical Instrument",
@@ -3751,7 +3751,7 @@
     "url": "http://www.dnd5eapi.co/api/equipment/183"
   },
   {
-    "index": 184,
+    "id": "184",
     "name": "Lute",
     "equipment_category": "Tools",
     "tool_category": "Musical Instrument",
@@ -3766,7 +3766,7 @@
     "url": "http://www.dnd5eapi.co/api/equipment/184"
   },
   {
-    "index": 185,
+    "id": "185",
     "name": "Lyre",
     "equipment_category": "Tools",
     "tool_category": "Musical Instrument",
@@ -3781,7 +3781,7 @@
     "url": "http://www.dnd5eapi.co/api/equipment/185"
   },
   {
-    "index": 186,
+    "id": "186",
     "name": "Horn",
     "equipment_category": "Tools",
     "tool_category": "Musical Instrument",
@@ -3796,7 +3796,7 @@
     "url": "http://www.dnd5eapi.co/api/equipment/186"
   },
   {
-    "index": 187,
+    "id": "187",
     "name": "Pan flute",
     "equipment_category": "Tools",
     "tool_category": "Musical Instrument",
@@ -3811,7 +3811,7 @@
     "url": "http://www.dnd5eapi.co/api/equipment/187"
   },
   {
-    "index": 188,
+    "id": "188",
     "name": "Shawm",
     "equipment_category": "Tools",
     "tool_category": "Musical Instrument",
@@ -3826,7 +3826,7 @@
     "url": "http://www.dnd5eapi.co/api/equipment/188"
   },
   {
-    "index": 189,
+    "id": "189",
     "name": "Viol",
     "equipment_category": "Tools",
     "tool_category": "Musical Instrument",
@@ -3841,7 +3841,7 @@
     "url": "http://www.dnd5eapi.co/api/equipment/189"
   },
   {
-    "index": 190,
+    "id": "190",
     "name": "Navigator's tools",
     "equipment_category": "Tools",
     "tool_category": "Other Tools",
@@ -3856,7 +3856,7 @@
     "url": "http://www.dnd5eapi.co/api/equipment/190"
   },
   {
-    "index": 191,
+    "id": "191",
     "name": "Thieves' tools",
     "equipment_category": "Tools",
     "tool_category": "Other Tools",
@@ -3871,7 +3871,7 @@
     "url": "http://www.dnd5eapi.co/api/equipment/191"
   },
   {
-    "index": 192,
+    "id": "192",
     "name": "Camel",
     "equipment_category": "Mounts and Vehicles",
     "vehicle_category": "Mounts and Other Animals",
@@ -3887,7 +3887,7 @@
     "url": "http://www.dnd5eapi.co/api/equipment/192"
   },
   {
-    "index": 193,
+    "id": "193",
     "name": "Donkey",
     "equipment_category": "Mounts and Vehicles",
     "vehicle_category": "Mounts and Other Animals",
@@ -3903,7 +3903,7 @@
     "url": "http://www.dnd5eapi.co/api/equipment/193"
   },
   {
-    "index": 194,
+    "id": "194",
     "name": "Mule",
     "equipment_category": "Mounts and Vehicles",
     "vehicle_category": "Mounts and Other Animals",
@@ -3919,7 +3919,7 @@
     "url": "http://www.dnd5eapi.co/api/equipment/194"
   },
   {
-    "index": 195,
+    "id": "195",
     "name": "Elephant",
     "equipment_category": "Mounts and Vehicles",
     "vehicle_category": "Mounts and Other Animals",
@@ -3935,7 +3935,7 @@
     "url": "http://www.dnd5eapi.co/api/equipment/195"
   },
   {
-    "index": 196,
+    "id": "196",
     "name": "Horse, draft",
     "equipment_category": "Mounts and Vehicles",
     "vehicle_category": "Mounts and Other Animals",
@@ -3951,7 +3951,7 @@
     "url": "http://www.dnd5eapi.co/api/equipment/196"
   },
   {
-    "index": 197,
+    "id": "197",
     "name": "Horse, riding",
     "equipment_category": "Mounts and Vehicles",
     "vehicle_category": "Mounts and Other Animals",
@@ -3967,7 +3967,7 @@
     "url": "http://www.dnd5eapi.co/api/equipment/197"
   },
   {
-    "index": 198,
+    "id": "198",
     "name": "Mastiff",
     "equipment_category": "Mounts and Vehicles",
     "vehicle_category": "Mounts and Other Animals",
@@ -3983,7 +3983,7 @@
     "url": "http://www.dnd5eapi.co/api/equipment/198"
   },
   {
-    "index": 199,
+    "id": "199",
     "name": "Pony",
     "equipment_category": "Mounts and Vehicles",
     "vehicle_category": "Mounts and Other Animals",
@@ -3999,7 +3999,7 @@
     "url": "http://www.dnd5eapi.co/api/equipment/199"
   },
   {
-    "index": 200,
+    "id": "200",
     "name": "Warhorse",
     "equipment_category": "Mounts and Vehicles",
     "vehicle_category": "Mounts and Other Animals",
@@ -4015,7 +4015,7 @@
     "url": "http://www.dnd5eapi.co/api/equipment/200"
   },
   {
-    "index": 201,
+    "id": "201",
     "name": "Barding: Padded",
     "equipment_category": "Mounts and Vehicles",
     "vehicle_category": "Tack, Harness, and Drawn Vehicles",
@@ -4030,7 +4030,7 @@
     "url": "http://www.dnd5eapi.co/api/equipment/201"
   },
   {
-    "index": 202,
+    "id": "202",
     "name": "Barding: Leather",
     "equipment_category": "Mounts and Vehicles",
     "vehicle_category": "Tack, Harness, and Drawn Vehicles",
@@ -4045,7 +4045,7 @@
     "url": "http://www.dnd5eapi.co/api/equipment/202"
   },
   {
-    "index": 203,
+    "id": "203",
     "name": "Barding: Studded Leather",
     "equipment_category": "Mounts and Vehicles",
     "vehicle_category": "Tack, Harness, and Drawn Vehicles",
@@ -4060,7 +4060,7 @@
     "url": "http://www.dnd5eapi.co/api/equipment/203"
   },
   {
-    "index": 204,
+    "id": "204",
     "name": "Barding: Hide",
     "equipment_category": "Mounts and Vehicles",
     "vehicle_category": "Tack, Harness, and Drawn Vehicles",
@@ -4075,7 +4075,7 @@
     "url": "http://www.dnd5eapi.co/api/equipment/204"
   },
   {
-    "index": 205,
+    "id": "205",
     "name": "Barding: Chain shirt",
     "equipment_category": "Mounts and Vehicles",
     "vehicle_category": "Tack, Harness, and Drawn Vehicles",
@@ -4090,7 +4090,7 @@
     "url": "http://www.dnd5eapi.co/api/equipment/205"
   },
   {
-    "index": 206,
+    "id": "206",
     "name": "Barding: Scale mail",
     "equipment_category": "Mounts and Vehicles",
     "vehicle_category": "Tack, Harness, and Drawn Vehicles",
@@ -4105,7 +4105,7 @@
     "url": "http://www.dnd5eapi.co/api/equipment/206"
   },
   {
-    "index": 207,
+    "id": "207",
     "name": "Barding: Breastplate",
     "equipment_category": "Mounts and Vehicles",
     "vehicle_category": "Tack, Harness, and Drawn Vehicles",
@@ -4120,7 +4120,7 @@
     "url": "http://www.dnd5eapi.co/api/equipment/207"
   },
   {
-    "index": 208,
+    "id": "208",
     "name": "Barding: Half plate",
     "equipment_category": "Mounts and Vehicles",
     "vehicle_category": "Tack, Harness, and Drawn Vehicles",
@@ -4135,7 +4135,7 @@
     "url": "http://www.dnd5eapi.co/api/equipment/208"
   },
   {
-    "index": 209,
+    "id": "209",
     "name": "Barding: Ring mail",
     "equipment_category": "Mounts and Vehicles",
     "vehicle_category": "Tack, Harness, and Drawn Vehicles",
@@ -4150,7 +4150,7 @@
     "url": "http://www.dnd5eapi.co/api/equipment/209"
   },
   {
-    "index": 210,
+    "id": "210",
     "name": "Barding: Chain mail",
     "equipment_category": "Mounts and Vehicles",
     "vehicle_category": "Tack, Harness, and Drawn Vehicles",
@@ -4165,7 +4165,7 @@
     "url": "http://www.dnd5eapi.co/api/equipment/210"
   },
   {
-    "index": 211,
+    "id": "211",
     "name": "Barding: Splint",
     "equipment_category": "Mounts and Vehicles",
     "vehicle_category": "Tack, Harness, and Drawn Vehicles",
@@ -4180,7 +4180,7 @@
     "url": "http://www.dnd5eapi.co/api/equipment/211"
   },
   {
-    "index": 212,
+    "id": "212",
     "name": "Barding: Plate",
     "equipment_category": "Mounts and Vehicles",
     "vehicle_category": "Tack, Harness, and Drawn Vehicles",
@@ -4195,7 +4195,7 @@
     "url": "http://www.dnd5eapi.co/api/equipment/212"
   },
   {
-    "index": 213,
+    "id": "213",
     "name": "Bit and bridle",
     "equipment_category": "Mounts and Vehicles",
     "vehicle_category": "Tack, Harness, and Drawn Vehicles",
@@ -4207,7 +4207,7 @@
     "url": "http://www.dnd5eapi.co/api/equipment/213"
   },
   {
-    "index": 214,
+    "id": "214",
     "name": "Carriage",
     "equipment_category": "Mounts and Vehicles",
     "vehicle_category": "Tack, Harness, and Drawn Vehicles",
@@ -4219,7 +4219,7 @@
     "url": "http://www.dnd5eapi.co/api/equipment/214"
   },
   {
-    "index": 215,
+    "id": "215",
     "name": "Cart",
     "equipment_category": "Mounts and Vehicles",
     "vehicle_category": "Tack, Harness, and Drawn Vehicles",
@@ -4231,7 +4231,7 @@
     "url": "http://www.dnd5eapi.co/api/equipment/215"
   },
   {
-    "index": 216,
+    "id": "216",
     "name": "Chariot",
     "equipment_category": "Mounts and Vehicles",
     "vehicle_category": "Tack, Harness, and Drawn Vehicles",
@@ -4243,7 +4243,7 @@
     "url": "http://www.dnd5eapi.co/api/equipment/216"
   },
   {
-    "index": 217,
+    "id": "217",
     "name": "Animal Feed (1 day)",
     "equipment_category": "Mounts and Vehicles",
     "vehicle_category": "Tack, Harness, and Drawn Vehicles",
@@ -4255,7 +4255,7 @@
     "url": "http://www.dnd5eapi.co/api/equipment/217"
   },
   {
-    "index": 218,
+    "id": "218",
     "name": "Saddle, Exotic",
     "equipment_category": "Mounts and Vehicles",
     "vehicle_category": "Tack, Harness, and Drawn Vehicles",
@@ -4270,7 +4270,7 @@
     "url": "http://www.dnd5eapi.co/api/equipment/218"
   },
   {
-    "index": 219,
+    "id": "219",
     "name": "Saddle, Military",
     "equipment_category": "Mounts and Vehicles",
     "vehicle_category": "Tack, Harness, and Drawn Vehicles",
@@ -4285,7 +4285,7 @@
     "url": "http://www.dnd5eapi.co/api/equipment/219"
   },
   {
-    "index": 220,
+    "id": "220",
     "name": "Saddle, Pack",
     "equipment_category": "Mounts and Vehicles",
     "vehicle_category": "Tack, Harness, and Drawn Vehicles",
@@ -4300,7 +4300,7 @@
     "url": "http://www.dnd5eapi.co/api/equipment/220"
   },
   {
-    "index": 221,
+    "id": "221",
     "name": "Riding",
     "equipment_category": "Mounts and Vehicles",
     "vehicle_category": "Tack, Harness, and Drawn Vehicles",
@@ -4312,7 +4312,7 @@
     "url": "http://www.dnd5eapi.co/api/equipment/221"
   },
   {
-    "index": 222,
+    "id": "222",
     "name": "Saddlebags",
     "equipment_category": "Mounts and Vehicles",
     "vehicle_category": "Tack, Harness, and Drawn Vehicles",
@@ -4324,7 +4324,7 @@
     "url": "http://www.dnd5eapi.co/api/equipment/222"
   },
   {
-    "index": 223,
+    "id": "223",
     "name": "Sled",
     "equipment_category": "Mounts and Vehicles",
     "vehicle_category": "Tack, Harness, and Drawn Vehicles",
@@ -4336,7 +4336,7 @@
     "url": "http://www.dnd5eapi.co/api/equipment/223"
   },
   {
-    "index": 224,
+    "id": "224",
     "name": "Stabling (1 day)",
     "equipment_category": "Mounts and Vehicles",
     "vehicle_category": "Tack, Harness, and Drawn Vehicles",
@@ -4348,7 +4348,7 @@
     "url": "http://www.dnd5eapi.co/api/equipment/224"
   },
   {
-    "index": 225,
+    "id": "225",
     "name": "Wagon",
     "equipment_category": "Mounts and Vehicles",
     "vehicle_category": "Tack, Harness, and Drawn Vehicles",
@@ -4360,7 +4360,7 @@
     "url": "http://www.dnd5eapi.co/api/equipment/225"
   },
   {
-    "index": 226,
+    "id": "226",
     "name": "Galley",
     "equipment_category": "Mounts and Vehicles",
     "vehicle_category": "Waterborne Vehicles",
@@ -4375,7 +4375,7 @@
     "url": "http://www.dnd5eapi.co/api/equipment/251"
   },
   {
-    "index": 227,
+    "id": "227",
     "name": "Keelboat",
     "equipment_category": "Mounts and Vehicles",
     "vehicle_category": "Waterborne Vehicles",
@@ -4393,7 +4393,7 @@
     "url": "http://www.dnd5eapi.co/api/equipment/252"
   },
   {
-    "index": 228,
+    "id": "228",
     "name": "Longship",
     "equipment_category": "Mounts and Vehicles",
     "vehicle_category": "Waterborne Vehicles",
@@ -4408,7 +4408,7 @@
     "url": "http://www.dnd5eapi.co/api/equipment/253"
   },
   {
-    "index": 229,
+    "id": "229",
     "name": "Rowboat",
     "equipment_category": "Mounts and Vehicles",
     "vehicle_category": "Waterborne Vehicles",
@@ -4426,7 +4426,7 @@
     "url": "http://www.dnd5eapi.co/api/equipment/254"
   },
   {
-    "index": 230,
+    "id": "230",
     "name": "Sailing ship",
     "equipment_category": "Mounts and Vehicles",
     "vehicle_category": "Waterborne Vehicles",
@@ -4441,7 +4441,7 @@
     "url": "http://www.dnd5eapi.co/api/equipment/255"
   },
   {
-    "index": 231,
+    "id": "231",
     "name": "Warship",
     "equipment_category": "Mounts and Vehicles",
     "vehicle_category": "Waterborne Vehicles",

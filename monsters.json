@@ -1,6 +1,6 @@
 [
   {
-    "index": 1,
+    "id": "1",
     "name": "Aboleth",
     "size": "Large",
     "type": "aberration",
@@ -22,27 +22,27 @@
     "proficiencies": [
       {
         "name": "Saving Throw: CON",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/101",
+        "ref": "proficiencies/101",
         "value": 6
       },
       {
         "name": "Saving Throw: INT",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/102",
+        "ref": "proficiencies/102",
         "value": 8
       },
       {
         "name": "Saving Throw: WIS",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/103",
+        "ref": "proficiencies/103",
         "value": 6
       },
       {
         "name": "Skill: History",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/110",
+        "ref": "proficiencies/110",
         "value": 12
       },
       {
         "name": "Skill: Perception",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/116",
+        "ref": "proficiencies/116",
         "value": 10
       }
     ],
@@ -162,7 +162,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/1"
   },
   {
-    "index": 2,
+    "id": "2",
     "name": "Acolyte",
     "size": "Medium",
     "type": "humanoid",
@@ -183,12 +183,12 @@
     "proficiencies": [
       {
         "name": "Skill: Medicine",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/114",
+        "ref": "proficiencies/114",
         "value": 4
       },
       {
         "name": "Skill: Religion",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/119",
+        "ref": "proficiencies/119",
         "value": 2
       }
     ],
@@ -227,7 +227,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/2"
   },
   {
-    "index": 3,
+    "id": "3",
     "name": "Adult Black Dragon",
     "size": "Huge",
     "type": "dragon",
@@ -250,32 +250,32 @@
     "proficiencies": [
       {
         "name": "Saving Throw: DEX",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/100",
+        "ref": "proficiencies/100",
         "value": 7
       },
       {
         "name": "Saving Throw: CON",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/101",
+        "ref": "proficiencies/101",
         "value": 10
       },
       {
         "name": "Saving Throw: WIS",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/103",
+        "ref": "proficiencies/103",
         "value": 6
       },
       {
         "name": "Saving Throw: CHA",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/104",
+        "ref": "proficiencies/104",
         "value": 8
       },
       {
         "name": "Skill: Perception",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/116",
+        "ref": "proficiencies/116",
         "value": 11
       },
       {
         "name": "Skill: Stealth",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/121",
+        "ref": "proficiencies/121",
         "value": 7
       }
     ],
@@ -427,7 +427,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/3"
   },
   {
-    "index": 4,
+    "id": "4",
     "name": "Adult Blue Dracolich",
     "size": "Huge",
     "type": "undead",
@@ -450,7 +450,7 @@
     "proficiencies": [
       {
         "name": "Skill: Perception",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/116",
+        "ref": "proficiencies/116",
         "value": 12
       }
     ],
@@ -626,7 +626,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/4"
   },
   {
-    "index": 5,
+    "id": "5",
     "name": "Adult Blue Dragon",
     "size": "Huge",
     "type": "dragon",
@@ -649,32 +649,32 @@
     "proficiencies": [
       {
         "name": "Saving Throw: DEX",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/100",
+        "ref": "proficiencies/100",
         "value": 5
       },
       {
         "name": "Saving Throw: CON",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/101",
+        "ref": "proficiencies/101",
         "value": 11
       },
       {
         "name": "Saving Throw: WIS",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/103",
+        "ref": "proficiencies/103",
         "value": 7
       },
       {
         "name": "Saving Throw: CHA",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/104",
+        "ref": "proficiencies/104",
         "value": 9
       },
       {
         "name": "Skill: Perception",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/116",
+        "ref": "proficiencies/116",
         "value": 12
       },
       {
         "name": "Skill: Stealth",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/121",
+        "ref": "proficiencies/121",
         "value": 5
       }
     ],
@@ -822,7 +822,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/5"
   },
   {
-    "index": 6,
+    "id": "6",
     "name": "Adult Brass Dragon",
     "size": "Huge",
     "type": "dragon",
@@ -845,42 +845,42 @@
     "proficiencies": [
       {
         "name": "Saving Throw: DEX",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/100",
+        "ref": "proficiencies/100",
         "value": 5
       },
       {
         "name": "Saving Throw: CON",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/101",
+        "ref": "proficiencies/101",
         "value": 10
       },
       {
         "name": "Saving Throw: WIS",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/103",
+        "ref": "proficiencies/103",
         "value": 6
       },
       {
         "name": "Saving Throw: CHA",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/104",
+        "ref": "proficiencies/104",
         "value": 8
       },
       {
         "name": "Skill: History",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/110",
+        "ref": "proficiencies/110",
         "value": 7
       },
       {
         "name": "Skill: Perception",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/116",
+        "ref": "proficiencies/116",
         "value": 11
       },
       {
         "name": "Skill: Persuasion",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/118",
+        "ref": "proficiencies/118",
         "value": 8
       },
       {
         "name": "Skill: Stealth",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/121",
+        "ref": "proficiencies/121",
         "value": 5
       }
     ],
@@ -1007,7 +1007,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/6"
   },
   {
-    "index": 7,
+    "id": "7",
     "name": "Adult Bronze Dragon",
     "size": "Huge",
     "type": "dragon",
@@ -1030,37 +1030,37 @@
     "proficiencies": [
       {
         "name": "Saving Throw: DEX",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/100",
+        "ref": "proficiencies/100",
         "value": 5
       },
       {
         "name": "Saving Throw: CON",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/101",
+        "ref": "proficiencies/101",
         "value": 11
       },
       {
         "name": "Saving Throw: WIS",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/103",
+        "ref": "proficiencies/103",
         "value": 7
       },
       {
         "name": "Saving Throw: CHA",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/104",
+        "ref": "proficiencies/104",
         "value": 9
       },
       {
         "name": "Skill: Insight",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/111",
+        "ref": "proficiencies/111",
         "value": 7
       },
       {
         "name": "Skill: Perception",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/116",
+        "ref": "proficiencies/116",
         "value": 12
       },
       {
         "name": "Skill: Stealth",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/121",
+        "ref": "proficiencies/121",
         "value": 5
       }
     ],
@@ -1223,7 +1223,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/7"
   },
   {
-    "index": 8,
+    "id": "8",
     "name": "Adult Copper Dragon",
     "size": "Huge",
     "type": "dragon",
@@ -1246,37 +1246,37 @@
     "proficiencies": [
       {
         "name": "Saving Throw: DEX",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/100",
+        "ref": "proficiencies/100",
         "value": 6
       },
       {
         "name": "Saving Throw: CON",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/101",
+        "ref": "proficiencies/101",
         "value": 10
       },
       {
         "name": "Saving Throw: WIS",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/103",
+        "ref": "proficiencies/103",
         "value": 7
       },
       {
         "name": "Saving Throw: CHA",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/104",
+        "ref": "proficiencies/104",
         "value": 8
       },
       {
         "name": "Skill: Deception",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/109",
+        "ref": "proficiencies/109",
         "value": 8
       },
       {
         "name": "Skill: Perception",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/116",
+        "ref": "proficiencies/116",
         "value": 12
       },
       {
         "name": "Skill: Stealth",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/121",
+        "ref": "proficiencies/121",
         "value": 6
       }
     ],
@@ -1435,7 +1435,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/8"
   },
   {
-    "index": 9,
+    "id": "9",
     "name": "Adult Gold Dragon",
     "size": "Huge",
     "type": "dragon",
@@ -1458,42 +1458,42 @@
     "proficiencies": [
       {
         "name": "Saving Throw: DEX",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/100",
+        "ref": "proficiencies/100",
         "value": 8
       },
       {
         "name": "Saving Throw: CON",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/101",
+        "ref": "proficiencies/101",
         "value": 13
       },
       {
         "name": "Saving Throw: WIS",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/103",
+        "ref": "proficiencies/103",
         "value": 8
       },
       {
         "name": "Saving Throw: CHA",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/104",
+        "ref": "proficiencies/104",
         "value": 13
       },
       {
         "name": "Skill: Insight",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/111",
+        "ref": "proficiencies/111",
         "value": 8
       },
       {
         "name": "Skill: Perception",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/116",
+        "ref": "proficiencies/116",
         "value": 14
       },
       {
         "name": "Skill: Persuasion",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/118",
+        "ref": "proficiencies/118",
         "value": 13
       },
       {
         "name": "Skill: Stealth",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/121",
+        "ref": "proficiencies/121",
         "value": 8
       }
     ],
@@ -1656,7 +1656,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/9"
   },
   {
-    "index": 10,
+    "id": "10",
     "name": "Adult Green Dragon",
     "size": "Huge",
     "type": "dragon",
@@ -1679,47 +1679,47 @@
     "proficiencies": [
       {
         "name": "Saving Throw: DEX",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/100",
+        "ref": "proficiencies/100",
         "value": 6
       },
       {
         "name": "Saving Throw: CON",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/101",
+        "ref": "proficiencies/101",
         "value": 10
       },
       {
         "name": "Saving Throw: WIS",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/103",
+        "ref": "proficiencies/103",
         "value": 7
       },
       {
         "name": "Saving Throw: CHA",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/104",
+        "ref": "proficiencies/104",
         "value": 8
       },
       {
         "name": "Skill: Deception",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/109",
+        "ref": "proficiencies/109",
         "value": 8
       },
       {
         "name": "Skill: Insight",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/111",
+        "ref": "proficiencies/111",
         "value": 7
       },
       {
         "name": "Skill: Perception",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/116",
+        "ref": "proficiencies/116",
         "value": 12
       },
       {
         "name": "Skill: Persuasion",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/118",
+        "ref": "proficiencies/118",
         "value": 8
       },
       {
         "name": "Skill: Stealth",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/121",
+        "ref": "proficiencies/121",
         "value": 6
       }
     ],
@@ -1876,7 +1876,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/10"
   },
   {
-    "index": 11,
+    "id": "11",
     "name": "Adult Red Dragon",
     "size": "Huge",
     "type": "dragon",
@@ -1899,32 +1899,32 @@
     "proficiencies": [
       {
         "name": "Saving Throw: DEX",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/100",
+        "ref": "proficiencies/100",
         "value": 6
       },
       {
         "name": "Saving Throw: CON",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/101",
+        "ref": "proficiencies/101",
         "value": 13
       },
       {
         "name": "Saving Throw: WIS",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/103",
+        "ref": "proficiencies/103",
         "value": 7
       },
       {
         "name": "Saving Throw: CHA",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/104",
+        "ref": "proficiencies/104",
         "value": 11
       },
       {
         "name": "Skill: Perception",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/116",
+        "ref": "proficiencies/116",
         "value": 13
       },
       {
         "name": "Skill: Stealth",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/121",
+        "ref": "proficiencies/121",
         "value": 6
       }
     ],
@@ -2121,7 +2121,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/11"
   },
   {
-    "index": 12,
+    "id": "12",
     "name": "Adult Silver Dragon",
     "size": "Huge",
     "type": "dragon",
@@ -2143,42 +2143,42 @@
     "proficiencies": [
       {
         "name": "Saving Throw: DEX",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/100",
+        "ref": "proficiencies/100",
         "value": 5
       },
       {
         "name": "Saving Throw: CON",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/101",
+        "ref": "proficiencies/101",
         "value": 12
       },
       {
         "name": "Saving Throw: WIS",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/103",
+        "ref": "proficiencies/103",
         "value": 6
       },
       {
         "name": "Saving Throw: CHA",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/104",
+        "ref": "proficiencies/104",
         "value": 10
       },
       {
         "name": "Skill: Arcana",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/107",
+        "ref": "proficiencies/107",
         "value": 8
       },
       {
         "name": "Skill: History",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/110",
+        "ref": "proficiencies/110",
         "value": 8
       },
       {
         "name": "Skill: Perception",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/116",
+        "ref": "proficiencies/116",
         "value": 11
       },
       {
         "name": "Skill: Stealth",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/121",
+        "ref": "proficiencies/121",
         "value": 5
       }
     ],
@@ -2337,7 +2337,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/12"
   },
   {
-    "index": 13,
+    "id": "13",
     "name": "Adult White Dragon",
     "size": "Huge",
     "type": "dragon",
@@ -2361,32 +2361,32 @@
     "proficiencies": [
       {
         "name": "Saving Throw: DEX",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/100",
+        "ref": "proficiencies/100",
         "value": 5
       },
       {
         "name": "Saving Throw: CON",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/101",
+        "ref": "proficiencies/101",
         "value": 11
       },
       {
         "name": "Saving Throw: WIS",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/103",
+        "ref": "proficiencies/103",
         "value": 6
       },
       {
         "name": "Saving Throw: CHA",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/104",
+        "ref": "proficiencies/104",
         "value": 6
       },
       {
         "name": "Skill: Perception",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/116",
+        "ref": "proficiencies/116",
         "value": 11
       },
       {
         "name": "Skill: Stealth",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/121",
+        "ref": "proficiencies/121",
         "value": 5
       }
     ],
@@ -2538,7 +2538,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/13"
   },
   {
-    "index": 14,
+    "id": "14",
     "name": "Air Elemental",
     "size": "Large",
     "type": "elemental",
@@ -2641,7 +2641,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/14"
   },
   {
-    "index": 15,
+    "id": "15",
     "name": "Ancient Black Dragon",
     "size": "Gargantuan",
     "type": "dragon",
@@ -2664,32 +2664,32 @@
     "proficiencies": [
       {
         "name": "Saving Throw: DEX",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/100",
+        "ref": "proficiencies/100",
         "value": 9
       },
       {
         "name": "Saving Throw: CON",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/101",
+        "ref": "proficiencies/101",
         "value": 14
       },
       {
         "name": "Saving Throw: WIS",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/103",
+        "ref": "proficiencies/103",
         "value": 9
       },
       {
         "name": "Saving Throw: CHA",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/104",
+        "ref": "proficiencies/104",
         "value": 11
       },
       {
         "name": "Skill: Perception",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/116",
+        "ref": "proficiencies/116",
         "value": 16
       },
       {
         "name": "Skill: Stealth",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/121",
+        "ref": "proficiencies/121",
         "value": 9
       }
     ],
@@ -2841,7 +2841,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/15"
   },
   {
-    "index": 16,
+    "id": "16",
     "name": "Ancient Blue Dragon",
     "size": "Gargantuan",
     "type": "dragon",
@@ -2864,32 +2864,32 @@
     "proficiencies": [
       {
         "name": "Saving Throw: DEX",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/100",
+        "ref": "proficiencies/100",
         "value": 7
       },
       {
         "name": "Saving Throw: CON",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/101",
+        "ref": "proficiencies/101",
         "value": 15
       },
       {
         "name": "Saving Throw: WIS",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/103",
+        "ref": "proficiencies/103",
         "value": 10
       },
       {
         "name": "Saving Throw: CHA",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/104",
+        "ref": "proficiencies/104",
         "value": 12
       },
       {
         "name": "Skill: Perception",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/116",
+        "ref": "proficiencies/116",
         "value": 17
       },
       {
         "name": "Skill: Stealth",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/121",
+        "ref": "proficiencies/121",
         "value": 7
       }
     ],
@@ -3022,7 +3022,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/16"
   },
   {
-    "index": 17,
+    "id": "17",
     "name": "Ancient Brass Dragon",
     "size": "Gargantuan",
     "type": "dragon",
@@ -3045,42 +3045,42 @@
     "proficiencies": [
       {
         "name": "Saving Throw: DEX",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/100",
+        "ref": "proficiencies/100",
         "value": 6
       },
       {
         "name": "Saving Throw: CON",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/101",
+        "ref": "proficiencies/101",
         "value": 13
       },
       {
         "name": "Saving Throw: WIS",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/103",
+        "ref": "proficiencies/103",
         "value": 8
       },
       {
         "name": "Saving Throw: CHA",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/104",
+        "ref": "proficiencies/104",
         "value": 10
       },
       {
         "name": "Skill: History",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/110",
+        "ref": "proficiencies/110",
         "value": 9
       },
       {
         "name": "Skill: Perception",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/116",
+        "ref": "proficiencies/116",
         "value": 14
       },
       {
         "name": "Skill: Persuasion",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/118",
+        "ref": "proficiencies/118",
         "value": 10
       },
       {
         "name": "Skill: Stealth",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/121",
+        "ref": "proficiencies/121",
         "value": 6
       }
     ],
@@ -3243,7 +3243,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/17"
   },
   {
-    "index": 18,
+    "id": "18",
     "name": "Ancient Bronze Dragon",
     "size": "Gargantuan",
     "type": "dragon",
@@ -3266,37 +3266,37 @@
     "proficiencies": [
       {
         "name": "Saving Throw: DEX",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/100",
+        "ref": "proficiencies/100",
         "value": 7
       },
       {
         "name": "Saving Throw: CON",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/101",
+        "ref": "proficiencies/101",
         "value": 15
       },
       {
         "name": "Saving Throw: WIS",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/103",
+        "ref": "proficiencies/103",
         "value": 10
       },
       {
         "name": "Saving Throw: CHA",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/104",
+        "ref": "proficiencies/104",
         "value": 12
       },
       {
         "name": "Skill: Insight",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/111",
+        "ref": "proficiencies/111",
         "value": 10
       },
       {
         "name": "Skill: Perception",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/116",
+        "ref": "proficiencies/116",
         "value": 17
       },
       {
         "name": "Skill: Stealth",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/121",
+        "ref": "proficiencies/121",
         "value": 7
       }
     ],
@@ -3463,7 +3463,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/18"
   },
   {
-    "index": 19,
+    "id": "19",
     "name": "Ancient Copper Dragon",
     "size": "Gargantuan",
     "type": "dragon",
@@ -3486,37 +3486,37 @@
     "proficiencies": [
       {
         "name": "Saving Throw: DEX",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/100",
+        "ref": "proficiencies/100",
         "value": 8
       },
       {
         "name": "Saving Throw: CON",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/101",
+        "ref": "proficiencies/101",
         "value": 14
       },
       {
         "name": "Saving Throw: WIS",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/103",
+        "ref": "proficiencies/103",
         "value": 10
       },
       {
         "name": "Saving Throw: CHA",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/104",
+        "ref": "proficiencies/104",
         "value": 11
       },
       {
         "name": "Skill: Deception",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/109",
+        "ref": "proficiencies/109",
         "value": 11
       },
       {
         "name": "Skill: Perception",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/116",
+        "ref": "proficiencies/116",
         "value": 17
       },
       {
         "name": "Skill: Stealth",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/121",
+        "ref": "proficiencies/121",
         "value": 8
       }
     ],
@@ -3679,7 +3679,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/19"
   },
   {
-    "index": 20,
+    "id": "20",
     "name": "Ancient Gold Dragon",
     "size": "Gargantuan",
     "type": "dragon",
@@ -3702,42 +3702,42 @@
     "proficiencies": [
       {
         "name": "Saving Throw: DEX",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/100",
+        "ref": "proficiencies/100",
         "value": 9
       },
       {
         "name": "Saving Throw: CON",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/101",
+        "ref": "proficiencies/101",
         "value": 16
       },
       {
         "name": "Saving Throw: WIS",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/103",
+        "ref": "proficiencies/103",
         "value": 10
       },
       {
         "name": "Saving Throw: CHA",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/104",
+        "ref": "proficiencies/104",
         "value": 16
       },
       {
         "name": "Skill: Insight",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/111",
+        "ref": "proficiencies/111",
         "value": 10
       },
       {
         "name": "Skill: Perception",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/116",
+        "ref": "proficiencies/116",
         "value": 17
       },
       {
         "name": "Skill: Persuasion",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/118",
+        "ref": "proficiencies/118",
         "value": 16
       },
       {
         "name": "Skill: Stealth",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/121",
+        "ref": "proficiencies/121",
         "value": 9
       }
     ],
@@ -3904,7 +3904,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/20"
   },
   {
-    "index": 21,
+    "id": "21",
     "name": "Ancient Green Dragon",
     "size": "Gargantuan",
     "type": "dragon",
@@ -3927,47 +3927,47 @@
     "proficiencies": [
       {
         "name": "Saving Throw: DEX",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/100",
+        "ref": "proficiencies/100",
         "value": 8
       },
       {
         "name": "Saving Throw: CON",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/101",
+        "ref": "proficiencies/101",
         "value": 14
       },
       {
         "name": "Saving Throw: WIS",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/103",
+        "ref": "proficiencies/103",
         "value": 10
       },
       {
         "name": "Saving Throw: CHA",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/104",
+        "ref": "proficiencies/104",
         "value": 11
       },
       {
         "name": "Skill: Deception",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/109",
+        "ref": "proficiencies/109",
         "value": 11
       },
       {
         "name": "Skill: Insight",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/111",
+        "ref": "proficiencies/111",
         "value": 10
       },
       {
         "name": "Skill: Perception",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/116",
+        "ref": "proficiencies/116",
         "value": 17
       },
       {
         "name": "Skill: Persuasion",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/118",
+        "ref": "proficiencies/118",
         "value": 11
       },
       {
         "name": "Skill: Stealth",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/121",
+        "ref": "proficiencies/121",
         "value": 8
       }
     ],
@@ -4127,7 +4127,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/21"
   },
   {
-    "index": 22,
+    "id": "22",
     "name": "Ancient Red Dragon",
     "size": "Gargantuan",
     "type": "dragon",
@@ -4150,32 +4150,32 @@
     "proficiencies": [
       {
         "name": "Saving Throw: DEX",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/100",
+        "ref": "proficiencies/100",
         "value": 7
       },
       {
         "name": "Saving Throw: CON",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/101",
+        "ref": "proficiencies/101",
         "value": 16
       },
       {
         "name": "Saving Throw: WIS",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/103",
+        "ref": "proficiencies/103",
         "value": 9
       },
       {
         "name": "Saving Throw: CHA",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/104",
+        "ref": "proficiencies/104",
         "value": 13
       },
       {
         "name": "Skill: Perception",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/116",
+        "ref": "proficiencies/116",
         "value": 16
       },
       {
         "name": "Skill: Stealth",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/121",
+        "ref": "proficiencies/121",
         "value": 7
       }
     ],
@@ -4326,7 +4326,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/22"
   },
   {
-    "index": 23,
+    "id": "23",
     "name": "Ancient Silver Dragon",
     "size": "Gargantuan",
     "type": "dragon",
@@ -4348,42 +4348,42 @@
     "proficiencies": [
       {
         "name": "Saving Throw: DEX",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/100",
+        "ref": "proficiencies/100",
         "value": 7
       },
       {
         "name": "Saving Throw: CON",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/101",
+        "ref": "proficiencies/101",
         "value": 16
       },
       {
         "name": "Saving Throw: WIS",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/103",
+        "ref": "proficiencies/103",
         "value": 9
       },
       {
         "name": "Saving Throw: CHA",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/104",
+        "ref": "proficiencies/104",
         "value": 13
       },
       {
         "name": "Skill: Arcana",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/107",
+        "ref": "proficiencies/107",
         "value": 11
       },
       {
         "name": "Skill: History",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/110",
+        "ref": "proficiencies/110",
         "value": 11
       },
       {
         "name": "Skill: Perception",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/116",
+        "ref": "proficiencies/116",
         "value": 16
       },
       {
         "name": "Skill: Stealth",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/121",
+        "ref": "proficiencies/121",
         "value": 7
       }
     ],
@@ -4546,7 +4546,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/23"
   },
   {
-    "index": 24,
+    "id": "24",
     "name": "Ancient White Dragon",
     "size": "Gargantuan",
     "type": "dragon",
@@ -4570,32 +4570,32 @@
     "proficiencies": [
       {
         "name": "Saving Throw: DEX",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/100",
+        "ref": "proficiencies/100",
         "value": 6
       },
       {
         "name": "Saving Throw: CON",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/101",
+        "ref": "proficiencies/101",
         "value": 14
       },
       {
         "name": "Saving Throw: WIS",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/103",
+        "ref": "proficiencies/103",
         "value": 7
       },
       {
         "name": "Saving Throw: CHA",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/104",
+        "ref": "proficiencies/104",
         "value": 8
       },
       {
         "name": "Skill: Perception",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/116",
+        "ref": "proficiencies/116",
         "value": 13
       },
       {
         "name": "Skill: Stealth",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/121",
+        "ref": "proficiencies/121",
         "value": 6
       }
     ],
@@ -4750,7 +4750,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/24"
   },
   {
-    "index": 25,
+    "id": "25",
     "name": "Androsphinx",
     "size": "Large",
     "type": "monstrosity",
@@ -4772,37 +4772,37 @@
     "proficiencies": [
       {
         "name": "Saving Throw: DEX",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/100",
+        "ref": "proficiencies/100",
         "value": 6
       },
       {
         "name": "Saving Throw: CON",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/101",
+        "ref": "proficiencies/101",
         "value": 11
       },
       {
         "name": "Saving Throw: INT",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/102",
+        "ref": "proficiencies/102",
         "value": 9
       },
       {
         "name": "Saving Throw: WIS",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/103",
+        "ref": "proficiencies/103",
         "value": 10
       },
       {
         "name": "Skill: Arcana",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/107",
+        "ref": "proficiencies/107",
         "value": 9
       },
       {
         "name": "Skill: Perception",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/116",
+        "ref": "proficiencies/116",
         "value": 10
       },
       {
         "name": "Skill: Religion",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/119",
+        "ref": "proficiencies/119",
         "value": 15
       }
     ],
@@ -4929,7 +4929,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/25"
   },
   {
-    "index": 26,
+    "id": "26",
     "name": "Animated Armor",
     "size": "Medium",
     "type": "construct",
@@ -5028,7 +5028,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/26"
   },
   {
-    "index": 27,
+    "id": "27",
     "name": "Ankheg",
     "size": "Large",
     "type": "monstrosity",
@@ -5109,7 +5109,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/27"
   },
   {
-    "index": 28,
+    "id": "28",
     "name": "Ape",
     "size": "Medium",
     "type": "beast",
@@ -5131,12 +5131,12 @@
     "proficiencies": [
       {
         "name": "Skill: Athletics",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/108",
+        "ref": "proficiencies/108",
         "value": 5
       },
       {
         "name": "Skill: Perception",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/116",
+        "ref": "proficiencies/116",
         "value": 3
       }
     ],
@@ -5188,7 +5188,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/28"
   },
   {
-    "index": 29,
+    "id": "29",
     "name": "Archmage",
     "size": "Medium",
     "type": "humanoid",
@@ -5209,22 +5209,22 @@
     "proficiencies": [
       {
         "name": "Saving Throw: INT",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/102",
+        "ref": "proficiencies/102",
         "value": 9
       },
       {
         "name": "Saving Throw: WIS",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/103",
+        "ref": "proficiencies/103",
         "value": 6
       },
       {
         "name": "Skill: Arcana",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/107",
+        "ref": "proficiencies/107",
         "value": 13
       },
       {
         "name": "Skill: History",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/110",
+        "ref": "proficiencies/110",
         "value": 13
       }
     ],
@@ -5270,7 +5270,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/29"
   },
   {
-    "index": 30,
+    "id": "30",
     "name": "Assassin",
     "size": "Medium",
     "type": "humanoid",
@@ -5291,32 +5291,32 @@
     "proficiencies": [
       {
         "name": "Saving Throw: DEX",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/100",
+        "ref": "proficiencies/100",
         "value": 6
       },
       {
         "name": "Saving Throw: INT",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/102",
+        "ref": "proficiencies/102",
         "value": 4
       },
       {
         "name": "Skill: Acrobatics",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/105",
+        "ref": "proficiencies/105",
         "value": 6
       },
       {
         "name": "Skill: Deception",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/109",
+        "ref": "proficiencies/109",
         "value": 3
       },
       {
         "name": "Skill: Perception",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/116",
+        "ref": "proficiencies/116",
         "value": 3
       },
       {
         "name": "Skill: Stealth",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/121",
+        "ref": "proficiencies/121",
         "value": 9
       }
     ],
@@ -5416,7 +5416,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/30"
   },
   {
-    "index": 31,
+    "id": "31",
     "name": "Awakened Shrub",
     "size": "Small",
     "type": "plant",
@@ -5474,7 +5474,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/31"
   },
   {
-    "index": 32,
+    "id": "32",
     "name": "Awakened Tree",
     "size": "Huge",
     "type": "plant",
@@ -5533,7 +5533,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/32"
   },
   {
-    "index": 33,
+    "id": "33",
     "name": "Axe Beak",
     "size": "Large",
     "type": "beast",
@@ -5581,7 +5581,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/33"
   },
   {
-    "index": 34,
+    "id": "34",
     "name": "Azer",
     "size": "Medium",
     "type": "elemental",
@@ -5602,7 +5602,7 @@
     "proficiencies": [
       {
         "name": "Saving Throw: CON",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/101",
+        "ref": "proficiencies/101",
         "value": 4
       }
     ],
@@ -5685,7 +5685,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/34"
   },
   {
-    "index": 35,
+    "id": "35",
     "name": "Baboon",
     "size": "Small",
     "type": "beast",
@@ -5740,7 +5740,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/35"
   },
   {
-    "index": 36,
+    "id": "36",
     "name": "Badger",
     "size": "Tiny",
     "type": "beast",
@@ -5796,7 +5796,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/36"
   },
   {
-    "index": 37,
+    "id": "37",
     "name": "Balor",
     "size": "Huge",
     "type": "fiend",
@@ -5818,22 +5818,22 @@
     "proficiencies": [
       {
         "name": "Saving Throw: STR",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/99",
+        "ref": "proficiencies/99",
         "value": 14
       },
       {
         "name": "Saving Throw: CON",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/101",
+        "ref": "proficiencies/101",
         "value": 12
       },
       {
         "name": "Saving Throw: WIS",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/103",
+        "ref": "proficiencies/103",
         "value": 9
       },
       {
         "name": "Saving Throw: CHA",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/104",
+        "ref": "proficiencies/104",
         "value": 12
       }
     ],
@@ -5968,7 +5968,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/37"
   },
   {
-    "index": 38,
+    "id": "38",
     "name": "Bandit",
     "size": "Medium",
     "type": "humanoid",
@@ -6031,7 +6031,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/38"
   },
   {
-    "index": 39,
+    "id": "39",
     "name": "Bandit Captain",
     "size": "Medium",
     "type": "humanoid",
@@ -6052,27 +6052,27 @@
     "proficiencies": [
       {
         "name": "Saving Throw: STR",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/99",
+        "ref": "proficiencies/99",
         "value": 4
       },
       {
         "name": "Saving Throw: DEX",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/100",
+        "ref": "proficiencies/100",
         "value": 5
       },
       {
         "name": "Saving Throw: WIS",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/103",
+        "ref": "proficiencies/103",
         "value": 2
       },
       {
         "name": "Skill: Athletics",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/108",
+        "ref": "proficiencies/108",
         "value": 4
       },
       {
         "name": "Skill: Deception",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/109",
+        "ref": "proficiencies/109",
         "value": 4
       }
     ],
@@ -6130,7 +6130,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/39"
   },
   {
-    "index": 40,
+    "id": "40",
     "name": "Barbed Devil",
     "size": "Medium",
     "type": "fiend",
@@ -6151,37 +6151,37 @@
     "proficiencies": [
       {
         "name": "Saving Throw: STR",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/99",
+        "ref": "proficiencies/99",
         "value": 6
       },
       {
         "name": "Saving Throw: CON",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/101",
+        "ref": "proficiencies/101",
         "value": 7
       },
       {
         "name": "Saving Throw: WIS",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/103",
+        "ref": "proficiencies/103",
         "value": 5
       },
       {
         "name": "Saving Throw: CHA",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/104",
+        "ref": "proficiencies/104",
         "value": 5
       },
       {
         "name": "Skill: Deception",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/109",
+        "ref": "proficiencies/109",
         "value": 5
       },
       {
         "name": "Skill: Insight",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/111",
+        "ref": "proficiencies/111",
         "value": 5
       },
       {
         "name": "Skill: Perception",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/116",
+        "ref": "proficiencies/116",
         "value": 8
       }
     ],
@@ -6285,7 +6285,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/40"
   },
   {
-    "index": 41,
+    "id": "41",
     "name": "Basilisk",
     "size": "Medium",
     "type": "monstrosity",
@@ -6356,7 +6356,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/41"
   },
   {
-    "index": 42,
+    "id": "42",
     "name": "Bat",
     "size": "Tiny",
     "type": "beast",
@@ -6416,7 +6416,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/42"
   },
   {
-    "index": 43,
+    "id": "43",
     "name": "Bearded Devil",
     "size": "Medium",
     "type": "fiend",
@@ -6437,17 +6437,17 @@
     "proficiencies": [
       {
         "name": "Saving Throw: STR",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/99",
+        "ref": "proficiencies/99",
         "value": 5
       },
       {
         "name": "Saving Throw: CON",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/101",
+        "ref": "proficiencies/101",
         "value": 4
       },
       {
         "name": "Saving Throw: WIS",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/103",
+        "ref": "proficiencies/103",
         "value": 2
       }
     ],
@@ -6525,7 +6525,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/43"
   },
   {
-    "index": 44,
+    "id": "44",
     "name": "Behir",
     "size": "Huge",
     "type": "monstrosity",
@@ -6547,12 +6547,12 @@
     "proficiencies": [
       {
         "name": "Skill: Perception",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/116",
+        "ref": "proficiencies/116",
         "value": 6
       },
       {
         "name": "Skill: Stealth",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/121",
+        "ref": "proficiencies/121",
         "value": 7
       }
     ],
@@ -6652,7 +6652,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/44"
   },
   {
-    "index": 45,
+    "id": "45",
     "name": "Berserker",
     "size": "Medium",
     "type": "humanoid",
@@ -6706,7 +6706,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/45"
   },
   {
-    "index": 46,
+    "id": "46",
     "name": "Black Bear",
     "size": "Medium",
     "type": "beast",
@@ -6780,7 +6780,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/46"
   },
   {
-    "index": 47,
+    "id": "47",
     "name": "Black Dragon Wyrmling",
     "size": "Medium",
     "type": "dragon",
@@ -6803,32 +6803,32 @@
     "proficiencies": [
       {
         "name": "Saving Throw: DEX",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/100",
+        "ref": "proficiencies/100",
         "value": 4
       },
       {
         "name": "Saving Throw: CON",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/101",
+        "ref": "proficiencies/101",
         "value": 3
       },
       {
         "name": "Saving Throw: WIS",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/103",
+        "ref": "proficiencies/103",
         "value": 2
       },
       {
         "name": "Saving Throw: CHA",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/104",
+        "ref": "proficiencies/104",
         "value": 3
       },
       {
         "name": "Skill: Perception",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/116",
+        "ref": "proficiencies/116",
         "value": 4
       },
       {
         "name": "Skill: Stealth",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/121",
+        "ref": "proficiencies/121",
         "value": 4
       }
     ],
@@ -6901,7 +6901,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/47"
   },
   {
-    "index": 48,
+    "id": "48",
     "name": "Black Pudding",
     "size": "Large",
     "type": "ooze",
@@ -7019,7 +7019,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/48"
   },
   {
-    "index": 49,
+    "id": "49",
     "name": "Blink Dog",
     "size": "Medium",
     "type": "fey",
@@ -7040,12 +7040,12 @@
     "proficiencies": [
       {
         "name": "Skill: Perception",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/116",
+        "ref": "proficiencies/116",
         "value": 3
       },
       {
         "name": "Skill: Stealth",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/121",
+        "ref": "proficiencies/121",
         "value": 5
       }
     ],
@@ -7088,7 +7088,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/49"
   },
   {
-    "index": 50,
+    "id": "50",
     "name": "Blood Hawk",
     "size": "Small",
     "type": "beast",
@@ -7110,7 +7110,7 @@
     "proficiencies": [
       {
         "name": "Skill: Perception",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/116",
+        "ref": "proficiencies/116",
         "value": 4
       }
     ],
@@ -7153,7 +7153,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/50"
   },
   {
-    "index": 51,
+    "id": "51",
     "name": "Blue Dragon Wyrmling",
     "size": "Medium",
     "type": "dragon",
@@ -7176,32 +7176,32 @@
     "proficiencies": [
       {
         "name": "Saving Throw: DEX",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/100",
+        "ref": "proficiencies/100",
         "value": 2
       },
       {
         "name": "Saving Throw: CON",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/101",
+        "ref": "proficiencies/101",
         "value": 4
       },
       {
         "name": "Saving Throw: WIS",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/103",
+        "ref": "proficiencies/103",
         "value": 2
       },
       {
         "name": "Saving Throw: CHA",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/104",
+        "ref": "proficiencies/104",
         "value": 4
       },
       {
         "name": "Skill: Perception",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/116",
+        "ref": "proficiencies/116",
         "value": 4
       },
       {
         "name": "Skill: Stealth",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/121",
+        "ref": "proficiencies/121",
         "value": 2
       }
     ],
@@ -7268,7 +7268,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/51"
   },
   {
-    "index": 52,
+    "id": "52",
     "name": "Boar",
     "size": "Medium",
     "type": "beast",
@@ -7336,7 +7336,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/52"
   },
   {
-    "index": 53,
+    "id": "53",
     "name": "Bone Devil",
     "size": "Large",
     "type": "fiend",
@@ -7358,27 +7358,27 @@
     "proficiencies": [
       {
         "name": "Saving Throw: INT",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/102",
+        "ref": "proficiencies/102",
         "value": 5
       },
       {
         "name": "Saving Throw: WIS",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/103",
+        "ref": "proficiencies/103",
         "value": 6
       },
       {
         "name": "Saving Throw: CHA",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/104",
+        "ref": "proficiencies/104",
         "value": 7
       },
       {
         "name": "Skill: Deception",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/109",
+        "ref": "proficiencies/109",
         "value": 7
       },
       {
         "name": "Skill: Insight",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/111",
+        "ref": "proficiencies/111",
         "value": 6
       }
     ],
@@ -7460,7 +7460,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/53"
   },
   {
-    "index": 54,
+    "id": "54",
     "name": "Brass Dragon Wyrmling",
     "size": "Medium",
     "type": "dragon",
@@ -7483,32 +7483,32 @@
     "proficiencies": [
       {
         "name": "Saving Throw: DEX",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/100",
+        "ref": "proficiencies/100",
         "value": 2
       },
       {
         "name": "Saving Throw: CON",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/101",
+        "ref": "proficiencies/101",
         "value": 3
       },
       {
         "name": "Saving Throw: WIS",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/103",
+        "ref": "proficiencies/103",
         "value": 2
       },
       {
         "name": "Saving Throw: CHA",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/104",
+        "ref": "proficiencies/104",
         "value": 3
       },
       {
         "name": "Skill: Perception",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/116",
+        "ref": "proficiencies/116",
         "value": 4
       },
       {
         "name": "Skill: Stealth",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/121",
+        "ref": "proficiencies/121",
         "value": 2
       }
     ],
@@ -7583,7 +7583,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/54"
   },
   {
-    "index": 55,
+    "id": "55",
     "name": "Bronze Dragon Wyrmling",
     "size": "Medium",
     "type": "dragon",
@@ -7606,32 +7606,32 @@
     "proficiencies": [
       {
         "name": "Saving Throw: DEX",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/100",
+        "ref": "proficiencies/100",
         "value": 2
       },
       {
         "name": "Saving Throw: CON",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/101",
+        "ref": "proficiencies/101",
         "value": 4
       },
       {
         "name": "Saving Throw: WIS",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/103",
+        "ref": "proficiencies/103",
         "value": 2
       },
       {
         "name": "Saving Throw: CHA",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/104",
+        "ref": "proficiencies/104",
         "value": 4
       },
       {
         "name": "Skill: Perception",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/116",
+        "ref": "proficiencies/116",
         "value": 4
       },
       {
         "name": "Skill: Stealth",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/121",
+        "ref": "proficiencies/121",
         "value": 2
       }
     ],
@@ -7712,7 +7712,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/55"
   },
   {
-    "index": 56,
+    "id": "56",
     "name": "Brown Bear",
     "size": "Large",
     "type": "beast",
@@ -7734,7 +7734,7 @@
     "proficiencies": [
       {
         "name": "Skill: Perception",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/116",
+        "ref": "proficiencies/116",
         "value": 3
       }
     ],
@@ -7792,7 +7792,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/56"
   },
   {
-    "index": 57,
+    "id": "57",
     "name": "Bugbear",
     "size": "Medium",
     "type": "humanoid",
@@ -7813,12 +7813,12 @@
     "proficiencies": [
       {
         "name": "Skill: Stealth",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/121",
+        "ref": "proficiencies/121",
         "value": 6
       },
       {
         "name": "Skill: Survival",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/122",
+        "ref": "proficiencies/122",
         "value": 2
       }
     ],
@@ -7877,7 +7877,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/57"
   },
   {
-    "index": 58,
+    "id": "58",
     "name": "Bulette",
     "size": "Large",
     "type": "monstrosity",
@@ -7899,7 +7899,7 @@
     "proficiencies": [
       {
         "name": "Skill: Perception",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/116",
+        "ref": "proficiencies/116",
         "value": 6
       }
     ],
@@ -7944,7 +7944,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/58"
   },
   {
-    "index": 59,
+    "id": "59",
     "name": "Camel",
     "size": "Large",
     "type": "beast",
@@ -7992,7 +7992,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/59"
   },
   {
-    "index": 60,
+    "id": "60",
     "name": "Carrion Crawler",
     "size": "Large",
     "type": "monstrosity",
@@ -8014,7 +8014,7 @@
     "proficiencies": [
       {
         "name": "Skill: Perception",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/116",
+        "ref": "proficiencies/116",
         "value": 3
       }
     ],
@@ -8077,7 +8077,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/60"
   },
   {
-    "index": 61,
+    "id": "61",
     "name": "Cat",
     "size": "Tiny",
     "type": "beast",
@@ -8099,12 +8099,12 @@
     "proficiencies": [
       {
         "name": "Skill: Perception",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/116",
+        "ref": "proficiencies/116",
         "value": 3
       },
       {
         "name": "Skill: Stealth",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/121",
+        "ref": "proficiencies/121",
         "value": 4
       }
     ],
@@ -8143,7 +8143,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/61"
   },
   {
-    "index": 62,
+    "id": "62",
     "name": "Cave Bear",
     "size": "Large",
     "type": "beast",
@@ -8165,7 +8165,7 @@
     "proficiencies": [
       {
         "name": "Skill: Perception",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/116",
+        "ref": "proficiencies/116",
         "value": 3
       }
     ],
@@ -8224,7 +8224,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/62"
   },
   {
-    "index": 63,
+    "id": "63",
     "name": "Centaur",
     "size": "Large",
     "type": "monstrosity",
@@ -8245,17 +8245,17 @@
     "proficiencies": [
       {
         "name": "Skill: Athletics",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/108",
+        "ref": "proficiencies/108",
         "value": 6
       },
       {
         "name": "Skill: Perception",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/116",
+        "ref": "proficiencies/116",
         "value": 3
       },
       {
         "name": "Skill: Survival",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/122",
+        "ref": "proficiencies/122",
         "value": 3
       }
     ],
@@ -8338,7 +8338,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/63"
   },
   {
-    "index": 64,
+    "id": "64",
     "name": "Chain Devil",
     "size": "Medium",
     "type": "fiend",
@@ -8359,17 +8359,17 @@
     "proficiencies": [
       {
         "name": "Saving Throw: CON",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/101",
+        "ref": "proficiencies/101",
         "value": 7
       },
       {
         "name": "Saving Throw: WIS",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/103",
+        "ref": "proficiencies/103",
         "value": 4
       },
       {
         "name": "Saving Throw: CHA",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/104",
+        "ref": "proficiencies/104",
         "value": 5
       }
     ],
@@ -8446,7 +8446,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/64"
   },
   {
-    "index": 65,
+    "id": "65",
     "name": "Chimera",
     "size": "Large",
     "type": "monstrosity",
@@ -8468,7 +8468,7 @@
     "proficiencies": [
       {
         "name": "Skill: Perception",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/116",
+        "ref": "proficiencies/116",
         "value": 8
       }
     ],
@@ -8558,7 +8558,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/65"
   },
   {
-    "index": 66,
+    "id": "66",
     "name": "Chuul",
     "size": "Large",
     "type": "aberration",
@@ -8580,7 +8580,7 @@
     "proficiencies": [
       {
         "name": "Skill: Perception",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/116",
+        "ref": "proficiencies/116",
         "value": 4
       }
     ],
@@ -8647,7 +8647,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/66"
   },
   {
-    "index": 67,
+    "id": "67",
     "name": "Clay Golem",
     "size": "Large",
     "type": "construct",
@@ -8756,7 +8756,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/67"
   },
   {
-    "index": 68,
+    "id": "68",
     "name": "Cloaker",
     "size": "Large",
     "type": "aberration",
@@ -8778,7 +8778,7 @@
     "proficiencies": [
       {
         "name": "Skill: Stealth",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/121",
+        "ref": "proficiencies/121",
         "value": 5
       }
     ],
@@ -8861,7 +8861,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/68"
   },
   {
-    "index": 69,
+    "id": "69",
     "name": "Cloud Giant",
     "size": "Huge",
     "type": "giant",
@@ -8882,27 +8882,27 @@
     "proficiencies": [
       {
         "name": "Saving Throw: CON",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/101",
+        "ref": "proficiencies/101",
         "value": 10
       },
       {
         "name": "Saving Throw: WIS",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/103",
+        "ref": "proficiencies/103",
         "value": 7
       },
       {
         "name": "Saving Throw: CHA",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/104",
+        "ref": "proficiencies/104",
         "value": 7
       },
       {
         "name": "Skill: Insight",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/111",
+        "ref": "proficiencies/111",
         "value": 7
       },
       {
         "name": "Skill: Perception",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/116",
+        "ref": "proficiencies/116",
         "value": 7
       }
     ],
@@ -8964,7 +8964,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/69"
   },
   {
-    "index": 70,
+    "id": "70",
     "name": "Cockatrice",
     "size": "Small",
     "type": "monstrosity",
@@ -9014,7 +9014,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/70"
   },
   {
-    "index": 71,
+    "id": "71",
     "name": "Commoner",
     "size": "Medium",
     "type": "humanoid",
@@ -9062,7 +9062,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/71"
   },
   {
-    "index": 72,
+    "id": "72",
     "name": "Constrictor Snake",
     "size": "Large",
     "type": "beast",
@@ -9127,7 +9127,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/72"
   },
   {
-    "index": 73,
+    "id": "73",
     "name": "Copper Dragon Wyrmling",
     "size": "Medium",
     "type": "dragon",
@@ -9150,32 +9150,32 @@
     "proficiencies": [
       {
         "name": "Saving Throw: DEX",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/100",
+        "ref": "proficiencies/100",
         "value": 3
       },
       {
         "name": "Saving Throw: CON",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/101",
+        "ref": "proficiencies/101",
         "value": 3
       },
       {
         "name": "Saving Throw: WIS",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/103",
+        "ref": "proficiencies/103",
         "value": 2
       },
       {
         "name": "Saving Throw: CHA",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/104",
+        "ref": "proficiencies/104",
         "value": 3
       },
       {
         "name": "Skill: Perception",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/116",
+        "ref": "proficiencies/116",
         "value": 4
       },
       {
         "name": "Skill: Stealth",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/121",
+        "ref": "proficiencies/121",
         "value": 3
       }
     ],
@@ -9250,7 +9250,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/73"
   },
   {
-    "index": 74,
+    "id": "74",
     "name": "Couatl",
     "size": "Medium",
     "type": "celestial",
@@ -9272,17 +9272,17 @@
     "proficiencies": [
       {
         "name": "Saving Throw: CON",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/101",
+        "ref": "proficiencies/101",
         "value": 5
       },
       {
         "name": "Saving Throw: WIS",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/103",
+        "ref": "proficiencies/103",
         "value": 7
       },
       {
         "name": "Saving Throw: CHA",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/104",
+        "ref": "proficiencies/104",
         "value": 6
       }
     ],
@@ -9354,7 +9354,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/74"
   },
   {
-    "index": 75,
+    "id": "75",
     "name": "Crab",
     "size": "Tiny",
     "type": "beast",
@@ -9376,7 +9376,7 @@
     "proficiencies": [
       {
         "name": "Skill: Stealth",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/121",
+        "ref": "proficiencies/121",
         "value": 2
       }
     ],
@@ -9416,7 +9416,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/75"
   },
   {
-    "index": 76,
+    "id": "76",
     "name": "Crocodile",
     "size": "Large",
     "type": "beast",
@@ -9438,7 +9438,7 @@
     "proficiencies": [
       {
         "name": "Skill: Stealth",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/121",
+        "ref": "proficiencies/121",
         "value": 2
       }
     ],
@@ -9477,7 +9477,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/76"
   },
   {
-    "index": 77,
+    "id": "77",
     "name": "Cult Fanatic",
     "size": "Medium",
     "type": "humanoid",
@@ -9498,17 +9498,17 @@
     "proficiencies": [
       {
         "name": "Skill: Deception",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/109",
+        "ref": "proficiencies/109",
         "value": 4
       },
       {
         "name": "Skill: Persuasion",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/118",
+        "ref": "proficiencies/118",
         "value": 4
       },
       {
         "name": "Skill: Religion",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/119",
+        "ref": "proficiencies/119",
         "value": 2
       }
     ],
@@ -9555,7 +9555,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/77"
   },
   {
-    "index": 78,
+    "id": "78",
     "name": "Cultist",
     "size": "Medium",
     "type": "humanoid",
@@ -9576,12 +9576,12 @@
     "proficiencies": [
       {
         "name": "Skill: Deception",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/109",
+        "ref": "proficiencies/109",
         "value": 2
       },
       {
         "name": "Skill: Religion",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/119",
+        "ref": "proficiencies/119",
         "value": 2
       }
     ],
@@ -9620,7 +9620,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/78"
   },
   {
-    "index": 79,
+    "id": "79",
     "name": "Darkmantle",
     "size": "Small",
     "type": "monstrosity",
@@ -9642,7 +9642,7 @@
     "proficiencies": [
       {
         "name": "Skill: Stealth",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/121",
+        "ref": "proficiencies/121",
         "value": 3
       }
     ],
@@ -9690,7 +9690,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/79"
   },
   {
-    "index": 80,
+    "id": "80",
     "name": "Death Dog",
     "size": "Medium",
     "type": "monstrosity",
@@ -9711,12 +9711,12 @@
     "proficiencies": [
       {
         "name": "Skill: Perception",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/116",
+        "ref": "proficiencies/116",
         "value": 5
       },
       {
         "name": "Skill: Stealth",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/121",
+        "ref": "proficiencies/121",
         "value": 4
       }
     ],
@@ -9760,7 +9760,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/80"
   },
   {
-    "index": 81,
+    "id": "81",
     "name": "Deep Gnome (Svirfneblin)",
     "size": "Small",
     "type": "humanoid",
@@ -9781,17 +9781,17 @@
     "proficiencies": [
       {
         "name": "Skill: Investigation",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/113",
+        "ref": "proficiencies/113",
         "value": 3
       },
       {
         "name": "Skill: Perception",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/116",
+        "ref": "proficiencies/116",
         "value": 2
       },
       {
         "name": "Skill: Stealth",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/121",
+        "ref": "proficiencies/121",
         "value": 4
       }
     ],
@@ -9854,7 +9854,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/81"
   },
   {
-    "index": 82,
+    "id": "82",
     "name": "Deer",
     "size": "Medium",
     "type": "beast",
@@ -9902,7 +9902,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/82"
   },
   {
-    "index": 83,
+    "id": "83",
     "name": "Deva",
     "size": "Medium",
     "type": "celestial",
@@ -9924,22 +9924,22 @@
     "proficiencies": [
       {
         "name": "Saving Throw: WIS",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/103",
+        "ref": "proficiencies/103",
         "value": 9
       },
       {
         "name": "Saving Throw: CHA",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/104",
+        "ref": "proficiencies/104",
         "value": 9
       },
       {
         "name": "Skill: Insight",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/111",
+        "ref": "proficiencies/111",
         "value": 9
       },
       {
         "name": "Skill: Perception",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/116",
+        "ref": "proficiencies/116",
         "value": 9
       }
     ],
@@ -10023,7 +10023,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/83"
   },
   {
-    "index": 84,
+    "id": "84",
     "name": "Dire Wolf",
     "size": "Large",
     "type": "beast",
@@ -10044,12 +10044,12 @@
     "proficiencies": [
       {
         "name": "Skill: Perception",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/116",
+        "ref": "proficiencies/116",
         "value": 3
       },
       {
         "name": "Skill: Stealth",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/121",
+        "ref": "proficiencies/121",
         "value": 4
       }
     ],
@@ -10092,7 +10092,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/84"
   },
   {
-    "index": 85,
+    "id": "85",
     "name": "Djinni",
     "size": "Large",
     "type": "elemental",
@@ -10114,17 +10114,17 @@
     "proficiencies": [
       {
         "name": "Saving Throw: DEX",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/100",
+        "ref": "proficiencies/100",
         "value": 6
       },
       {
         "name": "Saving Throw: WIS",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/103",
+        "ref": "proficiencies/103",
         "value": 7
       },
       {
         "name": "Saving Throw: CHA",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/104",
+        "ref": "proficiencies/104",
         "value": 9
       }
     ],
@@ -10213,7 +10213,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/85"
   },
   {
-    "index": 86,
+    "id": "86",
     "name": "Doppelganger",
     "size": "Medium",
     "type": "monstrosity",
@@ -10234,12 +10234,12 @@
     "proficiencies": [
       {
         "name": "Skill: Deception",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/109",
+        "ref": "proficiencies/109",
         "value": 6
       },
       {
         "name": "Skill: Insight",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/111",
+        "ref": "proficiencies/111",
         "value": 3
       }
     ],
@@ -10300,7 +10300,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/86"
   },
   {
-    "index": 87,
+    "id": "87",
     "name": "Draft Horse",
     "size": "Large",
     "type": "beast",
@@ -10348,7 +10348,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/87"
   },
   {
-    "index": 88,
+    "id": "88",
     "name": "Dragon Turtle",
     "size": "Gargantuan",
     "type": "dragon",
@@ -10370,17 +10370,17 @@
     "proficiencies": [
       {
         "name": "Saving Throw: DEX",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/100",
+        "ref": "proficiencies/100",
         "value": 6
       },
       {
         "name": "Saving Throw: CON",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/101",
+        "ref": "proficiencies/101",
         "value": 11
       },
       {
         "name": "Saving Throw: WIS",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/103",
+        "ref": "proficiencies/103",
         "value": 7
       }
     ],
@@ -10478,7 +10478,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/88"
   },
   {
-    "index": 89,
+    "id": "89",
     "name": "Dretch",
     "size": "Small",
     "type": "fiend",
@@ -10569,7 +10569,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/89"
   },
   {
-    "index": 90,
+    "id": "90",
     "name": "Drider",
     "size": "Large",
     "type": "monstrosity",
@@ -10591,12 +10591,12 @@
     "proficiencies": [
       {
         "name": "Skill: Perception",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/116",
+        "ref": "proficiencies/116",
         "value": 5
       },
       {
         "name": "Skill: Stealth",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/121",
+        "ref": "proficiencies/121",
         "value": 9
       }
     ],
@@ -10716,7 +10716,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/90"
   },
   {
-    "index": 91,
+    "id": "91",
     "name": "Drow",
     "size": "Medium",
     "type": "humanoid",
@@ -10737,12 +10737,12 @@
     "proficiencies": [
       {
         "name": "Skill: Perception",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/116",
+        "ref": "proficiencies/116",
         "value": 2
       },
       {
         "name": "Skill: Stealth",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/121",
+        "ref": "proficiencies/121",
         "value": 4
       }
     ],
@@ -10805,7 +10805,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/91"
   },
   {
-    "index": 92,
+    "id": "92",
     "name": "Druid",
     "size": "Medium",
     "type": "humanoid",
@@ -10826,17 +10826,17 @@
     "proficiencies": [
       {
         "name": "Skill: Medicine",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/114",
+        "ref": "proficiencies/114",
         "value": 4
       },
       {
         "name": "Skill: Nature",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/115",
+        "ref": "proficiencies/115",
         "value": 3
       },
       {
         "name": "Skill: Perception",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/116",
+        "ref": "proficiencies/116",
         "value": 4
       }
     ],
@@ -10889,7 +10889,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/92"
   },
   {
-    "index": 93,
+    "id": "93",
     "name": "Dryad",
     "size": "Medium",
     "type": "fey",
@@ -10910,12 +10910,12 @@
     "proficiencies": [
       {
         "name": "Skill: Perception",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/116",
+        "ref": "proficiencies/116",
         "value": 4
       },
       {
         "name": "Skill: Stealth",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/121",
+        "ref": "proficiencies/121",
         "value": 5
       }
     ],
@@ -10979,7 +10979,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/93"
   },
   {
-    "index": 94,
+    "id": "94",
     "name": "Duergar",
     "size": "Medium",
     "type": "humanoid",
@@ -11063,7 +11063,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/94"
   },
   {
-    "index": 95,
+    "id": "95",
     "name": "Dust Mephit",
     "size": "Small",
     "type": "elemental",
@@ -11085,12 +11085,12 @@
     "proficiencies": [
       {
         "name": "Skill: Perception",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/116",
+        "ref": "proficiencies/116",
         "value": 2
       },
       {
         "name": "Skill: Stealth",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/121",
+        "ref": "proficiencies/121",
         "value": 4
       }
     ],
@@ -11167,7 +11167,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/95"
   },
   {
-    "index": 96,
+    "id": "96",
     "name": "Eagle",
     "size": "Small",
     "type": "beast",
@@ -11189,7 +11189,7 @@
     "proficiencies": [
       {
         "name": "Skill: Perception",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/116",
+        "ref": "proficiencies/116",
         "value": 4
       }
     ],
@@ -11228,7 +11228,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/96"
   },
   {
-    "index": 97,
+    "id": "97",
     "name": "Earth Elemental",
     "size": "Large",
     "type": "elemental",
@@ -11320,7 +11320,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/97"
   },
   {
-    "index": 98,
+    "id": "98",
     "name": "Efreeti",
     "size": "Large",
     "type": "elemental",
@@ -11342,17 +11342,17 @@
     "proficiencies": [
       {
         "name": "Saving Throw: INT",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/102",
+        "ref": "proficiencies/102",
         "value": 7
       },
       {
         "name": "Saving Throw: WIS",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/103",
+        "ref": "proficiencies/103",
         "value": 6
       },
       {
         "name": "Saving Throw: CHA",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/104",
+        "ref": "proficiencies/104",
         "value": 7
       }
     ],
@@ -11429,7 +11429,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/98"
   },
   {
-    "index": 99,
+    "id": "99",
     "name": "Elephant",
     "size": "Huge",
     "type": "beast",
@@ -11498,7 +11498,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/99"
   },
   {
-    "index": 100,
+    "id": "100",
     "name": "Elk",
     "size": "Large",
     "type": "beast",
@@ -11567,7 +11567,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/100"
   },
   {
-    "index": 101,
+    "id": "101",
     "name": "Erinyes",
     "size": "Medium",
     "type": "fiend",
@@ -11589,22 +11589,22 @@
     "proficiencies": [
       {
         "name": "Saving Throw: DEX",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/100",
+        "ref": "proficiencies/100",
         "value": 7
       },
       {
         "name": "Saving Throw: CON",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/101",
+        "ref": "proficiencies/101",
         "value": 8
       },
       {
         "name": "Saving Throw: WIS",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/103",
+        "ref": "proficiencies/103",
         "value": 6
       },
       {
         "name": "Saving Throw: CHA",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/104",
+        "ref": "proficiencies/104",
         "value": 8
       }
     ],
@@ -11718,7 +11718,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/101"
   },
   {
-    "index": 102,
+    "id": "102",
     "name": "Ettercap",
     "size": "Medium",
     "type": "monstrosity",
@@ -11740,17 +11740,17 @@
     "proficiencies": [
       {
         "name": "Skill: Perception",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/116",
+        "ref": "proficiencies/116",
         "value": 3
       },
       {
         "name": "Skill: Stealth",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/121",
+        "ref": "proficiencies/121",
         "value": 4
       },
       {
         "name": "Skill: Survival",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/122",
+        "ref": "proficiencies/122",
         "value": 3
       }
     ],
@@ -11845,7 +11845,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/102"
   },
   {
-    "index": 103,
+    "id": "103",
     "name": "Ettin",
     "size": "Large",
     "type": "giant",
@@ -11866,7 +11866,7 @@
     "proficiencies": [
       {
         "name": "Skill: Perception",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/116",
+        "ref": "proficiencies/116",
         "value": 4
       }
     ],
@@ -11929,7 +11929,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/103"
   },
   {
-    "index": 104,
+    "id": "104",
     "name": "Fire Elemental",
     "size": "Large",
     "type": "elemental",
@@ -12044,7 +12044,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/104"
   },
   {
-    "index": 105,
+    "id": "105",
     "name": "Fire Giant",
     "size": "Huge",
     "type": "giant",
@@ -12065,27 +12065,27 @@
     "proficiencies": [
       {
         "name": "Saving Throw: DEX",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/100",
+        "ref": "proficiencies/100",
         "value": 3
       },
       {
         "name": "Saving Throw: CON",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/101",
+        "ref": "proficiencies/101",
         "value": 10
       },
       {
         "name": "Saving Throw: CHA",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/104",
+        "ref": "proficiencies/104",
         "value": 5
       },
       {
         "name": "Skill: Athletics",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/108",
+        "ref": "proficiencies/108",
         "value": 11
       },
       {
         "name": "Skill: Perception",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/116",
+        "ref": "proficiencies/116",
         "value": 6
       }
     ],
@@ -12139,7 +12139,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/105"
   },
   {
-    "index": 106,
+    "id": "106",
     "name": "Flesh Golem",
     "size": "Medium",
     "type": "construct",
@@ -12247,7 +12247,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/106"
   },
   {
-    "index": 107,
+    "id": "107",
     "name": "Flying Snake",
     "size": "Tiny",
     "type": "beast",
@@ -12312,7 +12312,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/107"
   },
   {
-    "index": 108,
+    "id": "108",
     "name": "Flying Sword",
     "size": "Small",
     "type": "construct",
@@ -12335,7 +12335,7 @@
     "proficiencies": [
       {
         "name": "Saving Throw: DEX",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/100",
+        "ref": "proficiencies/100",
         "value": 4
       }
     ],
@@ -12411,7 +12411,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/108"
   },
   {
-    "index": 109,
+    "id": "109",
     "name": "Frog",
     "size": "Tiny",
     "type": "beast",
@@ -12433,12 +12433,12 @@
     "proficiencies": [
       {
         "name": "Skill: Perception",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/116",
+        "ref": "proficiencies/116",
         "value": 1
       },
       {
         "name": "Skill: Stealth",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/121",
+        "ref": "proficiencies/121",
         "value": 3
       }
     ],
@@ -12465,7 +12465,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/109"
   },
   {
-    "index": 110,
+    "id": "110",
     "name": "Frost Giant",
     "size": "Huge",
     "type": "giant",
@@ -12486,27 +12486,27 @@
     "proficiencies": [
       {
         "name": "Saving Throw: CON",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/101",
+        "ref": "proficiencies/101",
         "value": 8
       },
       {
         "name": "Saving Throw: WIS",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/103",
+        "ref": "proficiencies/103",
         "value": 3
       },
       {
         "name": "Saving Throw: CHA",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/104",
+        "ref": "proficiencies/104",
         "value": 4
       },
       {
         "name": "Skill: Athletics",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/108",
+        "ref": "proficiencies/108",
         "value": 9
       },
       {
         "name": "Skill: Perception",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/116",
+        "ref": "proficiencies/116",
         "value": 3
       }
     ],
@@ -12560,7 +12560,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/110"
   },
   {
-    "index": 111,
+    "id": "111",
     "name": "Gargoyle",
     "size": "Medium",
     "type": "elemental",
@@ -12652,7 +12652,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/111"
   },
   {
-    "index": 112,
+    "id": "112",
     "name": "Gelatinous Cube",
     "size": "Large",
     "type": "ooze",
@@ -12758,7 +12758,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/112"
   },
   {
-    "index": 113,
+    "id": "113",
     "name": "Ghast",
     "size": "Medium",
     "type": "undead",
@@ -12847,7 +12847,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/113"
   },
   {
-    "index": 114,
+    "id": "114",
     "name": "Ghost",
     "size": "Medium",
     "type": "undead",
@@ -12983,7 +12983,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/114"
   },
   {
-    "index": 115,
+    "id": "115",
     "name": "Ghoul",
     "size": "Medium",
     "type": "undead",
@@ -13052,7 +13052,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/115"
   },
   {
-    "index": 116,
+    "id": "116",
     "name": "Giant Ape",
     "size": "Huge",
     "type": "beast",
@@ -13074,12 +13074,12 @@
     "proficiencies": [
       {
         "name": "Skill: Athletics",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/108",
+        "ref": "proficiencies/108",
         "value": 9
       },
       {
         "name": "Skill: Perception",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/116",
+        "ref": "proficiencies/116",
         "value": 4
       }
     ],
@@ -13131,7 +13131,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/116"
   },
   {
-    "index": 117,
+    "id": "117",
     "name": "Giant Badger",
     "size": "Medium",
     "type": "beast",
@@ -13206,7 +13206,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/117"
   },
   {
-    "index": 118,
+    "id": "118",
     "name": "Giant Bat",
     "size": "Large",
     "type": "beast",
@@ -13266,7 +13266,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/118"
   },
   {
-    "index": 119,
+    "id": "119",
     "name": "Giant Boar",
     "size": "Large",
     "type": "beast",
@@ -13324,7 +13324,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/119"
   },
   {
-    "index": 120,
+    "id": "120",
     "name": "Giant Centipede",
     "size": "Small",
     "type": "beast",
@@ -13374,7 +13374,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/120"
   },
   {
-    "index": 121,
+    "id": "121",
     "name": "Giant Constrictor Snake",
     "size": "Huge",
     "type": "beast",
@@ -13396,7 +13396,7 @@
     "proficiencies": [
       {
         "name": "Skill: Perception",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/116",
+        "ref": "proficiencies/116",
         "value": 2
       }
     ],
@@ -13445,7 +13445,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/121"
   },
   {
-    "index": 122,
+    "id": "122",
     "name": "Giant Crab",
     "size": "Medium",
     "type": "beast",
@@ -13467,7 +13467,7 @@
     "proficiencies": [
       {
         "name": "Skill: Stealth",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/121",
+        "ref": "proficiencies/121",
         "value": 4
       }
     ],
@@ -13507,7 +13507,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/122"
   },
   {
-    "index": 123,
+    "id": "123",
     "name": "Giant Crocodile",
     "size": "Huge",
     "type": "beast",
@@ -13529,7 +13529,7 @@
     "proficiencies": [
       {
         "name": "Skill: Stealth",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/121",
+        "ref": "proficiencies/121",
         "value": 5
       }
     ],
@@ -13587,7 +13587,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/123"
   },
   {
-    "index": 124,
+    "id": "124",
     "name": "Giant Eagle",
     "size": "Large",
     "type": "beast",
@@ -13609,7 +13609,7 @@
     "proficiencies": [
       {
         "name": "Skill: Perception",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/116",
+        "ref": "proficiencies/116",
         "value": 4
       }
     ],
@@ -13667,7 +13667,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/124"
   },
   {
-    "index": 125,
+    "id": "125",
     "name": "Giant Elk",
     "size": "Huge",
     "type": "beast",
@@ -13688,7 +13688,7 @@
     "proficiencies": [
       {
         "name": "Skill: Perception",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/116",
+        "ref": "proficiencies/116",
         "value": 4
       }
     ],
@@ -13742,7 +13742,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/125"
   },
   {
-    "index": 126,
+    "id": "126",
     "name": "Giant Fire Beetle",
     "size": "Small",
     "type": "beast",
@@ -13797,7 +13797,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/126"
   },
   {
-    "index": 127,
+    "id": "127",
     "name": "Giant Frog",
     "size": "Medium",
     "type": "beast",
@@ -13819,12 +13819,12 @@
     "proficiencies": [
       {
         "name": "Skill: Perception",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/116",
+        "ref": "proficiencies/116",
         "value": 2
       },
       {
         "name": "Skill: Stealth",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/121",
+        "ref": "proficiencies/121",
         "value": 3
       }
     ],
@@ -13872,7 +13872,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/127"
   },
   {
-    "index": 128,
+    "id": "128",
     "name": "Giant Goat",
     "size": "Large",
     "type": "beast",
@@ -13930,7 +13930,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/128"
   },
   {
-    "index": 129,
+    "id": "129",
     "name": "Giant Hyena",
     "size": "Large",
     "type": "beast",
@@ -13951,7 +13951,7 @@
     "proficiencies": [
       {
         "name": "Skill: Perception",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/116",
+        "ref": "proficiencies/116",
         "value": 3
       }
     ],
@@ -13990,7 +13990,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/129"
   },
   {
-    "index": 130,
+    "id": "130",
     "name": "Giant Lizard",
     "size": "Large",
     "type": "beast",
@@ -14050,7 +14050,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/130"
   },
   {
-    "index": 131,
+    "id": "131",
     "name": "Giant Octopus",
     "size": "Large",
     "type": "beast",
@@ -14072,12 +14072,12 @@
     "proficiencies": [
       {
         "name": "Skill: Perception",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/116",
+        "ref": "proficiencies/116",
         "value": 4
       },
       {
         "name": "Skill: Stealth",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/121",
+        "ref": "proficiencies/121",
         "value": 5
       }
     ],
@@ -14129,7 +14129,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/131"
   },
   {
-    "index": 132,
+    "id": "132",
     "name": "Giant Owl",
     "size": "Large",
     "type": "beast",
@@ -14151,12 +14151,12 @@
     "proficiencies": [
       {
         "name": "Skill: Perception",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/116",
+        "ref": "proficiencies/116",
         "value": 5
       },
       {
         "name": "Skill: Stealth",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/121",
+        "ref": "proficiencies/121",
         "value": 4
       }
     ],
@@ -14200,7 +14200,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/132"
   },
   {
-    "index": 133,
+    "id": "133",
     "name": "Giant Poisonous Snake",
     "size": "Medium",
     "type": "beast",
@@ -14222,7 +14222,7 @@
     "proficiencies": [
       {
         "name": "Skill: Perception",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/116",
+        "ref": "proficiencies/116",
         "value": 2
       }
     ],
@@ -14256,7 +14256,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/133"
   },
   {
-    "index": 134,
+    "id": "134",
     "name": "Giant Rat",
     "size": "Small",
     "type": "beast",
@@ -14315,7 +14315,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/134"
   },
   {
-    "index": 135,
+    "id": "135",
     "name": "Giant Rat (Diseased)",
     "size": "Small",
     "type": "beast",
@@ -14364,7 +14364,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/135"
   },
   {
-    "index": 136,
+    "id": "136",
     "name": "Giant Scorpion",
     "size": "Large",
     "type": "beast",
@@ -14432,7 +14432,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/136"
   },
   {
-    "index": 137,
+    "id": "137",
     "name": "Giant Sea Horse",
     "size": "Large",
     "type": "beast",
@@ -14491,7 +14491,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/137"
   },
   {
-    "index": 138,
+    "id": "138",
     "name": "Giant Shark",
     "size": "Huge",
     "type": "beast",
@@ -14512,7 +14512,7 @@
     "proficiencies": [
       {
         "name": "Skill: Perception",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/116",
+        "ref": "proficiencies/116",
         "value": 3
       }
     ],
@@ -14556,7 +14556,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/138"
   },
   {
-    "index": 139,
+    "id": "139",
     "name": "Giant Spider",
     "size": "Large",
     "type": "beast",
@@ -14578,7 +14578,7 @@
     "proficiencies": [
       {
         "name": "Skill: Stealth",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/121",
+        "ref": "proficiencies/121",
         "value": 7
       }
     ],
@@ -14632,7 +14632,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/139"
   },
   {
-    "index": 140,
+    "id": "140",
     "name": "Giant Toad",
     "size": "Large",
     "type": "beast",
@@ -14704,7 +14704,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/140"
   },
   {
-    "index": 141,
+    "id": "141",
     "name": "Giant Vulture",
     "size": "Large",
     "type": "beast",
@@ -14726,7 +14726,7 @@
     "proficiencies": [
       {
         "name": "Skill: Perception",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/116",
+        "ref": "proficiencies/116",
         "value": 3
       }
     ],
@@ -14788,7 +14788,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/141"
   },
   {
-    "index": 142,
+    "id": "142",
     "name": "Giant Wasp",
     "size": "Medium",
     "type": "beast",
@@ -14838,7 +14838,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/142"
   },
   {
-    "index": 143,
+    "id": "143",
     "name": "Giant Weasel",
     "size": "Medium",
     "type": "beast",
@@ -14859,12 +14859,12 @@
     "proficiencies": [
       {
         "name": "Skill: Perception",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/116",
+        "ref": "proficiencies/116",
         "value": 3
       },
       {
         "name": "Skill: Stealth",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/121",
+        "ref": "proficiencies/121",
         "value": 5
       }
     ],
@@ -14904,7 +14904,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/143"
   },
   {
-    "index": 144,
+    "id": "144",
     "name": "Giant Wolf Spider",
     "size": "Medium",
     "type": "beast",
@@ -14926,12 +14926,12 @@
     "proficiencies": [
       {
         "name": "Skill: Perception",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/116",
+        "ref": "proficiencies/116",
         "value": 3
       },
       {
         "name": "Skill: Stealth",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/121",
+        "ref": "proficiencies/121",
         "value": 7
       }
     ],
@@ -14980,7 +14980,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/144"
   },
   {
-    "index": 145,
+    "id": "145",
     "name": "Gibbering Mouther",
     "size": "Medium",
     "type": "aberration",
@@ -15069,7 +15069,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/145"
   },
   {
-    "index": 146,
+    "id": "146",
     "name": "Glabrezu",
     "size": "Large",
     "type": "fiend",
@@ -15090,22 +15090,22 @@
     "proficiencies": [
       {
         "name": "Saving Throw: STR",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/99",
+        "ref": "proficiencies/99",
         "value": 9
       },
       {
         "name": "Saving Throw: CON",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/101",
+        "ref": "proficiencies/101",
         "value": 9
       },
       {
         "name": "Saving Throw: WIS",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/103",
+        "ref": "proficiencies/103",
         "value": 7
       },
       {
         "name": "Saving Throw: CHA",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/104",
+        "ref": "proficiencies/104",
         "value": 7
       }
     ],
@@ -15184,7 +15184,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/146"
   },
   {
-    "index": 147,
+    "id": "147",
     "name": "Gladiator",
     "size": "Medium",
     "type": "humanoid",
@@ -15205,27 +15205,27 @@
     "proficiencies": [
       {
         "name": "Saving Throw: STR",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/99",
+        "ref": "proficiencies/99",
         "value": 7
       },
       {
         "name": "Saving Throw: DEX",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/100",
+        "ref": "proficiencies/100",
         "value": 5
       },
       {
         "name": "Saving Throw: CON",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/101",
+        "ref": "proficiencies/101",
         "value": 6
       },
       {
         "name": "Skill: Athletics",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/108",
+        "ref": "proficiencies/108",
         "value": 10
       },
       {
         "name": "Skill: Intimidation",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/112",
+        "ref": "proficiencies/112",
         "value": 5
       }
     ],
@@ -15308,7 +15308,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/147"
   },
   {
-    "index": 148,
+    "id": "148",
     "name": "Gnoll",
     "size": "Medium",
     "type": "humanoid",
@@ -15407,7 +15407,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/148"
   },
   {
-    "index": 149,
+    "id": "149",
     "name": "Goat",
     "size": "Medium",
     "type": "beast",
@@ -15465,7 +15465,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/149"
   },
   {
-    "index": 150,
+    "id": "150",
     "name": "Goblin",
     "size": "Small",
     "type": "humanoid",
@@ -15486,7 +15486,7 @@
     "proficiencies": [
       {
         "name": "Skill: Stealth",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/121",
+        "ref": "proficiencies/121",
         "value": 6
       }
     ],
@@ -15541,7 +15541,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/150"
   },
   {
-    "index": 151,
+    "id": "151",
     "name": "Gold Dragon Wyrmling",
     "size": "Medium",
     "type": "dragon",
@@ -15564,32 +15564,32 @@
     "proficiencies": [
       {
         "name": "Saving Throw: DEX",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/100",
+        "ref": "proficiencies/100",
         "value": 4
       },
       {
         "name": "Saving Throw: CON",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/101",
+        "ref": "proficiencies/101",
         "value": 5
       },
       {
         "name": "Saving Throw: WIS",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/103",
+        "ref": "proficiencies/103",
         "value": 2
       },
       {
         "name": "Saving Throw: CHA",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/104",
+        "ref": "proficiencies/104",
         "value": 5
       },
       {
         "name": "Skill: Perception",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/116",
+        "ref": "proficiencies/116",
         "value": 4
       },
       {
         "name": "Skill: Stealth",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/121",
+        "ref": "proficiencies/121",
         "value": 4
       }
     ],
@@ -15670,7 +15670,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/151"
   },
   {
-    "index": 152,
+    "id": "152",
     "name": "Gorgon",
     "size": "Large",
     "type": "monstrosity",
@@ -15691,7 +15691,7 @@
     "proficiencies": [
       {
         "name": "Skill: Perception",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/116",
+        "ref": "proficiencies/116",
         "value": 4
       }
     ],
@@ -15763,7 +15763,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/152"
   },
   {
-    "index": 153,
+    "id": "153",
     "name": "Gray Ooze",
     "size": "Medium",
     "type": "ooze",
@@ -15785,7 +15785,7 @@
     "proficiencies": [
       {
         "name": "Skill: Stealth",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/121",
+        "ref": "proficiencies/121",
         "value": 2
       }
     ],
@@ -15870,7 +15870,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/153"
   },
   {
-    "index": 154,
+    "id": "154",
     "name": "Green Dragon Wyrmling",
     "size": "Medium",
     "type": "dragon",
@@ -15893,32 +15893,32 @@
     "proficiencies": [
       {
         "name": "Saving Throw: DEX",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/100",
+        "ref": "proficiencies/100",
         "value": 3
       },
       {
         "name": "Saving Throw: CON",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/101",
+        "ref": "proficiencies/101",
         "value": 3
       },
       {
         "name": "Saving Throw: WIS",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/103",
+        "ref": "proficiencies/103",
         "value": 2
       },
       {
         "name": "Saving Throw: CHA",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/104",
+        "ref": "proficiencies/104",
         "value": 3
       },
       {
         "name": "Skill: Perception",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/116",
+        "ref": "proficiencies/116",
         "value": 4
       },
       {
         "name": "Skill: Stealth",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/121",
+        "ref": "proficiencies/121",
         "value": 3
       }
     ],
@@ -15996,7 +15996,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/154"
   },
   {
-    "index": 155,
+    "id": "155",
     "name": "Green Hag",
     "size": "Medium",
     "type": "fey",
@@ -16017,22 +16017,22 @@
     "proficiencies": [
       {
         "name": "Skill: Arcana",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/107",
+        "ref": "proficiencies/107",
         "value": 3
       },
       {
         "name": "Skill: Deception",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/109",
+        "ref": "proficiencies/109",
         "value": 4
       },
       {
         "name": "Skill: Perception",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/116",
+        "ref": "proficiencies/116",
         "value": 4
       },
       {
         "name": "Skill: Stealth",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/121",
+        "ref": "proficiencies/121",
         "value": 3
       }
     ],
@@ -16100,7 +16100,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/155"
   },
   {
-    "index": 156,
+    "id": "156",
     "name": "Grick",
     "size": "Medium",
     "type": "monstrosity",
@@ -16177,7 +16177,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/156"
   },
   {
-    "index": 157,
+    "id": "157",
     "name": "Griffon",
     "size": "Large",
     "type": "monstrosity",
@@ -16199,7 +16199,7 @@
     "proficiencies": [
       {
         "name": "Skill: Perception",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/116",
+        "ref": "proficiencies/116",
         "value": 5
       }
     ],
@@ -16258,7 +16258,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/157"
   },
   {
-    "index": 158,
+    "id": "158",
     "name": "Grimlock",
     "size": "Medium",
     "type": "humanoid",
@@ -16279,17 +16279,17 @@
     "proficiencies": [
       {
         "name": "Skill: Athletics",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/108",
+        "ref": "proficiencies/108",
         "value": 5
       },
       {
         "name": "Skill: Perception",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/116",
+        "ref": "proficiencies/116",
         "value": 3
       },
       {
         "name": "Skill: Stealth",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/121",
+        "ref": "proficiencies/121",
         "value": 3
       }
     ],
@@ -16350,7 +16350,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/158"
   },
   {
-    "index": 159,
+    "id": "159",
     "name": "Guard",
     "size": "Medium",
     "type": "humanoid",
@@ -16371,7 +16371,7 @@
     "proficiencies": [
       {
         "name": "Skill: Perception",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/116",
+        "ref": "proficiencies/116",
         "value": 2
       }
     ],
@@ -16418,7 +16418,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/159"
   },
   {
-    "index": 160,
+    "id": "160",
     "name": "Guardian Naga",
     "size": "Large",
     "type": "monstrosity",
@@ -16439,27 +16439,27 @@
     "proficiencies": [
       {
         "name": "Saving Throw: DEX",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/100",
+        "ref": "proficiencies/100",
         "value": 8
       },
       {
         "name": "Saving Throw: CON",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/101",
+        "ref": "proficiencies/101",
         "value": 7
       },
       {
         "name": "Saving Throw: INT",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/102",
+        "ref": "proficiencies/102",
         "value": 7
       },
       {
         "name": "Saving Throw: WIS",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/103",
+        "ref": "proficiencies/103",
         "value": 8
       },
       {
         "name": "Saving Throw: CHA",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/104",
+        "ref": "proficiencies/104",
         "value": 8
       }
     ],
@@ -16519,7 +16519,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/160"
   },
   {
-    "index": 161,
+    "id": "161",
     "name": "Gynosphinx",
     "size": "Large",
     "type": "monstrosity",
@@ -16541,22 +16541,22 @@
     "proficiencies": [
       {
         "name": "Skill: Arcana",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/107",
+        "ref": "proficiencies/107",
         "value": 12
       },
       {
         "name": "Skill: History",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/110",
+        "ref": "proficiencies/110",
         "value": 12
       },
       {
         "name": "Skill: Perception",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/116",
+        "ref": "proficiencies/116",
         "value": 8
       },
       {
         "name": "Skill: Religion",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/119",
+        "ref": "proficiencies/119",
         "value": 8
       }
     ],
@@ -16635,7 +16635,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/161"
   },
   {
-    "index": 162,
+    "id": "162",
     "name": "Half-Red Dragon Veteran",
     "size": "Medium",
     "type": "humanoid",
@@ -16757,7 +16757,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/162"
   },
   {
-    "index": 163,
+    "id": "163",
     "name": "Harpy",
     "size": "Medium",
     "type": "monstrosity",
@@ -16829,7 +16829,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/163"
   },
   {
-    "index": 164,
+    "id": "164",
     "name": "Hawk",
     "size": "Tiny",
     "type": "beast",
@@ -16851,7 +16851,7 @@
     "proficiencies": [
       {
         "name": "Skill: Perception",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/116",
+        "ref": "proficiencies/116",
         "value": 4
       }
     ],
@@ -16890,7 +16890,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/164"
   },
   {
-    "index": 165,
+    "id": "165",
     "name": "Hell Hound",
     "size": "Medium",
     "type": "fiend",
@@ -16911,7 +16911,7 @@
     "proficiencies": [
       {
         "name": "Skill: Perception",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/116",
+        "ref": "proficiencies/116",
         "value": 5
       }
     ],
@@ -16987,7 +16987,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/165"
   },
   {
-    "index": 166,
+    "id": "166",
     "name": "Hezrou",
     "size": "Large",
     "type": "fiend",
@@ -17008,17 +17008,17 @@
     "proficiencies": [
       {
         "name": "Saving Throw: STR",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/99",
+        "ref": "proficiencies/99",
         "value": 7
       },
       {
         "name": "Saving Throw: CON",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/101",
+        "ref": "proficiencies/101",
         "value": 8
       },
       {
         "name": "Saving Throw: WIS",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/103",
+        "ref": "proficiencies/103",
         "value": 4
       }
     ],
@@ -17105,7 +17105,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/166"
   },
   {
-    "index": 167,
+    "id": "167",
     "name": "Hill Giant",
     "size": "Huge",
     "type": "giant",
@@ -17126,7 +17126,7 @@
     "proficiencies": [
       {
         "name": "Skill: Perception",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/116",
+        "ref": "proficiencies/116",
         "value": 2
       }
     ],
@@ -17178,7 +17178,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/167"
   },
   {
-    "index": 168,
+    "id": "168",
     "name": "Hippogriff",
     "size": "Large",
     "type": "monstrosity",
@@ -17200,7 +17200,7 @@
     "proficiencies": [
       {
         "name": "Skill: Perception",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/116",
+        "ref": "proficiencies/116",
         "value": 5
       }
     ],
@@ -17258,7 +17258,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/168"
   },
   {
-    "index": 169,
+    "id": "169",
     "name": "Hobgoblin",
     "size": "Medium",
     "type": "humanoid",
@@ -17342,7 +17342,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/169"
   },
   {
-    "index": 170,
+    "id": "170",
     "name": "Homunculus",
     "size": "Tiny",
     "type": "construct",
@@ -17409,7 +17409,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/170"
   },
   {
-    "index": 171,
+    "id": "171",
     "name": "Horned Devil",
     "size": "Large",
     "type": "fiend",
@@ -17431,22 +17431,22 @@
     "proficiencies": [
       {
         "name": "Saving Throw: STR",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/99",
+        "ref": "proficiencies/99",
         "value": 10
       },
       {
         "name": "Saving Throw: DEX",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/100",
+        "ref": "proficiencies/100",
         "value": 7
       },
       {
         "name": "Saving Throw: WIS",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/103",
+        "ref": "proficiencies/103",
         "value": 7
       },
       {
         "name": "Saving Throw: CHA",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/104",
+        "ref": "proficiencies/104",
         "value": 7
       }
     ],
@@ -17535,7 +17535,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/171"
   },
   {
-    "index": 172,
+    "id": "172",
     "name": "Hunter Shark",
     "size": "Large",
     "type": "beast",
@@ -17556,7 +17556,7 @@
     "proficiencies": [
       {
         "name": "Skill: Perception",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/116",
+        "ref": "proficiencies/116",
         "value": 2
       }
     ],
@@ -17600,7 +17600,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/172"
   },
   {
-    "index": 173,
+    "id": "173",
     "name": "Hydra",
     "size": "Huge",
     "type": "monstrosity",
@@ -17622,7 +17622,7 @@
     "proficiencies": [
       {
         "name": "Skill: Perception",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/116",
+        "ref": "proficiencies/116",
         "value": 6
       }
     ],
@@ -17678,7 +17678,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/173"
   },
   {
-    "index": 174,
+    "id": "174",
     "name": "Hyena",
     "size": "Medium",
     "type": "beast",
@@ -17699,7 +17699,7 @@
     "proficiencies": [
       {
         "name": "Skill: Perception",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/116",
+        "ref": "proficiencies/116",
         "value": 3
       }
     ],
@@ -17738,7 +17738,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/174"
   },
   {
-    "index": 175,
+    "id": "175",
     "name": "Ice Devil",
     "size": "Large",
     "type": "fiend",
@@ -17759,22 +17759,22 @@
     "proficiencies": [
       {
         "name": "Saving Throw: DEX",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/100",
+        "ref": "proficiencies/100",
         "value": 7
       },
       {
         "name": "Saving Throw: CON",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/101",
+        "ref": "proficiencies/101",
         "value": 9
       },
       {
         "name": "Saving Throw: WIS",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/103",
+        "ref": "proficiencies/103",
         "value": 7
       },
       {
         "name": "Saving Throw: CHA",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/104",
+        "ref": "proficiencies/104",
         "value": 9
       }
     ],
@@ -17891,7 +17891,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/175"
   },
   {
-    "index": 176,
+    "id": "176",
     "name": "Ice Mephit",
     "size": "Small",
     "type": "elemental",
@@ -17913,12 +17913,12 @@
     "proficiencies": [
       {
         "name": "Skill: Perception",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/116",
+        "ref": "proficiencies/116",
         "value": 2
       },
       {
         "name": "Skill: Stealth",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/121",
+        "ref": "proficiencies/121",
         "value": 3
       }
     ],
@@ -18029,7 +18029,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/176"
   },
   {
-    "index": 177,
+    "id": "177",
     "name": "Imp",
     "size": "Tiny",
     "type": "fiend",
@@ -18051,22 +18051,22 @@
     "proficiencies": [
       {
         "name": "Skill: Deception",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/109",
+        "ref": "proficiencies/109",
         "value": 4
       },
       {
         "name": "Skill: Insight",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/111",
+        "ref": "proficiencies/111",
         "value": 3
       },
       {
         "name": "Skill: Persuasion",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/118",
+        "ref": "proficiencies/118",
         "value": 4
       },
       {
         "name": "Skill: Stealth",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/121",
+        "ref": "proficiencies/121",
         "value": 5
       }
     ],
@@ -18131,7 +18131,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/177"
   },
   {
-    "index": 178,
+    "id": "178",
     "name": "Invisible Stalker",
     "size": "Medium",
     "type": "elemental",
@@ -18154,12 +18154,12 @@
     "proficiencies": [
       {
         "name": "Skill: Perception",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/116",
+        "ref": "proficiencies/116",
         "value": 8
       },
       {
         "name": "Skill: Stealth",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/121",
+        "ref": "proficiencies/121",
         "value": 10
       }
     ],
@@ -18244,7 +18244,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/178"
   },
   {
-    "index": 179,
+    "id": "179",
     "name": "Iron Golem",
     "size": "Large",
     "type": "construct",
@@ -18382,7 +18382,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/179"
   },
   {
-    "index": 180,
+    "id": "180",
     "name": "Jackal",
     "size": "Small",
     "type": "beast",
@@ -18403,7 +18403,7 @@
     "proficiencies": [
       {
         "name": "Skill: Perception",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/116",
+        "ref": "proficiencies/116",
         "value": 3
       }
     ],
@@ -18446,7 +18446,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/180"
   },
   {
-    "index": 181,
+    "id": "181",
     "name": "Killer Whale",
     "size": "Huge",
     "type": "beast",
@@ -18467,7 +18467,7 @@
     "proficiencies": [
       {
         "name": "Skill: Perception",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/116",
+        "ref": "proficiencies/116",
         "value": 3
       }
     ],
@@ -18515,7 +18515,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/181"
   },
   {
-    "index": 182,
+    "id": "182",
     "name": "Knight",
     "size": "Medium",
     "type": "humanoid",
@@ -18536,12 +18536,12 @@
     "proficiencies": [
       {
         "name": "Saving Throw: CON",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/101",
+        "ref": "proficiencies/101",
         "value": 4
       },
       {
         "name": "Saving Throw: WIS",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/103",
+        "ref": "proficiencies/103",
         "value": 2
       }
     ],
@@ -18609,7 +18609,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/182"
   },
   {
-    "index": 183,
+    "id": "183",
     "name": "Kobold",
     "size": "Small",
     "type": "humanoid",
@@ -18683,7 +18683,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/183"
   },
   {
-    "index": 184,
+    "id": "184",
     "name": "Kraken",
     "size": "Gargantuan",
     "type": "monstrosity",
@@ -18705,27 +18705,27 @@
     "proficiencies": [
       {
         "name": "Saving Throw: STR",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/99",
+        "ref": "proficiencies/99",
         "value": 17
       },
       {
         "name": "Saving Throw: DEX",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/100",
+        "ref": "proficiencies/100",
         "value": 7
       },
       {
         "name": "Saving Throw: CON",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/101",
+        "ref": "proficiencies/101",
         "value": 14
       },
       {
         "name": "Saving Throw: INT",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/102",
+        "ref": "proficiencies/102",
         "value": 13
       },
       {
         "name": "Saving Throw: WIS",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/103",
+        "ref": "proficiencies/103",
         "value": 11
       }
     ],
@@ -18847,7 +18847,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/184"
   },
   {
-    "index": 185,
+    "id": "185",
     "name": "Lamia",
     "size": "Large",
     "type": "monstrosity",
@@ -18868,17 +18868,17 @@
     "proficiencies": [
       {
         "name": "Skill: Deception",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/109",
+        "ref": "proficiencies/109",
         "value": 7
       },
       {
         "name": "Skill: Insight",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/111",
+        "ref": "proficiencies/111",
         "value": 4
       },
       {
         "name": "Skill: Stealth",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/121",
+        "ref": "proficiencies/121",
         "value": 3
       }
     ],
@@ -18941,7 +18941,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/185"
   },
   {
-    "index": 186,
+    "id": "186",
     "name": "Lemure",
     "size": "Medium",
     "type": "fiend",
@@ -19018,7 +19018,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/186"
   },
   {
-    "index": 187,
+    "id": "187",
     "name": "Lich",
     "size": "Medium",
     "type": "undead",
@@ -19039,37 +19039,37 @@
     "proficiencies": [
       {
         "name": "Saving Throw: CON",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/101",
+        "ref": "proficiencies/101",
         "value": 10
       },
       {
         "name": "Saving Throw: INT",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/102",
+        "ref": "proficiencies/102",
         "value": 12
       },
       {
         "name": "Saving Throw: WIS",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/103",
+        "ref": "proficiencies/103",
         "value": 9
       },
       {
         "name": "Skill: Arcana",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/107",
+        "ref": "proficiencies/107",
         "value": 18
       },
       {
         "name": "Skill: History",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/110",
+        "ref": "proficiencies/110",
         "value": 12
       },
       {
         "name": "Skill: Insight",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/111",
+        "ref": "proficiencies/111",
         "value": 9
       },
       {
         "name": "Skill: Perception",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/116",
+        "ref": "proficiencies/116",
         "value": 9
       }
     ],
@@ -19193,7 +19193,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/187"
   },
   {
-    "index": 188,
+    "id": "188",
     "name": "Lion",
     "size": "Large",
     "type": "beast",
@@ -19214,12 +19214,12 @@
     "proficiencies": [
       {
         "name": "Skill: Perception",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/116",
+        "ref": "proficiencies/116",
         "value": 3
       },
       {
         "name": "Skill: Stealth",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/121",
+        "ref": "proficiencies/121",
         "value": 6
       }
     ],
@@ -19285,7 +19285,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/188"
   },
   {
-    "index": 189,
+    "id": "189",
     "name": "Lizard",
     "size": "Tiny",
     "type": "beast",
@@ -19335,7 +19335,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/189"
   },
   {
-    "index": 190,
+    "id": "190",
     "name": "Lizardfolk",
     "size": "Medium",
     "type": "humanoid",
@@ -19357,17 +19357,17 @@
     "proficiencies": [
       {
         "name": "Skill: Perception",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/116",
+        "ref": "proficiencies/116",
         "value": 3
       },
       {
         "name": "Skill: Stealth",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/121",
+        "ref": "proficiencies/121",
         "value": 4
       },
       {
         "name": "Skill: Survival",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/122",
+        "ref": "proficiencies/122",
         "value": 5
       }
     ],
@@ -19455,7 +19455,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/190"
   },
   {
-    "index": 191,
+    "id": "191",
     "name": "Mage",
     "size": "Medium",
     "type": "humanoid",
@@ -19476,22 +19476,22 @@
     "proficiencies": [
       {
         "name": "Saving Throw: INT",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/102",
+        "ref": "proficiencies/102",
         "value": 6
       },
       {
         "name": "Saving Throw: WIS",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/103",
+        "ref": "proficiencies/103",
         "value": 4
       },
       {
         "name": "Skill: Arcana",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/107",
+        "ref": "proficiencies/107",
         "value": 6
       },
       {
         "name": "Skill: History",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/110",
+        "ref": "proficiencies/110",
         "value": 6
       }
     ],
@@ -19530,7 +19530,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/191"
   },
   {
-    "index": 192,
+    "id": "192",
     "name": "Magma Mephit",
     "size": "Small",
     "type": "elemental",
@@ -19552,7 +19552,7 @@
     "proficiencies": [
       {
         "name": "Skill: Stealth",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/121",
+        "ref": "proficiencies/121",
         "value": 3
       }
     ],
@@ -19662,7 +19662,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/192"
   },
   {
-    "index": 193,
+    "id": "193",
     "name": "Magmin",
     "size": "Small",
     "type": "elemental",
@@ -19743,7 +19743,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/193"
   },
   {
-    "index": 194,
+    "id": "194",
     "name": "Mammoth",
     "size": "Huge",
     "type": "beast",
@@ -19812,7 +19812,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/194"
   },
   {
-    "index": 195,
+    "id": "195",
     "name": "Manticore",
     "size": "Large",
     "type": "monstrosity",
@@ -19902,7 +19902,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/195"
   },
   {
-    "index": 196,
+    "id": "196",
     "name": "Marilith",
     "size": "Large",
     "type": "fiend",
@@ -19923,22 +19923,22 @@
     "proficiencies": [
       {
         "name": "Saving Throw: STR",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/99",
+        "ref": "proficiencies/99",
         "value": 9
       },
       {
         "name": "Saving Throw: CON",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/101",
+        "ref": "proficiencies/101",
         "value": 10
       },
       {
         "name": "Saving Throw: WIS",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/103",
+        "ref": "proficiencies/103",
         "value": 8
       },
       {
         "name": "Saving Throw: CHA",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/104",
+        "ref": "proficiencies/104",
         "value": 10
       }
     ],
@@ -20031,7 +20031,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/196"
   },
   {
-    "index": 197,
+    "id": "197",
     "name": "Mastiff",
     "size": "Medium",
     "type": "beast",
@@ -20052,7 +20052,7 @@
     "proficiencies": [
       {
         "name": "Skill: Perception",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/116",
+        "ref": "proficiencies/116",
         "value": 3
       }
     ],
@@ -20091,7 +20091,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/197"
   },
   {
-    "index": 198,
+    "id": "198",
     "name": "Medusa",
     "size": "Medium",
     "type": "monstrosity",
@@ -20112,22 +20112,22 @@
     "proficiencies": [
       {
         "name": "Skill: Deception",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/109",
+        "ref": "proficiencies/109",
         "value": 5
       },
       {
         "name": "Skill: Insight",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/111",
+        "ref": "proficiencies/111",
         "value": 4
       },
       {
         "name": "Skill: Perception",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/116",
+        "ref": "proficiencies/116",
         "value": 4
       },
       {
         "name": "Skill: Stealth",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/121",
+        "ref": "proficiencies/121",
         "value": 5
       }
     ],
@@ -20225,7 +20225,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/198"
   },
   {
-    "index": 199,
+    "id": "199",
     "name": "Merfolk",
     "size": "Medium",
     "type": "humanoid",
@@ -20247,7 +20247,7 @@
     "proficiencies": [
       {
         "name": "Skill: Perception",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/116",
+        "ref": "proficiencies/116",
         "value": 2
       }
     ],
@@ -20300,7 +20300,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/199"
   },
   {
-    "index": 200,
+    "id": "200",
     "name": "Merrow",
     "size": "Large",
     "type": "monstrosity",
@@ -20390,7 +20390,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/200"
   },
   {
-    "index": 201,
+    "id": "201",
     "name": "Mimic",
     "size": "Medium",
     "type": "monstrosity",
@@ -20411,7 +20411,7 @@
     "proficiencies": [
       {
         "name": "Skill: Stealth",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/121",
+        "ref": "proficiencies/121",
         "value": 5
       }
     ],
@@ -20493,7 +20493,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/201"
   },
   {
-    "index": 202,
+    "id": "202",
     "name": "Minotaur",
     "size": "Large",
     "type": "monstrosity",
@@ -20514,7 +20514,7 @@
     "proficiencies": [
       {
         "name": "Skill: Perception",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/116",
+        "ref": "proficiencies/116",
         "value": 7
       }
     ],
@@ -20577,7 +20577,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/202"
   },
   {
-    "index": 203,
+    "id": "203",
     "name": "Minotaur Skeleton",
     "size": "Large",
     "type": "undead",
@@ -20660,7 +20660,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/203"
   },
   {
-    "index": 204,
+    "id": "204",
     "name": "Mule",
     "size": "Medium",
     "type": "beast",
@@ -20718,7 +20718,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/204"
   },
   {
-    "index": 205,
+    "id": "205",
     "name": "Mummy",
     "size": "Medium",
     "type": "undead",
@@ -20739,7 +20739,7 @@
     "proficiencies": [
       {
         "name": "Saving Throw: WIS",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/103",
+        "ref": "proficiencies/103",
         "value": 2
       }
     ],
@@ -20825,7 +20825,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/205"
   },
   {
-    "index": 206,
+    "id": "206",
     "name": "Mummy Lord",
     "size": "Medium",
     "type": "undead",
@@ -20846,32 +20846,32 @@
     "proficiencies": [
       {
         "name": "Saving Throw: CON",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/101",
+        "ref": "proficiencies/101",
         "value": 8
       },
       {
         "name": "Saving Throw: INT",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/102",
+        "ref": "proficiencies/102",
         "value": 5
       },
       {
         "name": "Saving Throw: WIS",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/103",
+        "ref": "proficiencies/103",
         "value": 9
       },
       {
         "name": "Saving Throw: CHA",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/104",
+        "ref": "proficiencies/104",
         "value": 8
       },
       {
         "name": "Skill: History",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/110",
+        "ref": "proficiencies/110",
         "value": 5
       },
       {
         "name": "Skill: Religion",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/119",
+        "ref": "proficiencies/119",
         "value": 5
       }
     ],
@@ -21008,7 +21008,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/206"
   },
   {
-    "index": 207,
+    "id": "207",
     "name": "Nalfeshnee",
     "size": "Large",
     "type": "fiend",
@@ -21030,22 +21030,22 @@
     "proficiencies": [
       {
         "name": "Saving Throw: CON",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/101",
+        "ref": "proficiencies/101",
         "value": 11
       },
       {
         "name": "Saving Throw: INT",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/102",
+        "ref": "proficiencies/102",
         "value": 9
       },
       {
         "name": "Saving Throw: WIS",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/103",
+        "ref": "proficiencies/103",
         "value": 6
       },
       {
         "name": "Saving Throw: CHA",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/104",
+        "ref": "proficiencies/104",
         "value": 7
       }
     ],
@@ -21136,7 +21136,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/207"
   },
   {
-    "index": 208,
+    "id": "208",
     "name": "Night Hag",
     "size": "Medium",
     "type": "fiend",
@@ -21157,22 +21157,22 @@
     "proficiencies": [
       {
         "name": "Skill: Deception",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/109",
+        "ref": "proficiencies/109",
         "value": 7
       },
       {
         "name": "Skill: Insight",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/111",
+        "ref": "proficiencies/111",
         "value": 6
       },
       {
         "name": "Skill: Perception",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/116",
+        "ref": "proficiencies/116",
         "value": 6
       },
       {
         "name": "Skill: Stealth",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/121",
+        "ref": "proficiencies/121",
         "value": 6
       }
     ],
@@ -21253,7 +21253,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/208"
   },
   {
-    "index": 209,
+    "id": "209",
     "name": "Nightmare",
     "size": "Large",
     "type": "fiend",
@@ -21326,7 +21326,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/209"
   },
   {
-    "index": 210,
+    "id": "210",
     "name": "Noble",
     "size": "Medium",
     "type": "humanoid",
@@ -21347,17 +21347,17 @@
     "proficiencies": [
       {
         "name": "Skill: Deception",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/109",
+        "ref": "proficiencies/109",
         "value": 5
       },
       {
         "name": "Skill: Insight",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/111",
+        "ref": "proficiencies/111",
         "value": 4
       },
       {
         "name": "Skill: Persuasion",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/118",
+        "ref": "proficiencies/118",
         "value": 5
       }
     ],
@@ -21396,7 +21396,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/210"
   },
   {
-    "index": 211,
+    "id": "211",
     "name": "Ochre Jelly",
     "size": "Large",
     "type": "ooze",
@@ -21500,7 +21500,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/211"
   },
   {
-    "index": 212,
+    "id": "212",
     "name": "Octopus",
     "size": "Small",
     "type": "beast",
@@ -21522,12 +21522,12 @@
     "proficiencies": [
       {
         "name": "Skill: Perception",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/116",
+        "ref": "proficiencies/116",
         "value": 2
       },
       {
         "name": "Skill: Stealth",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/121",
+        "ref": "proficiencies/121",
         "value": 4
       }
     ],
@@ -21580,7 +21580,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/212"
   },
   {
-    "index": 213,
+    "id": "213",
     "name": "Ogre",
     "size": "Large",
     "type": "giant",
@@ -21644,7 +21644,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/213"
   },
   {
-    "index": 214,
+    "id": "214",
     "name": "Ogre Zombie",
     "size": "Large",
     "type": "undead",
@@ -21665,7 +21665,7 @@
     "proficiencies": [
       {
         "name": "Saving Throw: WIS",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/103",
+        "ref": "proficiencies/103",
         "value": 0
       }
     ],
@@ -21712,7 +21712,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/214"
   },
   {
-    "index": 215,
+    "id": "215",
     "name": "Oni",
     "size": "Large",
     "type": "giant",
@@ -21734,37 +21734,37 @@
     "proficiencies": [
       {
         "name": "Saving Throw: DEX",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/100",
+        "ref": "proficiencies/100",
         "value": 3
       },
       {
         "name": "Saving Throw: CON",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/101",
+        "ref": "proficiencies/101",
         "value": 6
       },
       {
         "name": "Saving Throw: WIS",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/103",
+        "ref": "proficiencies/103",
         "value": 4
       },
       {
         "name": "Saving Throw: CHA",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/104",
+        "ref": "proficiencies/104",
         "value": 5
       },
       {
         "name": "Skill: Arcana",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/107",
+        "ref": "proficiencies/107",
         "value": 5
       },
       {
         "name": "Skill: Deception",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/109",
+        "ref": "proficiencies/109",
         "value": 8
       },
       {
         "name": "Skill: Perception",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/116",
+        "ref": "proficiencies/116",
         "value": 4
       }
     ],
@@ -21835,7 +21835,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/215"
   },
   {
-    "index": 216,
+    "id": "216",
     "name": "Orc",
     "size": "Medium",
     "type": "humanoid",
@@ -21856,7 +21856,7 @@
     "proficiencies": [
       {
         "name": "Skill: Intimidation",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/112",
+        "ref": "proficiencies/112",
         "value": 2
       }
     ],
@@ -21911,7 +21911,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/216"
   },
   {
-    "index": 217,
+    "id": "217",
     "name": "Otyugh",
     "size": "Large",
     "type": "aberration",
@@ -21932,7 +21932,7 @@
     "proficiencies": [
       {
         "name": "Saving Throw: CON",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/101",
+        "ref": "proficiencies/101",
         "value": 7
       }
     ],
@@ -22011,7 +22011,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/217"
   },
   {
-    "index": 218,
+    "id": "218",
     "name": "Owl",
     "size": "Tiny",
     "type": "beast",
@@ -22033,12 +22033,12 @@
     "proficiencies": [
       {
         "name": "Skill: Perception",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/116",
+        "ref": "proficiencies/116",
         "value": 3
       },
       {
         "name": "Skill: Stealth",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/121",
+        "ref": "proficiencies/121",
         "value": 3
       }
     ],
@@ -22082,7 +22082,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/218"
   },
   {
-    "index": 219,
+    "id": "219",
     "name": "Owlbear",
     "size": "Large",
     "type": "monstrosity",
@@ -22103,7 +22103,7 @@
     "proficiencies": [
       {
         "name": "Skill: Perception",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/116",
+        "ref": "proficiencies/116",
         "value": 3
       }
     ],
@@ -22162,7 +22162,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/219"
   },
   {
-    "index": 220,
+    "id": "220",
     "name": "Panther",
     "size": "Medium",
     "type": "beast",
@@ -22184,12 +22184,12 @@
     "proficiencies": [
       {
         "name": "Skill: Perception",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/116",
+        "ref": "proficiencies/116",
         "value": 4
       },
       {
         "name": "Skill: Stealth",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/121",
+        "ref": "proficiencies/121",
         "value": 6
       }
     ],
@@ -22247,7 +22247,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/220"
   },
   {
-    "index": 221,
+    "id": "221",
     "name": "Pegasus",
     "size": "Large",
     "type": "celestial",
@@ -22269,22 +22269,22 @@
     "proficiencies": [
       {
         "name": "Saving Throw: DEX",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/100",
+        "ref": "proficiencies/100",
         "value": 4
       },
       {
         "name": "Saving Throw: WIS",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/103",
+        "ref": "proficiencies/103",
         "value": 4
       },
       {
         "name": "Saving Throw: CHA",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/104",
+        "ref": "proficiencies/104",
         "value": 3
       },
       {
         "name": "Skill: Perception",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/116",
+        "ref": "proficiencies/116",
         "value": 6
       }
     ],
@@ -22317,7 +22317,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/221"
   },
   {
-    "index": 222,
+    "id": "222",
     "name": "Phase Spider",
     "size": "Large",
     "type": "monstrosity",
@@ -22339,7 +22339,7 @@
     "proficiencies": [
       {
         "name": "Skill: Stealth",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/121",
+        "ref": "proficiencies/121",
         "value": 6
       }
     ],
@@ -22387,7 +22387,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/222"
   },
   {
-    "index": 223,
+    "id": "223",
     "name": "Pit Fiend",
     "size": "Large",
     "type": "fiend",
@@ -22409,17 +22409,17 @@
     "proficiencies": [
       {
         "name": "Saving Throw: DEX",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/100",
+        "ref": "proficiencies/100",
         "value": 8
       },
       {
         "name": "Saving Throw: CON",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/101",
+        "ref": "proficiencies/101",
         "value": 13
       },
       {
         "name": "Saving Throw: WIS",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/103",
+        "ref": "proficiencies/103",
         "value": 10
       }
     ],
@@ -22539,7 +22539,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/223"
   },
   {
-    "index": 224,
+    "id": "224",
     "name": "Planetar",
     "size": "Large",
     "type": "celestial",
@@ -22561,22 +22561,22 @@
     "proficiencies": [
       {
         "name": "Saving Throw: CON",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/101",
+        "ref": "proficiencies/101",
         "value": 12
       },
       {
         "name": "Saving Throw: WIS",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/103",
+        "ref": "proficiencies/103",
         "value": 11
       },
       {
         "name": "Saving Throw: CHA",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/104",
+        "ref": "proficiencies/104",
         "value": 12
       },
       {
         "name": "Skill: Perception",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/116",
+        "ref": "proficiencies/116",
         "value": 11
       }
     ],
@@ -22660,7 +22660,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/224"
   },
   {
-    "index": 225,
+    "id": "225",
     "name": "Plesiosaurus",
     "size": "Large",
     "type": "beast",
@@ -22682,12 +22682,12 @@
     "proficiencies": [
       {
         "name": "Skill: Perception",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/116",
+        "ref": "proficiencies/116",
         "value": 3
       },
       {
         "name": "Skill: Stealth",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/121",
+        "ref": "proficiencies/121",
         "value": 4
       }
     ],
@@ -22726,7 +22726,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/225"
   },
   {
-    "index": 226,
+    "id": "226",
     "name": "Poisonous Snake",
     "size": "Tiny",
     "type": "beast",
@@ -22776,7 +22776,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/226"
   },
   {
-    "index": 227,
+    "id": "227",
     "name": "Polar Bear",
     "size": "Large",
     "type": "beast",
@@ -22798,7 +22798,7 @@
     "proficiencies": [
       {
         "name": "Skill: Perception",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/116",
+        "ref": "proficiencies/116",
         "value": 3
       }
     ],
@@ -22856,7 +22856,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/227"
   },
   {
-    "index": 228,
+    "id": "228",
     "name": "Pony",
     "size": "Medium",
     "type": "beast",
@@ -22904,7 +22904,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/228"
   },
   {
-    "index": 229,
+    "id": "229",
     "name": "Priest",
     "size": "Medium",
     "type": "humanoid",
@@ -22925,17 +22925,17 @@
     "proficiencies": [
       {
         "name": "Skill: Medicine",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/114",
+        "ref": "proficiencies/114",
         "value": 7
       },
       {
         "name": "Skill: Persuasion",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/118",
+        "ref": "proficiencies/118",
         "value": 3
       },
       {
         "name": "Skill: Religion",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/119",
+        "ref": "proficiencies/119",
         "value": 4
       }
     ],
@@ -22978,7 +22978,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/229"
   },
   {
-    "index": 230,
+    "id": "230",
     "name": "Pseudodragon",
     "size": "Tiny",
     "type": "dragon",
@@ -23000,12 +23000,12 @@
     "proficiencies": [
       {
         "name": "Skill: Perception",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/116",
+        "ref": "proficiencies/116",
         "value": 3
       },
       {
         "name": "Skill: Stealth",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/121",
+        "ref": "proficiencies/121",
         "value": 4
       }
     ],
@@ -23073,7 +23073,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/230"
   },
   {
-    "index": 231,
+    "id": "231",
     "name": "Purple Worm",
     "size": "Gargantuan",
     "type": "monstrosity",
@@ -23095,12 +23095,12 @@
     "proficiencies": [
       {
         "name": "Saving Throw: CON",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/101",
+        "ref": "proficiencies/101",
         "value": 11
       },
       {
         "name": "Saving Throw: WIS",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/103",
+        "ref": "proficiencies/103",
         "value": 4
       }
     ],
@@ -23160,7 +23160,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/231"
   },
   {
-    "index": 232,
+    "id": "232",
     "name": "Quasit",
     "size": "Tiny",
     "type": "fiend",
@@ -23181,7 +23181,7 @@
     "proficiencies": [
       {
         "name": "Skill: Stealth",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/121",
+        "ref": "proficiencies/121",
         "value": 5
       }
     ],
@@ -23257,7 +23257,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/232"
   },
   {
-    "index": 233,
+    "id": "233",
     "name": "Quipper",
     "size": "Tiny",
     "type": "beast",
@@ -23316,7 +23316,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/233"
   },
   {
-    "index": 234,
+    "id": "234",
     "name": "Rakshasa",
     "size": "Medium",
     "type": "fiend",
@@ -23337,12 +23337,12 @@
     "proficiencies": [
       {
         "name": "Skill: Deception",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/109",
+        "ref": "proficiencies/109",
         "value": 10
       },
       {
         "name": "Skill: Insight",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/111",
+        "ref": "proficiencies/111",
         "value": 8
       }
     ],
@@ -23394,7 +23394,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/234"
   },
   {
-    "index": 235,
+    "id": "235",
     "name": "Rat",
     "size": "Tiny",
     "type": "beast",
@@ -23449,7 +23449,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/235"
   },
   {
-    "index": 236,
+    "id": "236",
     "name": "Raven",
     "size": "Tiny",
     "type": "beast",
@@ -23471,7 +23471,7 @@
     "proficiencies": [
       {
         "name": "Skill: Perception",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/116",
+        "ref": "proficiencies/116",
         "value": 3
       }
     ],
@@ -23510,7 +23510,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/236"
   },
   {
-    "index": 237,
+    "id": "237",
     "name": "Red Dragon Wyrmling",
     "size": "Medium",
     "type": "dragon",
@@ -23533,32 +23533,32 @@
     "proficiencies": [
       {
         "name": "Saving Throw: DEX",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/100",
+        "ref": "proficiencies/100",
         "value": 2
       },
       {
         "name": "Saving Throw: CON",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/101",
+        "ref": "proficiencies/101",
         "value": 5
       },
       {
         "name": "Saving Throw: WIS",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/103",
+        "ref": "proficiencies/103",
         "value": 2
       },
       {
         "name": "Saving Throw: CHA",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/104",
+        "ref": "proficiencies/104",
         "value": 4
       },
       {
         "name": "Skill: Perception",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/116",
+        "ref": "proficiencies/116",
         "value": 4
       },
       {
         "name": "Skill: Stealth",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/121",
+        "ref": "proficiencies/121",
         "value": 2
       }
     ],
@@ -23625,7 +23625,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/237"
   },
   {
-    "index": 238,
+    "id": "238",
     "name": "Reef Shark",
     "size": "Medium",
     "type": "beast",
@@ -23646,7 +23646,7 @@
     "proficiencies": [
       {
         "name": "Skill: Perception",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/116",
+        "ref": "proficiencies/116",
         "value": 2
       }
     ],
@@ -23690,7 +23690,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/238"
   },
   {
-    "index": 239,
+    "id": "239",
     "name": "Remorhaz",
     "size": "Huge",
     "type": "monstrosity",
@@ -23772,7 +23772,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/239"
   },
   {
-    "index": 240,
+    "id": "240",
     "name": "Rhinoceros",
     "size": "Large",
     "type": "beast",
@@ -23826,7 +23826,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/240"
   },
   {
-    "index": 241,
+    "id": "241",
     "name": "Riding Horse",
     "size": "Large",
     "type": "beast",
@@ -23874,7 +23874,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/241"
   },
   {
-    "index": 242,
+    "id": "242",
     "name": "Roc",
     "size": "Gargantuan",
     "type": "monstrosity",
@@ -23896,27 +23896,27 @@
     "proficiencies": [
       {
         "name": "Saving Throw: DEX",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/100",
+        "ref": "proficiencies/100",
         "value": 4
       },
       {
         "name": "Saving Throw: CON",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/101",
+        "ref": "proficiencies/101",
         "value": 9
       },
       {
         "name": "Saving Throw: WIS",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/103",
+        "ref": "proficiencies/103",
         "value": 4
       },
       {
         "name": "Saving Throw: CHA",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/104",
+        "ref": "proficiencies/104",
         "value": 3
       },
       {
         "name": "Skill: Perception",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/116",
+        "ref": "proficiencies/116",
         "value": 4
       }
     ],
@@ -23974,7 +23974,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/242"
   },
   {
-    "index": 243,
+    "id": "243",
     "name": "Roper",
     "size": "Large",
     "type": "monstrosity",
@@ -23996,12 +23996,12 @@
     "proficiencies": [
       {
         "name": "Skill: Perception",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/116",
+        "ref": "proficiencies/116",
         "value": 6
       },
       {
         "name": "Skill: Stealth",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/121",
+        "ref": "proficiencies/121",
         "value": 5
       }
     ],
@@ -24062,7 +24062,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/243"
   },
   {
-    "index": 244,
+    "id": "244",
     "name": "Rug of Smothering",
     "size": "Large",
     "type": "construct",
@@ -24147,7 +24147,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/244"
   },
   {
-    "index": 245,
+    "id": "245",
     "name": "Rust Monster",
     "size": "Medium",
     "type": "monstrosity",
@@ -24210,7 +24210,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/245"
   },
   {
-    "index": 246,
+    "id": "246",
     "name": "Saber-Toothed Tiger",
     "size": "Large",
     "type": "beast",
@@ -24231,12 +24231,12 @@
     "proficiencies": [
       {
         "name": "Skill: Perception",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/116",
+        "ref": "proficiencies/116",
         "value": 3
       },
       {
         "name": "Skill: Stealth",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/121",
+        "ref": "proficiencies/121",
         "value": 6
       }
     ],
@@ -24294,7 +24294,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/246"
   },
   {
-    "index": 247,
+    "id": "247",
     "name": "Sahuagin",
     "size": "Medium",
     "type": "humanoid",
@@ -24316,7 +24316,7 @@
     "proficiencies": [
       {
         "name": "Skill: Perception",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/116",
+        "ref": "proficiencies/116",
         "value": 5
       }
     ],
@@ -24412,7 +24412,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/247"
   },
   {
-    "index": 248,
+    "id": "248",
     "name": "Salamander",
     "size": "Large",
     "type": "elemental",
@@ -24536,7 +24536,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/248"
   },
   {
-    "index": 249,
+    "id": "249",
     "name": "Satyr",
     "size": "Medium",
     "type": "fey",
@@ -24557,17 +24557,17 @@
     "proficiencies": [
       {
         "name": "Skill: Perception",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/116",
+        "ref": "proficiencies/116",
         "value": 2
       },
       {
         "name": "Skill: Performance",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/117",
+        "ref": "proficiencies/117",
         "value": 6
       },
       {
         "name": "Skill: Stealth",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/121",
+        "ref": "proficiencies/121",
         "value": 5
       }
     ],
@@ -24640,7 +24640,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/249"
   },
   {
-    "index": 250,
+    "id": "250",
     "name": "Scorpion",
     "size": "Tiny",
     "type": "beast",
@@ -24689,7 +24689,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/250"
   },
   {
-    "index": 251,
+    "id": "251",
     "name": "Scout",
     "size": "Medium",
     "type": "humanoid",
@@ -24710,22 +24710,22 @@
     "proficiencies": [
       {
         "name": "Skill: Nature",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/115",
+        "ref": "proficiencies/115",
         "value": 4
       },
       {
         "name": "Skill: Perception",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/116",
+        "ref": "proficiencies/116",
         "value": 5
       },
       {
         "name": "Skill: Stealth",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/121",
+        "ref": "proficiencies/121",
         "value": 6
       },
       {
         "name": "Skill: Survival",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/122",
+        "ref": "proficiencies/122",
         "value": 5
       }
     ],
@@ -24783,7 +24783,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/251"
   },
   {
-    "index": 252,
+    "id": "252",
     "name": "Sea Hag",
     "size": "Medium",
     "type": "fey",
@@ -24871,7 +24871,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/252"
   },
   {
-    "index": 253,
+    "id": "253",
     "name": "Sea Horse",
     "size": "Tiny",
     "type": "beast",
@@ -24908,7 +24908,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/253"
   },
   {
-    "index": 254,
+    "id": "254",
     "name": "Shadow",
     "size": "Medium",
     "type": "undead",
@@ -24929,7 +24929,7 @@
     "proficiencies": [
       {
         "name": "Skill: Stealth",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/121",
+        "ref": "proficiencies/121",
         "value": 4
       }
     ],
@@ -25022,7 +25022,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/254"
   },
   {
-    "index": 255,
+    "id": "255",
     "name": "Shambling Mound",
     "size": "Large",
     "type": "plant",
@@ -25044,7 +25044,7 @@
     "proficiencies": [
       {
         "name": "Skill: Stealth",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/121",
+        "ref": "proficiencies/121",
         "value": 2
       }
     ],
@@ -25110,7 +25110,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/255"
   },
   {
-    "index": 256,
+    "id": "256",
     "name": "Shield Guardian",
     "size": "Large",
     "type": "construct",
@@ -25207,7 +25207,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/256"
   },
   {
-    "index": 257,
+    "id": "257",
     "name": "Shrieker",
     "size": "Medium",
     "type": "plant",
@@ -25264,7 +25264,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/257"
   },
   {
-    "index": 258,
+    "id": "258",
     "name": "Silver Dragon Wyrmling",
     "size": "Medium",
     "type": "dragon",
@@ -25286,32 +25286,32 @@
     "proficiencies": [
       {
         "name": "Saving Throw: DEX",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/100",
+        "ref": "proficiencies/100",
         "value": 2
       },
       {
         "name": "Saving Throw: CON",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/101",
+        "ref": "proficiencies/101",
         "value": 5
       },
       {
         "name": "Saving Throw: WIS",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/103",
+        "ref": "proficiencies/103",
         "value": 2
       },
       {
         "name": "Saving Throw: CHA",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/104",
+        "ref": "proficiencies/104",
         "value": 4
       },
       {
         "name": "Skill: Perception",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/116",
+        "ref": "proficiencies/116",
         "value": 4
       },
       {
         "name": "Skill: Stealth",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/121",
+        "ref": "proficiencies/121",
         "value": 2
       }
     ],
@@ -25386,7 +25386,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/258"
   },
   {
-    "index": 259,
+    "id": "259",
     "name": "Skeleton",
     "size": "Medium",
     "type": "undead",
@@ -25457,7 +25457,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/259"
   },
   {
-    "index": 260,
+    "id": "260",
     "name": "Solar",
     "size": "Large",
     "type": "celestial",
@@ -25479,22 +25479,22 @@
     "proficiencies": [
       {
         "name": "Saving Throw: INT",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/102",
+        "ref": "proficiencies/102",
         "value": 14
       },
       {
         "name": "Saving Throw: WIS",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/103",
+        "ref": "proficiencies/103",
         "value": 14
       },
       {
         "name": "Saving Throw: CHA",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/104",
+        "ref": "proficiencies/104",
         "value": 17
       },
       {
         "name": "Skill: Perception",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/116",
+        "ref": "proficiencies/116",
         "value": 14
       }
     ],
@@ -25660,7 +25660,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/260"
   },
   {
-    "index": 261,
+    "id": "261",
     "name": "Specter",
     "size": "Medium",
     "type": "undead",
@@ -25768,7 +25768,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/261"
   },
   {
-    "index": 262,
+    "id": "262",
     "name": "Spider",
     "size": "Tiny",
     "type": "beast",
@@ -25790,7 +25790,7 @@
     "proficiencies": [
       {
         "name": "Skill: Stealth",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/121",
+        "ref": "proficiencies/121",
         "value": 4
       }
     ],
@@ -25838,7 +25838,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/262"
   },
   {
-    "index": 263,
+    "id": "263",
     "name": "Spirit Naga",
     "size": "Large",
     "type": "monstrosity",
@@ -25859,22 +25859,22 @@
     "proficiencies": [
       {
         "name": "Saving Throw: DEX",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/100",
+        "ref": "proficiencies/100",
         "value": 6
       },
       {
         "name": "Saving Throw: CON",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/101",
+        "ref": "proficiencies/101",
         "value": 5
       },
       {
         "name": "Saving Throw: WIS",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/103",
+        "ref": "proficiencies/103",
         "value": 5
       },
       {
         "name": "Saving Throw: CHA",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/104",
+        "ref": "proficiencies/104",
         "value": 6
       }
     ],
@@ -25929,7 +25929,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/263"
   },
   {
-    "index": 264,
+    "id": "264",
     "name": "Sprite",
     "size": "Tiny",
     "type": "fey",
@@ -25951,12 +25951,12 @@
     "proficiencies": [
       {
         "name": "Skill: Perception",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/116",
+        "ref": "proficiencies/116",
         "value": 3
       },
       {
         "name": "Skill: Stealth",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/121",
+        "ref": "proficiencies/121",
         "value": 8
       }
     ],
@@ -26020,7 +26020,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/264"
   },
   {
-    "index": 265,
+    "id": "265",
     "name": "Spy",
     "size": "Medium",
     "type": "humanoid",
@@ -26041,32 +26041,32 @@
     "proficiencies": [
       {
         "name": "Skill: Deception",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/109",
+        "ref": "proficiencies/109",
         "value": 5
       },
       {
         "name": "Skill: Insight",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/111",
+        "ref": "proficiencies/111",
         "value": 4
       },
       {
         "name": "Skill: Investigation",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/113",
+        "ref": "proficiencies/113",
         "value": 5
       },
       {
         "name": "Skill: Perception",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/116",
+        "ref": "proficiencies/116",
         "value": 6
       },
       {
         "name": "Skill: Persuasion",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/118",
+        "ref": "proficiencies/118",
         "value": 5
       },
       {
         "name": "Skill: Stealth",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/121",
+        "ref": "proficiencies/121",
         "value": 4
       }
     ],
@@ -26128,7 +26128,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/265"
   },
   {
-    "index": 266,
+    "id": "266",
     "name": "Steam Mephit",
     "size": "Small",
     "type": "elemental",
@@ -26248,7 +26248,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/266"
   },
   {
-    "index": 267,
+    "id": "267",
     "name": "Stirge",
     "size": "Tiny",
     "type": "beast",
@@ -26298,7 +26298,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/267"
   },
   {
-    "index": 268,
+    "id": "268",
     "name": "Stone Giant",
     "size": "Huge",
     "type": "giant",
@@ -26319,27 +26319,27 @@
     "proficiencies": [
       {
         "name": "Saving Throw: DEX",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/100",
+        "ref": "proficiencies/100",
         "value": 5
       },
       {
         "name": "Saving Throw: CON",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/101",
+        "ref": "proficiencies/101",
         "value": 8
       },
       {
         "name": "Saving Throw: WIS",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/103",
+        "ref": "proficiencies/103",
         "value": 4
       },
       {
         "name": "Skill: Athletics",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/108",
+        "ref": "proficiencies/108",
         "value": 12
       },
       {
         "name": "Skill: Perception",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/116",
+        "ref": "proficiencies/116",
         "value": 4
       }
     ],
@@ -26404,7 +26404,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/268"
   },
   {
-    "index": 269,
+    "id": "269",
     "name": "Stone Golem",
     "size": "Large",
     "type": "construct",
@@ -26512,7 +26512,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/269"
   },
   {
-    "index": 270,
+    "id": "270",
     "name": "Storm Giant",
     "size": "Huge",
     "type": "giant",
@@ -26534,42 +26534,42 @@
     "proficiencies": [
       {
         "name": "Saving Throw: STR",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/99",
+        "ref": "proficiencies/99",
         "value": 14
       },
       {
         "name": "Saving Throw: CON",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/101",
+        "ref": "proficiencies/101",
         "value": 10
       },
       {
         "name": "Saving Throw: WIS",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/103",
+        "ref": "proficiencies/103",
         "value": 9
       },
       {
         "name": "Saving Throw: CHA",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/104",
+        "ref": "proficiencies/104",
         "value": 9
       },
       {
         "name": "Skill: Arcana",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/107",
+        "ref": "proficiencies/107",
         "value": 8
       },
       {
         "name": "Skill: Athletics",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/108",
+        "ref": "proficiencies/108",
         "value": 14
       },
       {
         "name": "Skill: History",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/110",
+        "ref": "proficiencies/110",
         "value": 8
       },
       {
         "name": "Skill: Perception",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/116",
+        "ref": "proficiencies/116",
         "value": 9
       }
     ],
@@ -26658,7 +26658,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/270"
   },
   {
-    "index": 271,
+    "id": "271",
     "name": "Succubus/Incubus",
     "size": "Medium",
     "type": "fiend",
@@ -26680,27 +26680,27 @@
     "proficiencies": [
       {
         "name": "Skill: Deception",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/109",
+        "ref": "proficiencies/109",
         "value": 9
       },
       {
         "name": "Skill: Insight",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/111",
+        "ref": "proficiencies/111",
         "value": 5
       },
       {
         "name": "Skill: Perception",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/116",
+        "ref": "proficiencies/116",
         "value": 5
       },
       {
         "name": "Skill: Persuasion",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/118",
+        "ref": "proficiencies/118",
         "value": 9
       },
       {
         "name": "Skill: Stealth",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/121",
+        "ref": "proficiencies/121",
         "value": 7
       }
     ],
@@ -26781,7 +26781,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/271"
   },
   {
-    "index": 272,
+    "id": "272",
     "name": "Swarm of Bats",
     "size": "Medium",
     "type": "swarm of Tiny beasts",
@@ -26882,7 +26882,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/272"
   },
   {
-    "index": 273,
+    "id": "273",
     "name": "Swarm of Beetles",
     "size": "Medium",
     "type": "swarm of Tiny beasts",
@@ -26976,7 +26976,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/273"
   },
   {
-    "index": 274,
+    "id": "274",
     "name": "Swarm of Centipedes",
     "size": "Medium",
     "type": "swarm of Tiny beasts",
@@ -27069,7 +27069,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/274"
   },
   {
-    "index": 275,
+    "id": "275",
     "name": "Swarm of Insects",
     "size": "Medium",
     "type": "swarm of Tiny beasts",
@@ -27162,7 +27162,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/275"
   },
   {
-    "index": 276,
+    "id": "276",
     "name": "Swarm of Poisonous Snakes",
     "size": "Medium",
     "type": "swarm of Tiny beasts",
@@ -27255,7 +27255,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/276"
   },
   {
-    "index": 277,
+    "id": "277",
     "name": "Swarm of Quippers",
     "size": "Medium",
     "type": "swarm of Tiny beasts",
@@ -27356,7 +27356,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/277"
   },
   {
-    "index": 278,
+    "id": "278",
     "name": "Swarm of Rats",
     "size": "Medium",
     "type": "swarm of Tiny beasts",
@@ -27452,7 +27452,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/278"
   },
   {
-    "index": 279,
+    "id": "279",
     "name": "Swarm of Ravens",
     "size": "Medium",
     "type": "swarm of Tiny beasts",
@@ -27544,7 +27544,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/279"
   },
   {
-    "index": 280,
+    "id": "280",
     "name": "Swarm of Spiders",
     "size": "Medium",
     "type": "swarm of Tiny beasts",
@@ -27645,7 +27645,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/280"
   },
   {
-    "index": 281,
+    "id": "281",
     "name": "Swarm of Wasps",
     "size": "Medium",
     "type": "swarm of Tiny beasts",
@@ -27738,7 +27738,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/281"
   },
   {
-    "index": 282,
+    "id": "282",
     "name": "Tarrasque",
     "size": "Gargantuan",
     "type": "monstrosity",
@@ -27759,17 +27759,17 @@
     "proficiencies": [
       {
         "name": "Saving Throw: INT",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/102",
+        "ref": "proficiencies/102",
         "value": 5
       },
       {
         "name": "Saving Throw: WIS",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/103",
+        "ref": "proficiencies/103",
         "value": 9
       },
       {
         "name": "Saving Throw: CHA",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/104",
+        "ref": "proficiencies/104",
         "value": 9
       }
     ],
@@ -27921,7 +27921,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/282"
   },
   {
-    "index": 283,
+    "id": "283",
     "name": "Thug",
     "size": "Medium",
     "type": "humanoid",
@@ -27942,7 +27942,7 @@
     "proficiencies": [
       {
         "name": "Skill: Intimidation",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/112",
+        "ref": "proficiencies/112",
         "value": 2
       }
     ],
@@ -28000,7 +28000,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/283"
   },
   {
-    "index": 284,
+    "id": "284",
     "name": "Tiger",
     "size": "Large",
     "type": "beast",
@@ -28021,12 +28021,12 @@
     "proficiencies": [
       {
         "name": "Skill: Perception",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/116",
+        "ref": "proficiencies/116",
         "value": 3
       },
       {
         "name": "Skill: Stealth",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/121",
+        "ref": "proficiencies/121",
         "value": 6
       }
     ],
@@ -28085,7 +28085,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/284"
   },
   {
-    "index": 285,
+    "id": "285",
     "name": "Treant",
     "size": "Huge",
     "type": "plant",
@@ -28171,7 +28171,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/285"
   },
   {
-    "index": 286,
+    "id": "286",
     "name": "Tribal Warrior",
     "size": "Medium",
     "type": "humanoid",
@@ -28239,7 +28239,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/286"
   },
   {
-    "index": 287,
+    "id": "287",
     "name": "Triceratops",
     "size": "Huge",
     "type": "beast",
@@ -28308,7 +28308,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/287"
   },
   {
-    "index": 288,
+    "id": "288",
     "name": "Troll",
     "size": "Large",
     "type": "giant",
@@ -28329,7 +28329,7 @@
     "proficiencies": [
       {
         "name": "Skill: Perception",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/116",
+        "ref": "proficiencies/116",
         "value": 2
       }
     ],
@@ -28396,7 +28396,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/288"
   },
   {
-    "index": 289,
+    "id": "289",
     "name": "Tyrannosaurus Rex",
     "size": "Huge",
     "type": "beast",
@@ -28417,7 +28417,7 @@
     "proficiencies": [
       {
         "name": "Skill: Perception",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/116",
+        "ref": "proficiencies/116",
         "value": 4
       }
     ],
@@ -28469,7 +28469,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/289"
   },
   {
-    "index": 290,
+    "id": "290",
     "name": "Unicorn",
     "size": "Large",
     "type": "celestial",
@@ -28592,7 +28592,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/290"
   },
   {
-    "index": 291,
+    "id": "291",
     "name": "Vampire",
     "size": "Medium",
     "type": "undead",
@@ -28613,27 +28613,27 @@
     "proficiencies": [
       {
         "name": "Saving Throw: DEX",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/100",
+        "ref": "proficiencies/100",
         "value": 9
       },
       {
         "name": "Saving Throw: WIS",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/103",
+        "ref": "proficiencies/103",
         "value": 7
       },
       {
         "name": "Saving Throw: CHA",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/104",
+        "ref": "proficiencies/104",
         "value": 9
       },
       {
         "name": "Skill: Perception",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/116",
+        "ref": "proficiencies/116",
         "value": 7
       },
       {
         "name": "Skill: Stealth",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/121",
+        "ref": "proficiencies/121",
         "value": 9
       }
     ],
@@ -28756,7 +28756,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/291"
   },
   {
-    "index": 292,
+    "id": "292",
     "name": "Vampire Spawn",
     "size": "Medium",
     "type": "undead",
@@ -28777,22 +28777,22 @@
     "proficiencies": [
       {
         "name": "Saving Throw: DEX",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/100",
+        "ref": "proficiencies/100",
         "value": 6
       },
       {
         "name": "Saving Throw: WIS",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/103",
+        "ref": "proficiencies/103",
         "value": 3
       },
       {
         "name": "Skill: Perception",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/116",
+        "ref": "proficiencies/116",
         "value": 3
       },
       {
         "name": "Skill: Stealth",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/121",
+        "ref": "proficiencies/121",
         "value": 6
       }
     ],
@@ -28870,7 +28870,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/292"
   },
   {
-    "index": 293,
+    "id": "293",
     "name": "Veteran",
     "size": "Medium",
     "type": "humanoid",
@@ -28891,12 +28891,12 @@
     "proficiencies": [
       {
         "name": "Skill: Athletics",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/108",
+        "ref": "proficiencies/108",
         "value": 5
       },
       {
         "name": "Skill: Perception",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/116",
+        "ref": "proficiencies/116",
         "value": 2
       }
     ],
@@ -28977,7 +28977,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/293"
   },
   {
-    "index": 294,
+    "id": "294",
     "name": "Violet Fungus",
     "size": "Medium",
     "type": "plant",
@@ -29049,7 +29049,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/294"
   },
   {
-    "index": 295,
+    "id": "295",
     "name": "Vrock",
     "size": "Large",
     "type": "fiend",
@@ -29071,17 +29071,17 @@
     "proficiencies": [
       {
         "name": "Saving Throw: DEX",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/100",
+        "ref": "proficiencies/100",
         "value": 5
       },
       {
         "name": "Saving Throw: WIS",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/103",
+        "ref": "proficiencies/103",
         "value": 4
       },
       {
         "name": "Saving Throw: CHA",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/104",
+        "ref": "proficiencies/104",
         "value": 2
       }
     ],
@@ -29180,7 +29180,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/295"
   },
   {
-    "index": 296,
+    "id": "296",
     "name": "Vulture",
     "size": "Medium",
     "type": "beast",
@@ -29202,7 +29202,7 @@
     "proficiencies": [
       {
         "name": "Skill: Perception",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/116",
+        "ref": "proficiencies/116",
         "value": 3
       }
     ],
@@ -29245,7 +29245,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/296"
   },
   {
-    "index": 297,
+    "id": "297",
     "name": "Warhorse",
     "size": "Large",
     "type": "beast",
@@ -29299,7 +29299,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/297"
   },
   {
-    "index": 298,
+    "id": "298",
     "name": "Warhorse Skeleton",
     "size": "Large",
     "type": "undead",
@@ -29361,7 +29361,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/298"
   },
   {
-    "index": 299,
+    "id": "299",
     "name": "Water Elemental",
     "size": "Large",
     "type": "elemental",
@@ -29485,7 +29485,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/299"
   },
   {
-    "index": 300,
+    "id": "300",
     "name": "Weasel",
     "size": "Tiny",
     "type": "beast",
@@ -29506,12 +29506,12 @@
     "proficiencies": [
       {
         "name": "Skill: Perception",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/116",
+        "ref": "proficiencies/116",
         "value": 3
       },
       {
         "name": "Skill: Stealth",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/121",
+        "ref": "proficiencies/121",
         "value": 5
       }
     ],
@@ -29550,7 +29550,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/300"
   },
   {
-    "index": 301,
+    "id": "301",
     "name": "Werebear",
     "size": "Medium",
     "type": "humanoid",
@@ -29587,7 +29587,7 @@
     "proficiencies": [
       {
         "name": "Skill: Perception",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/116",
+        "ref": "proficiencies/116",
         "value": 7
       }
     ],
@@ -29666,7 +29666,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/301"
   },
   {
-    "index": 302,
+    "id": "302",
     "name": "Wereboar",
     "size": "Medium",
     "type": "humanoid",
@@ -29695,7 +29695,7 @@
     "proficiencies": [
       {
         "name": "Skill: Perception",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/116",
+        "ref": "proficiencies/116",
         "value": 2
       }
     ],
@@ -29764,7 +29764,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/302"
   },
   {
-    "index": 303,
+    "id": "303",
     "name": "Wererat",
     "size": "Medium",
     "type": "humanoid",
@@ -29785,12 +29785,12 @@
     "proficiencies": [
       {
         "name": "Skill: Perception",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/116",
+        "ref": "proficiencies/116",
         "value": 2
       },
       {
         "name": "Skill: Stealth",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/121",
+        "ref": "proficiencies/121",
         "value": 4
       }
     ],
@@ -29870,7 +29870,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/303"
   },
   {
-    "index": 304,
+    "id": "304",
     "name": "Weretiger",
     "size": "Medium",
     "type": "humanoid",
@@ -29899,12 +29899,12 @@
     "proficiencies": [
       {
         "name": "Skill: Perception",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/116",
+        "ref": "proficiencies/116",
         "value": 5
       },
       {
         "name": "Skill: Stealth",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/121",
+        "ref": "proficiencies/121",
         "value": 4
       }
     ],
@@ -30003,7 +30003,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/304"
   },
   {
-    "index": 305,
+    "id": "305",
     "name": "Werewolf",
     "size": "Medium",
     "type": "humanoid",
@@ -30032,7 +30032,7 @@
     "proficiencies": [
       {
         "name": "Skill: Perception",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/116",
+        "ref": "proficiencies/116",
         "value": 4
       }
     ],
@@ -30125,7 +30125,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/305"
   },
   {
-    "index": 306,
+    "id": "306",
     "name": "White Dragon Wyrmling",
     "size": "Medium",
     "type": "dragon",
@@ -30149,32 +30149,32 @@
     "proficiencies": [
       {
         "name": "Saving Throw: DEX",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/100",
+        "ref": "proficiencies/100",
         "value": 2
       },
       {
         "name": "Saving Throw: CON",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/101",
+        "ref": "proficiencies/101",
         "value": 4
       },
       {
         "name": "Saving Throw: WIS",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/103",
+        "ref": "proficiencies/103",
         "value": 2
       },
       {
         "name": "Saving Throw: CHA",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/104",
+        "ref": "proficiencies/104",
         "value": 2
       },
       {
         "name": "Skill: Perception",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/116",
+        "ref": "proficiencies/116",
         "value": 4
       },
       {
         "name": "Skill: Stealth",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/121",
+        "ref": "proficiencies/121",
         "value": 2
       }
     ],
@@ -30241,7 +30241,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/306"
   },
   {
-    "index": 307,
+    "id": "307",
     "name": "Wight",
     "size": "Medium",
     "type": "undead",
@@ -30262,12 +30262,12 @@
     "proficiencies": [
       {
         "name": "Skill: Perception",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/116",
+        "ref": "proficiencies/116",
         "value": 3
       },
       {
         "name": "Skill: Stealth",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/121",
+        "ref": "proficiencies/121",
         "value": 4
       }
     ],
@@ -30363,7 +30363,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/307"
   },
   {
-    "index": 308,
+    "id": "308",
     "name": "Will-o'-Wisp",
     "size": "Tiny",
     "type": "undead",
@@ -30483,7 +30483,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/308"
   },
   {
-    "index": 309,
+    "id": "309",
     "name": "Winter Wolf",
     "size": "Large",
     "type": "monstrosity",
@@ -30504,12 +30504,12 @@
     "proficiencies": [
       {
         "name": "Skill: Perception",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/116",
+        "ref": "proficiencies/116",
         "value": 5
       },
       {
         "name": "Skill: Stealth",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/121",
+        "ref": "proficiencies/121",
         "value": 3
       }
     ],
@@ -30580,7 +30580,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/309"
   },
   {
-    "index": 310,
+    "id": "310",
     "name": "Wolf",
     "size": "Medium",
     "type": "beast",
@@ -30601,12 +30601,12 @@
     "proficiencies": [
       {
         "name": "Skill: Perception",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/116",
+        "ref": "proficiencies/116",
         "value": 3
       },
       {
         "name": "Skill: Stealth",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/121",
+        "ref": "proficiencies/121",
         "value": 4
       }
     ],
@@ -30649,7 +30649,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/310"
   },
   {
-    "index": 311,
+    "id": "311",
     "name": "Worg",
     "size": "Large",
     "type": "monstrosity",
@@ -30670,7 +30670,7 @@
     "proficiencies": [
       {
         "name": "Skill: Perception",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/116",
+        "ref": "proficiencies/116",
         "value": 4
       }
     ],
@@ -30710,7 +30710,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/311"
   },
   {
-    "index": 312,
+    "id": "312",
     "name": "Wraith",
     "size": "Medium",
     "type": "undead",
@@ -30818,7 +30818,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/312"
   },
   {
-    "index": 313,
+    "id": "313",
     "name": "Wyvern",
     "size": "Large",
     "type": "dragon",
@@ -30840,7 +30840,7 @@
     "proficiencies": [
       {
         "name": "Skill: Perception",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/116",
+        "ref": "proficiencies/116",
         "value": 4
       }
     ],
@@ -30908,7 +30908,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/313"
   },
   {
-    "index": 314,
+    "id": "314",
     "name": "Xorn",
     "size": "Medium",
     "type": "elemental",
@@ -30930,12 +30930,12 @@
     "proficiencies": [
       {
         "name": "Skill: Perception",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/116",
+        "ref": "proficiencies/116",
         "value": 6
       },
       {
         "name": "Skill: Stealth",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/121",
+        "ref": "proficiencies/121",
         "value": 3
       }
     ],
@@ -31005,7 +31005,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/314"
   },
   {
-    "index": 315,
+    "id": "315",
     "name": "Young Black Dragon",
     "size": "Large",
     "type": "dragon",
@@ -31028,32 +31028,32 @@
     "proficiencies": [
       {
         "name": "Saving Throw: DEX",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/100",
+        "ref": "proficiencies/100",
         "value": 5
       },
       {
         "name": "Saving Throw: CON",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/101",
+        "ref": "proficiencies/101",
         "value": 6
       },
       {
         "name": "Saving Throw: WIS",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/103",
+        "ref": "proficiencies/103",
         "value": 3
       },
       {
         "name": "Saving Throw: CHA",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/104",
+        "ref": "proficiencies/104",
         "value": 5
       },
       {
         "name": "Skill: Perception",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/116",
+        "ref": "proficiencies/116",
         "value": 6
       },
       {
         "name": "Skill: Stealth",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/121",
+        "ref": "proficiencies/121",
         "value": 5
       }
     ],
@@ -31145,7 +31145,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/315"
   },
   {
-    "index": 316,
+    "id": "316",
     "name": "Young Blue Dragon",
     "size": "Large",
     "type": "dragon",
@@ -31168,32 +31168,32 @@
     "proficiencies": [
       {
         "name": "Saving Throw: DEX",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/100",
+        "ref": "proficiencies/100",
         "value": 4
       },
       {
         "name": "Saving Throw: CON",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/101",
+        "ref": "proficiencies/101",
         "value": 8
       },
       {
         "name": "Saving Throw: WIS",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/103",
+        "ref": "proficiencies/103",
         "value": 5
       },
       {
         "name": "Saving Throw: CHA",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/104",
+        "ref": "proficiencies/104",
         "value": 7
       },
       {
         "name": "Skill: Perception",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/116",
+        "ref": "proficiencies/116",
         "value": 9
       },
       {
         "name": "Skill: Stealth",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/121",
+        "ref": "proficiencies/121",
         "value": 4
       }
     ],
@@ -31279,7 +31279,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/316"
   },
   {
-    "index": 317,
+    "id": "317",
     "name": "Young Brass Dragon",
     "size": "Large",
     "type": "dragon",
@@ -31302,37 +31302,37 @@
     "proficiencies": [
       {
         "name": "Saving Throw: DEX",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/100",
+        "ref": "proficiencies/100",
         "value": 3
       },
       {
         "name": "Saving Throw: CON",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/101",
+        "ref": "proficiencies/101",
         "value": 6
       },
       {
         "name": "Saving Throw: WIS",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/103",
+        "ref": "proficiencies/103",
         "value": 3
       },
       {
         "name": "Saving Throw: CHA",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/104",
+        "ref": "proficiencies/104",
         "value": 5
       },
       {
         "name": "Skill: Perception",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/116",
+        "ref": "proficiencies/116",
         "value": 6
       },
       {
         "name": "Skill: Persuasion",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/118",
+        "ref": "proficiencies/118",
         "value": 5
       },
       {
         "name": "Skill: Stealth",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/121",
+        "ref": "proficiencies/121",
         "value": 3
       }
     ],
@@ -31427,7 +31427,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/317"
   },
   {
-    "index": 318,
+    "id": "318",
     "name": "Young Bronze Dragon",
     "size": "Large",
     "type": "dragon",
@@ -31450,37 +31450,37 @@
     "proficiencies": [
       {
         "name": "Saving Throw: DEX",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/100",
+        "ref": "proficiencies/100",
         "value": 3
       },
       {
         "name": "Saving Throw: CON",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/101",
+        "ref": "proficiencies/101",
         "value": 7
       },
       {
         "name": "Saving Throw: WIS",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/103",
+        "ref": "proficiencies/103",
         "value": 4
       },
       {
         "name": "Saving Throw: CHA",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/104",
+        "ref": "proficiencies/104",
         "value": 6
       },
       {
         "name": "Skill: Insight",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/111",
+        "ref": "proficiencies/111",
         "value": 4
       },
       {
         "name": "Skill: Perception",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/116",
+        "ref": "proficiencies/116",
         "value": 7
       },
       {
         "name": "Skill: Stealth",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/121",
+        "ref": "proficiencies/121",
         "value": 3
       }
     ],
@@ -31581,7 +31581,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/318"
   },
   {
-    "index": 319,
+    "id": "319",
     "name": "Young Copper Dragon",
     "size": "Large",
     "type": "dragon",
@@ -31604,37 +31604,37 @@
     "proficiencies": [
       {
         "name": "Saving Throw: DEX",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/100",
+        "ref": "proficiencies/100",
         "value": 4
       },
       {
         "name": "Saving Throw: CON",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/101",
+        "ref": "proficiencies/101",
         "value": 6
       },
       {
         "name": "Saving Throw: WIS",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/103",
+        "ref": "proficiencies/103",
         "value": 4
       },
       {
         "name": "Saving Throw: CHA",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/104",
+        "ref": "proficiencies/104",
         "value": 5
       },
       {
         "name": "Skill: Deception",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/109",
+        "ref": "proficiencies/109",
         "value": 5
       },
       {
         "name": "Skill: Perception",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/116",
+        "ref": "proficiencies/116",
         "value": 7
       },
       {
         "name": "Skill: Stealth",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/121",
+        "ref": "proficiencies/121",
         "value": 4
       }
     ],
@@ -31728,7 +31728,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/319"
   },
   {
-    "index": 320,
+    "id": "320",
     "name": "Young Gold Dragon",
     "size": "Large",
     "type": "dragon",
@@ -31751,42 +31751,42 @@
     "proficiencies": [
       {
         "name": "Saving Throw: DEX",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/100",
+        "ref": "proficiencies/100",
         "value": 6
       },
       {
         "name": "Saving Throw: CON",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/101",
+        "ref": "proficiencies/101",
         "value": 9
       },
       {
         "name": "Saving Throw: WIS",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/103",
+        "ref": "proficiencies/103",
         "value": 5
       },
       {
         "name": "Saving Throw: CHA",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/104",
+        "ref": "proficiencies/104",
         "value": 9
       },
       {
         "name": "Skill: Insight",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/111",
+        "ref": "proficiencies/111",
         "value": 5
       },
       {
         "name": "Skill: Perception",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/116",
+        "ref": "proficiencies/116",
         "value": 9
       },
       {
         "name": "Skill: Persuasion",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/118",
+        "ref": "proficiencies/118",
         "value": 9
       },
       {
         "name": "Skill: Stealth",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/121",
+        "ref": "proficiencies/121",
         "value": 6
       }
     ],
@@ -31886,7 +31886,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/320"
   },
   {
-    "index": 321,
+    "id": "321",
     "name": "Young Green Dragon",
     "size": "Large",
     "type": "dragon",
@@ -31909,37 +31909,37 @@
     "proficiencies": [
       {
         "name": "Saving Throw: DEX",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/100",
+        "ref": "proficiencies/100",
         "value": 4
       },
       {
         "name": "Saving Throw: CON",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/101",
+        "ref": "proficiencies/101",
         "value": 6
       },
       {
         "name": "Saving Throw: WIS",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/103",
+        "ref": "proficiencies/103",
         "value": 4
       },
       {
         "name": "Saving Throw: CHA",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/104",
+        "ref": "proficiencies/104",
         "value": 5
       },
       {
         "name": "Skill: Deception",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/109",
+        "ref": "proficiencies/109",
         "value": 5
       },
       {
         "name": "Skill: Perception",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/116",
+        "ref": "proficiencies/116",
         "value": 7
       },
       {
         "name": "Skill: Stealth",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/121",
+        "ref": "proficiencies/121",
         "value": 4
       }
     ],
@@ -32036,7 +32036,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/321"
   },
   {
-    "index": 322,
+    "id": "322",
     "name": "Young Red Dragon",
     "size": "Large",
     "type": "dragon",
@@ -32059,32 +32059,32 @@
     "proficiencies": [
       {
         "name": "Saving Throw: DEX",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/100",
+        "ref": "proficiencies/100",
         "value": 4
       },
       {
         "name": "Saving Throw: CON",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/101",
+        "ref": "proficiencies/101",
         "value": 9
       },
       {
         "name": "Saving Throw: WIS",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/103",
+        "ref": "proficiencies/103",
         "value": 4
       },
       {
         "name": "Saving Throw: CHA",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/104",
+        "ref": "proficiencies/104",
         "value": 8
       },
       {
         "name": "Skill: Perception",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/116",
+        "ref": "proficiencies/116",
         "value": 8
       },
       {
         "name": "Skill: Stealth",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/121",
+        "ref": "proficiencies/121",
         "value": 4
       }
     ],
@@ -32170,7 +32170,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/322"
   },
   {
-    "index": 323,
+    "id": "323",
     "name": "Young Silver Dragon",
     "size": "Large",
     "type": "dragon",
@@ -32192,42 +32192,42 @@
     "proficiencies": [
       {
         "name": "Saving Throw: DEX",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/100",
+        "ref": "proficiencies/100",
         "value": 4
       },
       {
         "name": "Saving Throw: CON",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/101",
+        "ref": "proficiencies/101",
         "value": 9
       },
       {
         "name": "Saving Throw: WIS",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/103",
+        "ref": "proficiencies/103",
         "value": 4
       },
       {
         "name": "Saving Throw: CHA",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/104",
+        "ref": "proficiencies/104",
         "value": 8
       },
       {
         "name": "Skill: Arcana",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/107",
+        "ref": "proficiencies/107",
         "value": 6
       },
       {
         "name": "Skill: History",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/110",
+        "ref": "proficiencies/110",
         "value": 6
       },
       {
         "name": "Skill: Perception",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/116",
+        "ref": "proficiencies/116",
         "value": 8
       },
       {
         "name": "Skill: Stealth",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/121",
+        "ref": "proficiencies/121",
         "value": 4
       }
     ],
@@ -32321,7 +32321,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/323"
   },
   {
-    "index": 324,
+    "id": "324",
     "name": "Young White Dragon",
     "size": "Large",
     "type": "dragon",
@@ -32345,32 +32345,32 @@
     "proficiencies": [
       {
         "name": "Saving Throw: DEX",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/100",
+        "ref": "proficiencies/100",
         "value": 3
       },
       {
         "name": "Saving Throw: CON",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/101",
+        "ref": "proficiencies/101",
         "value": 7
       },
       {
         "name": "Saving Throw: WIS",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/103",
+        "ref": "proficiencies/103",
         "value": 3
       },
       {
         "name": "Saving Throw: CHA",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/104",
+        "ref": "proficiencies/104",
         "value": 4
       },
       {
         "name": "Skill: Perception",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/116",
+        "ref": "proficiencies/116",
         "value": 6
       },
       {
         "name": "Skill: Stealth",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/121",
+        "ref": "proficiencies/121",
         "value": 3
       }
     ],
@@ -32462,7 +32462,7 @@
     "url": "http://www.dnd5eapi.co/api/monsters/324"
   },
   {
-    "index": 325,
+    "id": "325",
     "name": "Zombie",
     "size": "Medium",
     "type": "undead",
@@ -32483,7 +32483,7 @@
     "proficiencies": [
       {
         "name": "Saving Throw: WIS",
-        "url": "http://www.dnd5eapi.co/api/proficiencies/103",
+        "ref": "proficiencies/103",
         "value": 0
       }
     ],

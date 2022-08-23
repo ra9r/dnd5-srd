@@ -1,13 +1,13 @@
 [
   {
-    "index": 1,
+    "id": "1",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/2",
+      "ref": "classes/2",
       "name": "Bard"
     },
     "level": 1,
     "spellcasting_ability": {
-      "url": "http://www.dnd5eapi.co/api/ability-scores/6",
+      "ref": "ability-scores/6",
       "name": "CHA"
     },
     "info": [
@@ -57,14 +57,14 @@
     "url": "http://www.dnd5eapi.co/api/spellcasting/1"
   },
   {
-    "index": 2,
+    "id": "2",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/3",
+      "ref": "classes/3",
       "name": "Cleric"
     },
     "level": 1,
     "spellcasting_ability": {
-      "url": "http://www.dnd5eapi.co/api/ability-scores/5",
+      "ref": "ability-scores/5",
       "name": "WIS"
     },
     "info": [
@@ -107,14 +107,14 @@
     "url": "http://www.dnd5eapi.co/api/spellcasting/2"
   },
   {
-    "index": 3,
+    "id": "3",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/4",
+      "ref": "classes/4",
       "name": "Druid"
     },
     "level": 1,
     "spellcasting_ability": {
-      "url": "http://www.dnd5eapi.co/api/ability-scores/5",
+      "ref": "ability-scores/5",
       "name": "WIS"
     },
     "info": [
@@ -155,14 +155,14 @@
     "url": "http://www.dnd5eapi.co/api/spellcasting/3"
   },
   {
-    "index": 4,
+    "id": "4",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/7",
+      "ref": "classes/7",
       "name": "Paladin"
     },
     "level": 2,
     "spellcasting_ability": {
-      "url": "http://www.dnd5eapi.co/api/ability-scores/6",
+      "ref": "ability-scores/6",
       "name": "CHA"
     },
     "info": [
@@ -191,14 +191,14 @@
     "url": "http://www.dnd5eapi.co/api/spellcasting/4"
   },
   {
-    "index": 5,
+    "id": "5",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/8",
+      "ref": "classes/8",
       "name": "Ranger"
     },
     "level": 2,
     "spellcasting_ability": {
-      "url": "http://www.dnd5eapi.co/api/ability-scores/5",
+      "ref": "ability-scores/5",
       "name": "WIS"
     },
     "info": [
@@ -227,14 +227,14 @@
     "url": "http://www.dnd5eapi.co/api/spellcasting/5"
   },
   {
-    "index": 6,
+    "id": "6",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/10",
+      "ref": "classes/10",
       "name": "Sorcerer"
     },
     "level": 1,
     "spellcasting_ability": {
-      "url": "http://www.dnd5eapi.co/api/ability-scores/6",
+      "ref": "ability-scores/6",
       "name": "CHA"
     },
     "info": [
@@ -275,14 +275,14 @@
     "url": "http://www.dnd5eapi.co/api/spellcasting/6"
   },
   {
-    "index": 7,
+    "id": "7",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/11",
+      "ref": "classes/11",
       "name": "Warlock"
     },
     "level": 1,
     "spellcasting_ability": {
-      "url": "http://www.dnd5eapi.co/api/ability-scores/6",
+      "ref": "ability-scores/6",
       "name": "CHA"
     },
     "info": [
@@ -324,14 +324,14 @@
     "url": "http://www.dnd5eapi.co/api/spellcasting/7"
   },
   {
-    "index": 8,
+    "id": "8",
     "class": {
-      "url": "http://www.dnd5eapi.co/api/classes/12",
+      "ref": "classes/12",
       "name": "Wizard"
     },
     "level": 1,
     "spellcasting_ability": {
-      "url": "http://www.dnd5eapi.co/api/ability-scores/4",
+      "ref": "ability-scores/4",
       "name": "INT"
     },
     "info": [
